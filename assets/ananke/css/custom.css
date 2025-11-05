@@ -1,0 +1,48 @@
+:root {
+  --primary: #cccccc;
+}
+a, .link, .bg-primary, .text-primary {
+  color: var(--primary) !important;
+}
+
+header.cover {
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  position: relative;
+}
+
+/* halbtransparentes Overlay (falls du mehr Kontrast willst) */
+header.cover .bg-black-60 {
+  background-color: rgba(0, 0, 0, 0.5) !important; /* dunkelt das Bild ab */
+}
+
+/* Titel-Text auf dem Header */
+header.cover h1 {
+  color: #ffffff;
+  text-shadow: 0 3px 6px rgba(0,0,0,0.7);
+  font-weight: 600;
+}
+
+/* Untertitel oder Paragraphen im Hero */
+header.cover p,
+header.cover .f3, header.cover .f4 {
+  color: #e5e5e5;
+}
+
+/* Titeltext wieder nach oben holen */
+header.cover h1,
+header.cover p {
+  position: relative;
+  z-index: 2;
+}
+
+.fc-hover-gray {
+  filter: grayscale(100%);
+  transition: filter 0.4s ease, transform 0.3s ease;
+}
+
+.fc-hover-gray:hover {
+  filter: grayscale(0%);
+  transform: scale(1.03);
+}

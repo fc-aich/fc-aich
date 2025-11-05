@@ -1,0 +1,61 @@
+backend:
+  name: github
+  repo: fc-aich/fc-aich   # z.B. fc-aich/fc-aich-website
+  branch: main
+  # Falls NICHT auf Netlify deployt (z.B. GitHub/Cloudflare Pages), kommt hier dein OAuth-Worker rein:
+  # base_url: https://sveltia-cms-auth.<dein-subdomain>.workers.dev
+  base_url: https://sveltia-cms-auth.engel-d67.workers.dev
+
+media_folder: "static/uploads"   # Dateien landen im Repo hier
+public_folder: "/uploads"        # öffentliche URL im Frontend
+
+site_url: "https://fc-aich.github.io"
+display_url: "https://fc-aich.github.io"
+
+local_backend: false             # optional; für reine Git-API-Workflows
+
+# Optional: Ausgaben an Decap-Verhalten angleichen
+# output:
+#   omit_empty_optional_fields: true
+
+collections:
+  - name: "news"
+    label: "News"
+    folder: "content/news"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { label: "Titel", name: "title", widget: "string" }
+      - { label: "Datum", name: "date", widget: "datetime" }
+      - { label: "Teaserbild", name: "image", widget: "image", required: false }
+      - { label: "Vorschautext", name: "summary", widget: "text", required: false }
+      - { label: "Inhalt", name: "body", widget: "markdown" }
+
+  - name: "spielberichte"
+    label: "Spielberichte"
+    folder: "content/spielberichte"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{opponent | slugify}}"
+    fields:
+      - { label: "Titel", name: "title", widget: "string" }
+      - { label: "Datum", name: "date", widget: "datetime" }
+      - { label: "Mannschaft", name: "team", widget: "select", options: ["1. Mannschaft","2. Mannschaft","Jugend"] }
+      - { label: "Gegner", name: "opponent", widget: "string" }
+      - { label: "Wettbewerb", name: "competition", widget: "string", required: false }
+      - { label: "Ergebnis", name: "score", widget: "string", hint: "z. B. 2:1", required: false }
+      - { label: "Galerie", name: "gallery", widget: "list", field: {label: "Bild", name: "image", widget: "image"}, required: false }
+      - { label: "Bericht", name: "body", widget: "markdown" }
+
+  - name: "vorstand"
+    label: "Vorstände"
+    folder: "content/vorstand"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Name", name: "title", widget: "string" }
+      - { label: "Rolle", name: "role", widget: "string" }
+      - { label: "Bild", name: "portrait", widget: "image" }
+      - { label: "E-Mail", name: "email", widget: "string", required: false }
+      - { label: "Telefon", name: "phone", widget: "string", required: false }
+      - { label: "Kurzbio", name: "body", widget: "markdown", required: false }
+

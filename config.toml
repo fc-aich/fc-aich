@@ -1,0 +1,67 @@
+baseURL = "https://fc-aich.github.io/"
+title = "FC Aich e.V."
+theme = "ananke"
+languageCode = "de-de"
+defaultContentLanguage = "de"
+#relativeURLs = true
+#canonifyURLs = true
+timeZone = "Europe/Berlin"
+
+[pagination]
+  paginate = 10
+
+[params]
+author = "FC Aich e.V."
+description = "Offizielle Website des FC Aich e.V. – Fussball im Landkreis Fuerstenfeldbruck"
+logo = "/img/fc-aich-logo.png"
+favicon = "favicon.ico"
+custom_css = ["custom.css"]
+style = "blue"
+date_format = "02.01.2006"
+about_us = "Der FC Aich ist ein Fussballverein im Landkreis Fuerstenfeldbruck. Von den Bambini bis zu den Alten Herren – bei uns gibt es Fussball fuer alle."
+copyright = "© {{ now.Year }} FC Aich e.V."
+email = "info@fc-aich.de"
+
+[[menu.main]]
+    name = "Start"
+    url  = "/"
+    weight = 1
+[[menu.main]]
+    name = "News"
+    url  = "/news/"
+    weight = 2
+[[menu.main]]
+    name = "Vorstand"
+    url  = "/vorstand/"
+    weight = 3
+[[menu.main]]
+    name = "Sportgelaende"
+    url  = "/sportgelaende/"
+    weight = 4
+[[menu.main]]
+    name = "Sponsoren"
+    url  = "/sponsoren/"
+    weight = 5
+[[menu.main]]
+    name = "Jugend"
+    url  = "/jugend/"
+    weight = 6
+[[menu.main]]
+    name = "1. Mannschaft"
+    url  = "/erste/"
+    weight = 7
+[[menu.main]]
+    name = "AH"
+    url  = "/ah/"
+    weight = 8
+[[menu.main]]
+    name = "Downloads"
+    url  = "/downloads/"
+    weight = 9
+[[menu.main]]
+    name = "Kontakt"
+    url  = "/kontakt/"
+    weight = 20
+
+[markup.goldmark.renderer]
+unsafe = true
