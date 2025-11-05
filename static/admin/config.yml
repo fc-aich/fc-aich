@@ -27,7 +27,7 @@ collections:
     fields:
       - { label: "Titel", name: "title", widget: "string" }
       - { label: "Datum", name: "date", widget: "datetime" }
-      - { label: "Teaserbild", name: "image", widget: "image", required: false }
+      - { label: "Teaserbild", name: "featured_image", widget: "image", required: false }
       - { label: "Vorschautext", name: "summary", widget: "text", required: false }
       - { label: "Inhalt", name: "body", widget: "markdown" }
 

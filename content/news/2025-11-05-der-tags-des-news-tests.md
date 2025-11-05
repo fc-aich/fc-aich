@@ -1,7 +1,7 @@
 ---
 title: Der Tags des News Tests
 date: 2025-11-05T15:08:00
-image: /uploads/foto1.jpg
+featured_image: /uploads/foto1.jpg
 summary: |-
   Was für ein Tag
 
