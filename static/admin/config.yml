@@ -4,7 +4,8 @@ backend:
   branch: main
   # Falls NICHT auf Netlify deployt (z.B. GitHub/Cloudflare Pages), kommt hier dein OAuth-Worker rein:
   # base_url: https://sveltia-cms-auth.<dein-subdomain>.workers.dev
-  base_url: https://sveltia-cms-auth.engel-d67.workers.dev
+  #base_url: https://sveltia-cms-auth.engel-d67.workers.dev
+  base_url: https://sveltia-cms-auth-fc-aich.engel-d67.workers.dev
 
 media_folder: "static/uploads"   # Dateien landen im Repo hier
 public_folder: "/uploads"        # öffentliche URL im Frontend
