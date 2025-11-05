@@ -9,8 +9,8 @@ backend:
 media_folder: "static/uploads"   # Dateien landen im Repo hier
 public_folder: "/uploads"        # öffentliche URL im Frontend
 
-site_url: "https://fc-aich.github.io"
-display_url: "https://fc-aich.github.io"
+site_url: "https://fc-aich.engelmann.me"
+display_url: "https://fc-aich.engelmann.me"
 
 local_backend: false             # optional; für reine Git-API-Workflows
 
@@ -45,17 +45,4 @@ collections:
       - { label: "Ergebnis", name: "score", widget: "string", hint: "z. B. 2:1", required: false }
       - { label: "Galerie", name: "gallery", widget: "list", field: {label: "Bild", name: "image", widget: "image"}, required: false }
       - { label: "Bericht", name: "body", widget: "markdown" }
-
-  - name: "vorstand"
-    label: "Vorstände"
-    folder: "content/vorstand"
-    create: true
-    slug: "{{slug}}"
-    fields:
-      - { label: "Name", name: "title", widget: "string" }
-      - { label: "Rolle", name: "role", widget: "string" }
-      - { label: "Bild", name: "portrait", widget: "image" }
-      - { label: "E-Mail", name: "email", widget: "string", required: false }
-      - { label: "Telefon", name: "phone", widget: "string", required: false }
-      - { label: "Kurzbio", name: "body", widget: "markdown", required: false }
 
