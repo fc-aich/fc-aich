@@ -1,0 +1,33 @@
+{{ define "main" }}
+<main class="content">
+  <header class="post-header">
+    <h1 class="f1 lh-title">{{ .Title | default "Spielberichte" }}</h1>
+  </header>
+
+  <section class="posts">
+    {{ range .Paginator.Pages }}
+      <article class="post-item">
+        <a class="post-link" href="{{ .RelPermalink }}">
+          <h2 class="f2 lh-title">{{ .Title }}</h2>
+          <div class="post-meta">
+            {{ with .Params.competition }}<span class="chip">{{ . }}</span>{{ end }}
+            <time class="chip" datetime="{{ .Date }}">{{ .Date | time.Format "02.01.2006" }}</time>
+          </div>
+          <div class="post-line">
+            {{ with .Params.team }}<span class="team">{{ . }}</span>{{ end }}
+            {{ if or .Params.team .Params.opponent }}<span class="vs">vs</span>{{ end }}
+            {{ with .Params.opponent }}<span class="team">{{ . }}</span>{{ end }}
+            {{ with .Params.score }}<span class="score-mini">{{ . }}</span>{{ end }}
+          </div>
+          {{ with .Params.featured_image }}
+            <img class="thumb" src="{{ . | relURL }}" alt="{{ $.Title }}">
+          {{ end }}
+          <p class="summary">{{ .Summary }}</p>
+        </a>
+      </article>
+    {{ end }}
+
+    {{ partial "pagination.html" . }}
+  </section>
+</main>
+{{ end }}
