@@ -1,0 +1,23 @@
+{{/* Rendert .Params.gallery aus dem Front Matter:
+gallery:
+  - /uploads/pic1.jpg
+  - /uploads/pic2.jpg
+oder:
+gallery:
+  - image: /uploads/pic1.jpg
+    caption: "Jubel nach dem 1:0"
+*/}}
+
+{{ $items := .Params.gallery }}
+{{ if not $items }}{{ return }}{{ end }}
+
+<div class="gallery-grid">
+  {{ range $i, $it := $items }}
+    {{ $src := cond (reflect.IsMap $it) (index $it "image") $it }}
+    {{ $cap := cond (reflect.IsMap $it) (index $it "caption") "" }}
+    <figure class="gallery-item">
+      <img loading="lazy" src="{{ $src | relURL }}" alt="{{ $.Title }} – Bild {{ add $i 1 }}">
+      {{ with $cap }}<figcaption>{{ . }}</figcaption>{{ end }}
+    </figure>
+  {{ end }}
+</div>
