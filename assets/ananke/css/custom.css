@@ -55,3 +55,46 @@ header.cover p {
 .gallery-item { margin: 0; }
 .gallery-item img { width: 100%; height: auto; display:block; border-radius: .5rem; }
 .gallery-item figcaption { font-size: .9rem; opacity:.8; margin-top:.25rem; }
+
+/* Match Card */
+.match-card {
+  margin: 1rem 0 2rem;
+  padding: 1rem 1.25rem;
+  background: rgba(0,0,0,.05);
+  border-radius: .75rem;
+}
+@media (prefers-color-scheme: dark){
+  .match-card { background: rgba(255,255,255,.06); }
+}
+
+.match-competition { display:flex; gap:.5rem; flex-wrap:wrap; margin-bottom:.5rem; }
+.chip {
+  display:inline-block; padding:.2rem .5rem; border-radius:9999px;
+  font-size:.85rem; line-height:1.2; background: rgba(0,0,0,.08);
+}
+@media (prefers-color-scheme: dark){ .chip{ background: rgba(255,255,255,.12); } }
+
+.match-teams {
+  display:flex; align-items:center; justify-content:center;
+  gap:.5rem; font-weight:700; font-size:1.35rem; text-align:center;
+}
+.match-teams .vs { opacity:.7; font-weight:600; }
+
+.match-score {
+  margin-top:.5rem;
+  font-variant-numeric: tabular-nums;
+  font-weight:800; font-size:2.5rem; line-height:1;
+  text-align:center;
+  letter-spacing:.02em;
+}
+
+.match-hero img { width:100%; height:auto; border-radius:.5rem; margin-top:1rem; }
+
+/* Listenseite */
+.post-item { margin: 1.25rem 0; }
+.post-item .post-meta { margin:.25rem 0 .25rem; display:flex; gap:.5rem; flex-wrap:wrap; }
+.post-line { display:flex; align-items:center; gap:.4rem; }
+.score-mini {
+  margin-left:auto; font-weight:800; font-variant-numeric: tabular-nums;
+}
+.thumb { width:100%; height:auto; border-radius:.5rem; margin-top:.5rem; }
