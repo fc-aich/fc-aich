@@ -8,9 +8,11 @@
 
     <div class="post-content">
       {{ .Content }}
-      {{/* Falls Redakteur das Gallery-Shortcode vergisst, optional automatisch anhängen: */}}
-      {{ if and (not (in .Content "{{< gallery >}}")) .Params.gallery }}
-        {{< gallery >}}
+
+      {{/* Fallback: Wenn im Front-Matter eine gallery: [...] steht, rendere sie hier,
+           ganz ohne Shortcode im Layout. (Der Shortcode im Markdown funktioniert weiterhin.) */}}
+      {{ with .Params.gallery }}
+        {{ partial "gallery-from-params.html" $ }}
       {{ end }}
     </div>
   </article>
