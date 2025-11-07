@@ -1,0 +1,32 @@
+{{/* Match-Metadaten für Spielberichte (Ananke) */}}
+{{ $team := .Params.team }}
+{{ $opp  := .Params.opponent }}
+{{ $comp := .Params.competition }}
+{{ $score := .Params.score }}
+
+<section class="match-card">
+  <div class="match-top">
+    <div class="match-competition">
+      {{ with $comp }}<span class="chip">{{ . }}</span>{{ end }}
+      <time class="chip" datetime="{{ .Date }}">{{ .Date | time.Format "02.01.2006" }}</time>
+    </div>
+
+    {{ if or $team $opp }}
+      <div class="match-teams">
+        <span class="team home">{{ with $team }}{{ . }}{{ else }}FC Aich{{ end }}</span>
+        <span class="vs">vs</span>
+        <span class="team away">{{ $opp }}</span>
+      </div>
+    {{ end }}
+
+    {{ with $score }}
+      <div class="match-score" aria-label="Ergebnis">{{ . }}</div>
+    {{ end }}
+  </div>
+
+  {{ with .Params.featured_image }}
+    <figure class="match-hero">
+      <img src="{{ . | relURL }}" alt="{{ $.Title }}">
+    </figure>
+  {{ end }}
+</section>
