@@ -43,25 +43,6 @@ email = "info@fc-aich.de"
     url  = "/sponsoren/"
     weight = 5
 [[menu.main]]
-    name = "Jugend"
-    url  = "/jugend/"
-    weight = 6
-[[menu.main]]
-    name = "Mannschaften"
-    url  = "/teams/"
-    identifier = "teams"
-    weight = 7
-[[menu.main]]
-    name = "Herren 1"
-    url  = "/herren1/"
-    parent = "teams"
-    weight = 71
-[[menu.main]]
-    name = "Damen 1"
-    url  = "/damen1/"
-    parent = "teams"
-    weight = 72
-[[menu.main]]
     name = "Vorstand"
     url  = "/vorstand/"
     weight = 8
