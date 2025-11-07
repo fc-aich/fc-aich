@@ -1,8 +1,11 @@
-{{/* Rendert .Params.gallery aus dem Front Matter:
+{{/* Akzeptiert beide Formen:
+
 gallery:
   - /uploads/pic1.jpg
   - /uploads/pic2.jpg
-oder:
+
+ODER
+
 gallery:
   - image: /uploads/pic1.jpg
     caption: "Jubel nach dem 1:0"
@@ -13,11 +16,15 @@ gallery:
 
 <div class="gallery-grid">
   {{ range $i, $it := $items }}
+    {{/* Wenn $it eine Map ist -> Objektform; sonst String (Pfad) */}}
     {{ $src := cond (reflect.IsMap $it) (index $it "image") $it }}
     {{ $cap := cond (reflect.IsMap $it) (index $it "caption") "" }}
-    <figure class="gallery-item">
-      <img loading="lazy" src="{{ $src | relURL }}" alt="{{ $.Title }} – Bild {{ add $i 1 }}">
-      {{ with $cap }}<figcaption>{{ . }}</figcaption>{{ end }}
-    </figure>
+
+    {{ if $src }}
+      <figure class="gallery-item">
+        <img loading="lazy" src="{{ $src | relURL }}" alt="{{ $.Title }} – Bild {{ add $i 1 }}">
+        {{ with $cap }}<figcaption>{{ . }}</figcaption>{{ end }}
+      </figure>
+    {{ end }}
   {{ end }}
 </div>
