@@ -1,0 +1,18 @@
+{{ define "main" }}
+<main class="content">
+  <article class="post">
+    <header class="post-header">
+      <h1 class="f1 lh-title">{{ .Title }}</h1>
+      {{ partial "match-meta.html" . }}
+    </header>
+
+    <div class="post-content">
+      {{ .Content }}
+      {{/* Falls Redakteur das Gallery-Shortcode vergisst, optional automatisch anhängen: */}}
+      {{ if and (not (in .Content "{{< gallery >}}")) .Params.gallery }}
+        {{< gallery >}}
+      {{ end }}
+    </div>
+  </article>
+</main>
+{{ end }}
