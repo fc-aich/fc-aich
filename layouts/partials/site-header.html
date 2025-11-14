@@ -6,9 +6,21 @@
 </div>
 
 {{ if $featured_image }}
-  {{/* Featured Image ohne Text-Overlay */}}
+  {{/* Featured Image mit Titel-Overlay */}}
   {{ $featured_image_class := site.Params.featured_image_class | compare.Default "cover bg-top" }}
-  <header class="{{ $featured_image_class }}" style="background-image: url('{{ $featured_image }}'); min-height: 30vh;">
+  <header class="hero-header {{ $featured_image_class }}" style="background-image: url('{{ $featured_image }}');">
+    <div class="hero-overlay">
+      <div class="hero-content tc-l pv4 pv5-l ph3 ph4-ns">
+        <h1 class="hero-title f2 f1-l fw6 white mb0 lh-title">
+          {{ .Title | compare.Default .Site.Title }}
+        </h1>
+        {{ with .Params.description }}
+          <h2 class="hero-subtitle fw4 f4 f3-l white-90 measure-wide-l center lh-copy mt3 mb0">
+            {{ . }}
+          </h2>
+        {{ end }}
+      </div>
+    </div>
   </header>
 {{ else }}
   {{/* Kein Featured Image: Titel direkt unter der Navigation */}}

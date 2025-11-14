@@ -82,21 +82,75 @@ nav[role="navigation"] ul li a.active::after {
   transform: scaleX(1);
 }
 
-/* Featured Image Header (ohne Text-Overlay) */
-header.cover {
+/* Featured Image Header mit Titel-Overlay */
+.hero-header {
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
   position: relative;
-  min-height: 30vh;
-  max-height: 50vh;
-  display: block;
+  min-height: 25vh;
+  max-height: 35vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
-/* Auf größeren Bildschirmen höher */
+/* Auf größeren Bildschirmen etwas höher */
 @media (min-width: 60em) {
-  header.cover {
-    min-height: 40vh;
+  .hero-header {
+    min-height: 30vh;
+    max-height: 40vh;
+  }
+}
+
+/* Gradient Overlay für bessere Lesbarkeit */
+.hero-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(
+    to bottom,
+    rgba(0, 0, 0, 0.3) 0%,
+    rgba(0, 0, 0, 0.5) 100%
+  );
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Hero Content */
+.hero-content {
+  position: relative;
+  z-index: 10;
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* Hero Title mit modernem Effekt */
+.hero-title {
+  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.4),
+               0 4px 16px rgba(0, 0, 0, 0.3);
+  animation: fadeInUp 0.8s ease-out;
+}
+
+/* Hero Subtitle */
+.hero-subtitle {
+  text-shadow: 0 1px 4px rgba(0, 0, 0, 0.4);
+  animation: fadeInUp 1s ease-out;
+}
+
+/* Fade-in Animation */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
   }
 }
 
