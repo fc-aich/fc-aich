@@ -32,19 +32,19 @@ collections:
       - { label: "Vorschautext", name: "summary", widget: "text", required: false }
       - { label: "Inhalt", name: "body", widget: "markdown" }
 
-  - name: "spielberichte"
-    label: "Spielberichte"
-    folder: "content/spielberichte"
-    create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{opponent | slugify}}"
-    fields:
-      - { label: "Titel", name: "title", widget: "string" }
-      - { label: "Datum", name: "date", widget: "datetime" }
-      - { label: "Mannschaft", name: "team", widget: "select", options: ["Damen 1", "Herren 1","Herren 2","A Jugend", "AH"] }
-      - { label: "Gegner", name: "opponent", widget: "string" }
-      - { label: "Wettbewerb", name: "competition", widget: "string", required: false }
-      - { label: "Ergebnis", name: "score", widget: "string", hint: "z. B. 2:1", required: false }
-      - { label: "Teaserbild", name: "featured_image", widget: "image", required: false }
-      - { label: "Galerie", name: "gallery", widget: "list", field: {label: "Bild", name: "image", widget: "image"}, required: false }
-      - { label: "Bericht", name: "body", widget: "markdown" }
+#  - name: "spielberichte"
+#    label: "Spielberichte"
+#    folder: "content/spielberichte"
+#    create: true
+#    slug: "{{year}}-{{month}}-{{day}}-{{opponent | slugify}}"
+#    fields:
+#      - { label: "Titel", name: "title", widget: "string" }
+#      - { label: "Datum", name: "date", widget: "datetime" }
+#      - { label: "Mannschaft", name: "team", widget: "select", options: ["Damen 1", "Herren 1","Herren 2","A Jugend", "AH"] }
+#      - { label: "Gegner", name: "opponent", widget: "string" }
+#      - { label: "Wettbewerb", name: "competition", widget: "string", required: false }
+#      - { label: "Ergebnis", name: "score", widget: "string", hint: "z. B. 2:1", required: false }
+#      - { label: "Teaserbild", name: "featured_image", widget: "image", required: false }
+#      - { label: "Galerie", name: "gallery", widget: "list", field: {label: "Bild", name: "image", widget: "image"}, required: false }
+#      - { label: "Bericht", name: "body", widget: "markdown" }
 
