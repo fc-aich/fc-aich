@@ -129,6 +129,31 @@ nav[role="navigation"] ul li a.active::after {
   margin: 0 auto;
 }
 
+/* Hero Logo (nur Homepage) */
+.hero-logo-container {
+  position: relative;
+  z-index: 20;
+  margin-top: 1.5rem;
+  margin-bottom: -3rem;
+}
+
+.hero-logo {
+  width: 230px;
+  height: auto;
+  filter: drop-shadow(0 4px 12px rgba(0, 0, 0, 0.4));
+  animation: fadeInUp 1s ease-out;
+}
+
+@media (min-width: 60em) {
+  .hero-logo {
+    width: 280px;
+  }
+  .hero-logo-container {
+    margin-top: 2rem;
+    margin-bottom: -4rem;
+  }
+}
+
 /* Hero Title mit modernem Effekt */
 .hero-title {
   text-shadow: 0 2px 8px rgba(0, 0, 0, 0.4),

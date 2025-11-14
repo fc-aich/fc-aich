@@ -5,7 +5,6 @@ featured_image: "img/soccer_1920.jpg"
 ---
 
 <div class="text-center">
-  <img src="img/fc-aich-logo.png" alt="FC Aich Logo" style="max-width:180px;margin-bottom:1rem;">
   <h2>Fussball. Leidenschaft. Gemeinschaft.</h2>
   <p>Willkommen auf der Homepage des <strong>FC Aich</strong></p>
 </div>

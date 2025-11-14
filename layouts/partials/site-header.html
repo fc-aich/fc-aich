@@ -11,9 +11,20 @@
   <header class="hero-header {{ $featured_image_class }}" style="background-image: url('{{ $featured_image }}');">
     <div class="hero-overlay">
       <div class="hero-content tc-l pv4 pv5-l ph3 ph4-ns">
-        <h1 class="hero-title f2 f1-l fw6 white mb0 lh-title">
-          {{ .Title | compare.Default .Site.Title }}
-        </h1>
+        {{ if .IsHome }}
+          {{/* Homepage: Titel über Logo */}}
+          <h1 class="hero-title f2 f1-l fw6 white mb0 lh-title">
+            {{ .Title | compare.Default .Site.Title }}
+          </h1>
+          <div class="hero-logo-container">
+            <img src="/img/fc-aich-logo.svg" alt="FC Aich Logo" class="hero-logo">
+          </div>
+        {{ else }}
+          {{/* Andere Seiten: Nur Titel */}}
+          <h1 class="hero-title f2 f1-l fw6 white mb0 lh-title">
+            {{ .Title | compare.Default .Site.Title }}
+          </h1>
+        {{ end }}
         {{ with .Params.description }}
           <h2 class="hero-subtitle fw4 f4 f3-l white-90 measure-wide-l center lh-copy mt3 mb0">
             {{ . }}
