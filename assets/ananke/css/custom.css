@@ -1,40 +1,103 @@
 :root {
   --primary: #999999;
+  --nav-hover: #ffffff;
+  --nav-text: rgba(255, 255, 255, 0.85);
 }
 a, .link, .bg-primary, .text-primary {
   color: var(--primary) !important;
 }
 
+/* ===== Navigation Styling ===== */
+nav[role="navigation"] {
+  background: #000000;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+/* Logo Styling */
+nav[role="navigation"] a[href="/"] {
+  transition: opacity 0.3s ease;
+}
+
+nav[role="navigation"] a[href="/"] img {
+  height: 50px;
+  width: auto;
+  display: block;
+}
+
+/* Auf größeren Bildschirmen etwas größer */
+@media (min-width: 60em) {
+  nav[role="navigation"] a[href="/"] img {
+    height: 60px;
+  }
+}
+
+nav[role="navigation"] a[href="/"]:hover {
+  opacity: 0.85;
+}
+
+/* Menu Items */
+nav[role="navigation"] ul li {
+  position: relative;
+}
+
+nav[role="navigation"] ul li a {
+  color: var(--nav-text) !important;
+  text-decoration: none;
+  padding: 0.5rem 0.75rem;
+  display: inline-block;
+  position: relative;
+  transition: color 0.3s ease;
+  font-weight: 500;
+  letter-spacing: 0.025em;
+}
+
+/* Hover Effect: Underline von links */
+nav[role="navigation"] ul li a::after {
+  content: '';
+  position: absolute;
+  bottom: 0.25rem;
+  left: 0.75rem;
+  right: 0.75rem;
+  height: 2px;
+  background: var(--nav-hover);
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 0.3s ease;
+}
+
+nav[role="navigation"] ul li a:hover {
+  color: var(--nav-hover) !important;
+}
+
+nav[role="navigation"] ul li a:hover::after {
+  transform: scaleX(1);
+}
+
+/* Aktive Seite (falls die URL übereinstimmt) */
+nav[role="navigation"] ul li a.active {
+  color: var(--nav-hover) !important;
+}
+
+nav[role="navigation"] ul li a.active::after {
+  transform: scaleX(1);
+}
+
+/* Featured Image Header (ohne Text-Overlay) */
 header.cover {
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
   position: relative;
+  min-height: 30vh;
+  max-height: 50vh;
+  display: block;
 }
 
-/* halbtransparentes Overlay (falls du mehr Kontrast willst) */
-header.cover .bg-black-60 {
-  background-color: rgba(0, 0, 0, 0.5) !important; /* dunkelt das Bild ab */
-}
-
-/* Titel-Text auf dem Header */
-header.cover h1 {
-  color: #ffffff;
-  text-shadow: 0 3px 6px rgba(0,0,0,0.7);
-  font-weight: 600;
-}
-
-/* Untertitel oder Paragraphen im Hero */
-header.cover p,
-header.cover .f3, header.cover .f4 {
-  color: #e5e5e5;
-}
-
-/* Titeltext wieder nach oben holen */
-header.cover h1,
-header.cover p {
-  position: relative;
-  z-index: 2;
+/* Auf größeren Bildschirmen höher */
+@media (min-width: 60em) {
+  header.cover {
+    min-height: 40vh;
+  }
 }
 
 .fc-hover-gray {

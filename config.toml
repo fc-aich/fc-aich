@@ -13,7 +13,7 @@ timeZone = "Europe/Berlin"
 [params]
 #author = "FC Aich"
 description = "Offizielle Website des FC Aich – Fussball im Landkreis Fuerstenfeldbruck"
-logo = "/img/fc-aich-logo.png"
+site_logo = "/img/fc-aich-logo.svg"
 favicon = "favicon.ico"
 custom_css = ["custom.css"]
 style = "blue"
