@@ -1,6 +1,7 @@
 
 ---
 title: "Jugend"
+featured_image: "img/soccer_1920.jpg"
 ---
 
 Beim FC Aich spielt der Nachwuchs die Hauptrolle. Wir bieten Teams von **G‑ bis A‑Jugend**.

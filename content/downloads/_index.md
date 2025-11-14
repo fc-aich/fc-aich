@@ -5,9 +5,15 @@ title: "Downloads"
 
 Hier finden Mitglieder und Interessierte wichtige Dokumente zum Herunterladen.
 
-### Formulare
-- [Beitrittserklaerung (PDF)](/downloads/Beitrittserklaerung.pdf)
-- [SEPA-Lastschriftmandat (PDF)](/downloads/SEPA-Lastschriftmandat.pdf)
-- [Satzung (PDF)](/downloads/Satzung.pdf)
+[Satzung (PDF)](/downloads/satzung_fca_stand_14-11-2013.pdf)
 
-> Bitte ersetzt die Platzhalter-PDFs im Ordner `static/downloads/` durch eure echten Dokumente.
+### Formulare
+
+
+- [Beitrittserklaerung (PDF)](/downloads/FC-Aich-Beitrittserklaerung-Datenschutzerklaerung.pdf)
+- [Passantrag Erwachsene (PDF)](/downloads/Passantrag_Erwachsene_online_stand_15.01.19.pdf)
+- [Passantrag Jugend (PDF)](/downloads/Passantrag-Jugend-Online-Stand-15.01.19-Passantrag_Jugend.pdf)
+- [Jugendleiter- und Trainerübersicht 2024/ 2025](/downloads/Jugendleiter-und-Traineruebersicht-2024-2025.pdf)
+- [Trainingsplatzbelegung 2023/ 2024](/downloads/FC-Aich-Platzbelegung-2022-2023.pdf)
+- [Trainingszeiten und Heimspiele 2024/ 2025](/downloads/Trainingszeiten-Heimspiele-2024-2025.pdf)
+- [Hallentrainingszeiten 2024 / 2025](/downloads/FC-Aich-Hallentrainingszeiten-2024-2025.pdf)

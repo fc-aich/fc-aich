@@ -3,6 +3,9 @@
 title: "Kontakt"
 ---
 
-**FC Aich e.V.**  
-Musterstrasse 1 · 82237 Aich  
+**FC Aich**  
+Nannhofer Str. 16
+
+82256 Fürstenfeldbruck
+
 E-Mail: info@fc-aich.de

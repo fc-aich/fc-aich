@@ -1,5 +1,5 @@
 :root {
-  --primary: #cccccc;
+  --primary: #999999;
 }
 a, .link, .bg-primary, .text-primary {
   color: var(--primary) !important;

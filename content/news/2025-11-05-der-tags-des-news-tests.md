@@ -1,5 +1,5 @@
 ---
-title: Der Tags des News Tests
+title: Neues zu den neusten News
 date: 2025-11-05T15:08:00
 featured_image: /uploads/foto1.jpg
 summary: |-

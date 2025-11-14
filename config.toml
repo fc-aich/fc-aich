@@ -1,5 +1,5 @@
 baseURL = "https://fc-aich.engelmann.me/"
-title = "FC Aich e.V."
+title = "FC Aich"
 theme = "ananke"
 languageCode = "de-de"
 defaultContentLanguage = "de"
@@ -11,19 +11,19 @@ timeZone = "Europe/Berlin"
   paginate = 10
 
 [params]
-author = "FC Aich e.V."
-description = "Offizielle Website des FC Aich e.V. – Fussball im Landkreis Fuerstenfeldbruck"
+#author = "FC Aich"
+description = "Offizielle Website des FC Aich – Fussball im Landkreis Fuerstenfeldbruck"
 logo = "/img/fc-aich-logo.png"
 favicon = "favicon.ico"
 custom_css = ["custom.css"]
 style = "blue"
 date_format = "02.01.2006"
 about_us = "Der FC Aich ist ein Fussballverein im Landkreis Fuerstenfeldbruck. Von den Bambini bis zu den Alten Herren – bei uns gibt es Fussball fuer alle."
-copyright = "© {{ now.Year }} FC Aich e.V."
+copyright = "© {{ now.Year }} FC Aich"
 email = "info@fc-aich.de"
 
 [[menu.main]]
-    name = "Start"
+    name = "Home"
     url  = "/"
     weight = 1
 [[menu.main]]
@@ -31,25 +31,41 @@ email = "info@fc-aich.de"
     url  = "/news/"
     weight = 2
 [[menu.main]]
-    name = "Spielberichte"
-    url  = "/spielberichte/"
+    name = "Zeitung"
+    url  = "/zeitung/"
     weight = 3
 [[menu.main]]
-    name = "Sportgelaende"
-    url  = "/sportgelaende/"
+    name = "Shop"
+    url  = "/shop/"
     weight = 4
 [[menu.main]]
-    name = "Sponsoren"
-    url  = "/sponsoren/"
-    weight = 5
+    name = "1. Mannschaft"
+    url  = "/herren1/"
+    weight = 6
+[[menu.main]]
+    name = "2. Mannschaft"
+    url  = "/herren2/"
+    weight = 7
+[[menu.main]]
+    name = "Damen"
+    url  = "/damen/"
+    weight = 8
+[[menu.main]]
+    name = "Jugend"
+    url  = "/jugend/"
+    weight = 9
+[[menu.main]]
+    name = "A-Herren"
+    url  = "/ah/"
+    weight = 10
 [[menu.main]]
     name = "Vorstand"
     url  = "/vorstand/"
-    weight = 8
+    weight = 15
 [[menu.main]]
     name = "Downloads"
     url  = "/downloads/"
-    weight = 9
+    weight = 18
 [[menu.main]]
     name = "Kontakt"
     url  = "/kontakt/"
