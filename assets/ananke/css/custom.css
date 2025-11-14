@@ -84,32 +84,41 @@ nav[role="navigation"] ul li a.active::after {
 
 /* Featured Image Header mit Titel-Overlay */
 .hero-header {
-  background-size: cover;
-  background-position: center center;
-  background-repeat: no-repeat;
   position: relative;
-  min-height: 25vh;
-  max-height: 35vh;
+  min-height: 30vh;
   display: flex;
   align-items: center;
   justify-content: center;
+  width: 100%;
+  overflow: visible;
 }
 
-/* Auf größeren Bildschirmen etwas höher */
+/* Hintergrundbild als <img> */
+.hero-bg-image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center center;
+  z-index: 1;
+  display: block;
+}
+
+/* Desktop: größere Höhe */
 @media (min-width: 60em) {
   .hero-header {
-    min-height: 30vh;
-    max-height: 40vh;
+    min-height: 35vh;
   }
 }
 
 /* Gradient Overlay für bessere Lesbarkeit */
 .hero-overlay {
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  min-height: 30vh;
   background: linear-gradient(
     to bottom,
     rgba(0, 0, 0, 0.3) 0%,
@@ -118,6 +127,13 @@ nav[role="navigation"] ul li a.active::after {
   display: flex;
   align-items: center;
   justify-content: center;
+  z-index: 2;
+}
+
+@media (min-width: 60em) {
+  .hero-overlay {
+    min-height: 35vh;
+  }
 }
 
 /* Hero Content */
@@ -133,12 +149,15 @@ nav[role="navigation"] ul li a.active::after {
 .hero-logo-container {
   position: relative;
   z-index: 20;
-  margin-top: 1.5rem;
+  margin-top: 1rem;
   margin-bottom: -3rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
 }
 
 .hero-logo {
-  width: 230px;
+  width: 160px;
   height: auto;
   filter: drop-shadow(0 4px 12px rgba(0, 0, 0, 0.4));
   animation: fadeInUp 1s ease-out;
@@ -150,7 +169,7 @@ nav[role="navigation"] ul li a.active::after {
   }
   .hero-logo-container {
     margin-top: 2rem;
-    margin-bottom: -4rem;
+    margin-bottom: -5rem;
   }
 }
 

@@ -7,13 +7,13 @@
 
 {{ if $featured_image }}
   {{/* Featured Image mit Titel-Overlay */}}
-  {{ $featured_image_class := site.Params.featured_image_class | compare.Default "cover bg-top" }}
-  <header class="hero-header {{ $featured_image_class }}" style="background-image: url('{{ $featured_image }}');">
+  <header class="hero-header">
+    <img src="{{ $featured_image | absURL }}" alt="" class="hero-bg-image">
     <div class="hero-overlay">
       <div class="hero-content tc-l pv4 pv5-l ph3 ph4-ns">
         {{ if .IsHome }}
           {{/* Homepage: Titel über Logo */}}
-          <h1 class="hero-title f2 f1-l fw6 white mb0 lh-title">
+          <h1 class="hero-title hero-title-home f3 f1-l fw6 white mb0 lh-title">
             {{ .Title | compare.Default .Site.Title }}
           </h1>
           <div class="hero-logo-container">
