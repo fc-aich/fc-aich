@@ -11,7 +11,7 @@ featured_image: "img/soccer_1920.jpg"
 
 Gegründet 1924, ist der FC Aich seit nunmehr über 100 Jahren im Fußballsport aktiv. Heute bieten wir Interessierten Spaß am Fußball in allen Jugendbereichen bis hin zu den Aktiven Herren.
 
-Um Mitglied zu werden, füllen Sie die einfach die Beitrittserklärung aus und lassen diese unserem Verein zukommen.
+Um Mitglied zu werden, füllen Sie einfach die Beitrittserklärunng unter dem Menüpunkt Downloads aus und lassen diese dem Verein zukommen.
 
 ## Aktuelles
 
