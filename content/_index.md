@@ -5,7 +5,7 @@ featured_image: "img/soccer_1920.jpg"
 ---
 
 <div class="text-center">
-  <h2>Spaß am Fußball.</h2>
+  <h2>Spaß am Fußball</h2>
   <p>Willkommen auf der Homepage des <strong>FC Aich</strong></p>
 </div>
 
