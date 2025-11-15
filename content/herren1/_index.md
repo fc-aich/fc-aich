@@ -6,9 +6,9 @@ featured_image: "img/fotos/1-mannschaft-titel.jpg"
 
 Hier findet ihr Infos, Kader und Spieltermine der **Ersten**.
 
-- Trainer: N.N.  
+- Trainer: Marcel Aue  
 - Trainingszeiten: Di & Do 19:30–21:00  
-- Heimspiele: Sonntags 15:00 Uhr
+- Heimspiele: Samstags 15:00 Uhr
 
 > Verlinkt hier spaeter den Spielplan (BFV) und aktualisiert Kader & Bilder.
 
