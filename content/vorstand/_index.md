@@ -18,7 +18,7 @@ Nannhofer Str. 16
 
 Lernen Sie den Vorstand des FC Aich kennen.
 
-<img src="/img/people/Vorstand-2025.jpg" alt="Markus Magg" class="fc-hover-gray" width="800">
+<img src="/img/people/Vorstand-2025.jpg" alt="Vorstand" class="fc-hover-gray" width="800">
 
 
 ### 1. Vorstand – Michael Eberhart
@@ -72,8 +72,8 @@ E-Mail: marcel.lorenz@fc-aich.de
 
 E-Mail: arved.remmers@fc-aich.de
 
-### Beisitzer Finanzen & Veranstaltungen – Markus Magg
-<img src="/img/people/markus-maugg.jpg" alt="Markus Magg" class="fc-hover-gray" width="250">
+### Beisitzer Finanzen & Veranstaltungen – Markus Maugg
+<img src="/img/people/markus-maugg.jpg" alt="Markus Maugg" class="fc-hover-gray" width="250">
 
 E-Mail:	markus.maugg@fc-aich.de
 
