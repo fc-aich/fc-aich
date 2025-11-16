@@ -10,8 +10,8 @@ backend:
 media_folder: "static/uploads"   # Dateien landen im Repo hier
 public_folder: "/uploads"        # öffentliche URL im Frontend
 
-site_url: "https://fc-aich.engelmann.me"
-display_url: "https://fc-aich.engelmann.me"
+site_url: "https://fc-aich.de"
+display_url: "https://fc-aich.de"
 
 local_backend: false             # optional; für reine Git-API-Workflows
 
