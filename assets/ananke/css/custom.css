@@ -82,6 +82,80 @@ nav[role="navigation"] ul li a.active::after {
   transform: scaleX(1);
 }
 
+/* ===== Dropdown Menu ===== */
+/* Dropdown Container */
+.nav-item.has-dropdown {
+  position: relative;
+}
+
+/* Dropdown Menu versteckt per default */
+.dropdown-menu {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background: #1a1a1a;
+  min-width: 200px;
+  padding: 0.5rem 0;
+  margin: 0;
+  border-radius: 0 0 0.5rem 0.5rem;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(-10px);
+  transition: opacity 0.3s ease, transform 0.3s ease, visibility 0.3s;
+  z-index: 1000;
+  list-style: none;
+}
+
+/* Dropdown anzeigen bei Hover */
+.nav-item.has-dropdown:hover .dropdown-menu {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+}
+
+/* Dropdown Items */
+.dropdown-item {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.dropdown-item a {
+  display: block !important;
+  padding: 0.6rem 1.25rem !important;
+  color: var(--nav-text) !important;
+  text-decoration: none;
+  transition: background-color 0.2s ease, color 0.2s ease;
+  white-space: nowrap;
+}
+
+.dropdown-item a::after {
+  display: none !important; /* Kein Underline-Effekt im Dropdown */
+}
+
+.dropdown-item a:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+  color: var(--nav-hover) !important;
+}
+
+/* Mobile: Dropdown untereinander statt nebeneinander */
+@media (max-width: 59.99em) {
+  .dropdown-menu {
+    position: static;
+    opacity: 1;
+    visibility: visible;
+    transform: none;
+    box-shadow: none;
+    background: transparent;
+    padding-left: 1rem;
+  }
+
+  .nav-item.has-dropdown > a::after {
+    content: ' ▾';
+  }
+}
+
 /* Featured Image Header mit Titel-Overlay */
 .hero-header {
   position: relative;

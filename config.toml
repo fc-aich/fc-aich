@@ -54,14 +54,71 @@ email = "info@fc-aich.de"
     name = "Jugend"
     url  = "/jugend/"
     weight = 9
+
+  # Untermenüpunkte für Jugend
+  [[menu.main]]
+    name = "A-Jugend"
+    parent = "Jugend"
+    url  = "/jugend/a-jugend/"
+    weight = 1
+  [[menu.main]]
+    name = "B-Jugend"
+    parent = "Jugend"
+    url  = "/jugend/b-jugend/"
+    weight = 2
+  [[menu.main]]
+    name = "C-Jugend"
+    parent = "Jugend"
+    url  = "/jugend/c-jugend/"
+    weight = 3
+  [[menu.main]]
+    name = "D-Jugend"
+    parent = "Jugend"
+    url  = "/jugend/d-jugend/"
+    weight = 4
+  [[menu.main]]
+    name = "E-Jugend"
+    parent = "Jugend"
+    url  = "/jugend/e-jugend/"
+    weight = 5
+  [[menu.main]]
+    name = "F-Jugend"
+    parent = "Jugend"
+    url  = "/jugend/f-jugend/"
+    weight = 6
+  [[menu.main]]
+    name = "G-Jugend"
+    parent = "Jugend"
+    url  = "/jugend/g-jugend/"
+    weight = 7
+
 [[menu.main]]
     name = "A-Herren"
     url  = "/ah/"
     weight = 10
+
 [[menu.main]]
-    name = "Vorstand"
-    url  = "/vorstand/"
+    name = "Verein"
+    url  = "/verein/"
     weight = 15
+
+  # Untermenüpunkte für Verein
+  [[menu.main]]
+    name = "Vorstand"
+    parent = "Verein"
+    url  = "/verein/vorstand/"
+    weight = 1
+  [[menu.main]]
+    name = "Sportgelände"
+    parent = "Verein"
+    url  = "/verein/sportgelaende/"
+    weight = 2
+  [[menu.main]]
+    name = "Sponsoren"
+    parent = "Verein"
+    url  = "/verein/sponsoren/"
+    weight = 3
+
 [[menu.main]]
     name = "Downloads"
     url  = "/downloads/"

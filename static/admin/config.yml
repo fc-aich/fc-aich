@@ -28,6 +28,7 @@ collections:
     fields:
       - { label: "Titel", name: "title", widget: "string" }
       - { label: "Datum", name: "date", widget: "datetime" }
+      - { label: "Kategorie", name: "categories", widget: "select", options: ["allgemein", "1.mannschaft", "2.mannschaft","damen", "AH", "jugend"], multiple: true, default: "allgemein" }
       - { label: "Teaserbild", name: "featured_image", widget: "image", required: false }
       - { label: "Vorschautext", name: "summary", widget: "text", required: false }
       - { label: "Inhalt", name: "body", widget: "markdown" }
