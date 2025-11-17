@@ -1,10 +1,11 @@
 ---
-author: lutz.goehricke
-date: "2025-10-07T06:37:05+00:00"
-title: "Kopf hoch Mädels..."
+title: Kopf hoch Mädels...
+date: 2025-10-07T08:37:00
 categories:
   - damen
 featured_image: /wp-content/uploads/2025/10/image1.jpeg
+summary: SG SpVgg Wildenroth / FC Aich – SC Pöcking 2:4 (1:3)
+author: lutz.goehricke
 ---
 _SG SpVgg Wildenroth / FC Aich – SC Pöcking 2:4 (1:3)_
 
@@ -15,6 +16,5 @@ Das Spiel lief noch keine 3 Minuten, als der SC Pöcking das 0:1 schoss. Unsere 
 Unsere Damen von der SG Wildenroth / FC Aich konnten sich in der Halbzeitpause sammeln und fanden besser ins Spiel. Dennoch konnte der SC Pöcking in der 85. Minute das 1:4 erzielen. In den letzten Minuten der Partie konnte Lisa Schmölzl das Ergebnis noch auf 2:4 verkürzen.
 
 Kopf hoch Mädels, das nächste Spiel wird besser!
-
 
 ![Kopf hoch Mädels](/wp-content/uploads/2025/10/image1.jpeg)
