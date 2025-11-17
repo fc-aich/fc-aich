@@ -1,6 +1,6 @@
 ---
 title: "Verein und Vorstand"
-featured_image: "img/soccer_1920.jpg"
+featured_image: ""
 ---
 
 # Verein

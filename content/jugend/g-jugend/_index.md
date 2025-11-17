@@ -3,8 +3,14 @@ title: "G-Jugend"
 featured_image: ""
 ---
 
-Hier findet ihr Infos, Kader und Spieltermine der **G-Jugend** (Bambini).
+Hier findet ihr Infos, Kader und Spieltermine der **G-Jugend**.
 
-- Trainer: TBD
-- Trainingszeiten: TBD
-- Heimspiele: TBD
+## Trainer:
+  - **Reiner Jahnel** (0173/9405192)
+  - Günther Biefel (0176/34347100)
+
+Trainingszeiten: Mo 17:30 - 19:00 & Fr 17:00 - 18:30  
+Heimspiele: Samstag 9:00 oder 10:00
+
+
+**Ihr wollt reinschnuppern? Kommt einfach zum Training – wir freuen uns!**

@@ -62,20 +62,10 @@ email = "info@fc-aich.de"
     url  = "/jugend/a-jugend/"
     weight = 1
   [[menu.main]]
-    name = "B-Jugend"
-    parent = "Jugend"
-    url  = "/jugend/b-jugend/"
-    weight = 2
-  [[menu.main]]
     name = "C-Jugend"
     parent = "Jugend"
     url  = "/jugend/c-jugend/"
     weight = 3
-  [[menu.main]]
-    name = "D-Jugend"
-    parent = "Jugend"
-    url  = "/jugend/d-jugend/"
-    weight = 4
   [[menu.main]]
     name = "E-Jugend"
     parent = "Jugend"
