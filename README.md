@@ -2,7 +2,7 @@
 
 Die moderne, Hugo-basierte Website des **FC Aich e.V.**, einem Fußballverein im Landkreis Fürstenfeldbruck.
 
-🌐 **Live-Website:** [https://fc-aich.engelmann.me](https://fc-aich.engelmann.me) (vorübergehend) / [https://fc-aich.de](https://fc-aich.de) (produktiv)
+🌐 **Live-Website:** [https://fc-aich.de](https://fc-aich.de) (produktiv)
 
 ---
 
@@ -21,12 +21,13 @@ Die moderne, Hugo-basierte Website des **FC Aich e.V.**, einem Fußballverein im
 
 ## 🎯 Projektübersicht
 
-Dieses Projekt ist die Neuauflage der FC Aich Website, die von **WordPress auf Hugo migriert** wurde. Die alte WordPress-Site wurde gehackt und enthielt zahlreiche Spam-Seiten über Glücksspiel und Casinos.
+Dieses Projekt ist die Neuauflage der FC Aich Website, die von **WordPress auf Hugo migriert** wurde. Die alte WordPress-Site war nicht mehr auf dem aktullsten Stand der Technik und musste abgeschaltet werden.
 
 ### Ziele der Migration:
 - ✅ Sicherheit durch statische Website (keine Datenbank, kein PHP)
 - ✅ Schnelle Ladezeiten
 - ✅ Moderne, responsive Darstellung
+- ✅ Angepasste Darstellung auf dem Handy
 - ✅ Einfache Content-Verwaltung über Sveltia CMS
 - ✅ Kostenfreies Hosting via GitHub Pages
 - ✅ Automatisches Deployment via GitHub Actions
@@ -76,16 +77,11 @@ Dieses Projekt ist die Neuauflage der FC Aich Website, die von **WordPress auf H
    cd fc-aich
    ```
 
-2. **Theme-Submodule initialisieren:**
+2. **Development Server starten:**
    ```bash
-   git submodule update --init --recursive
-   ```
-
-3. **Development Server starten:**
-   ```bash
-   hugo server
+   hugo server -w
    # oder mit Drafts:
-   hugo server -D
+   hugo server -w -D
    ```
 
    Die Website ist dann unter `http://localhost:1313` erreichbar.
@@ -149,7 +145,7 @@ Der Worker übernimmt folgende Aufgaben:
 ```yaml
 ---
 title: "Vorbereitung hat begonnen"
-date: "2016-07-17T19:33:28+00:00"
+date: "2025-11-17T19:33:28+00:00"
 categories:
   - 1.mannschaft
   - 2.mannschaft
@@ -159,11 +155,6 @@ summary: "Endlich rollt die Kugel wieder..."
 
 Hier kommt der Artikel-Inhalt...
 ```
-
-#### Spielberichte (vorbereitet, aktuell deaktiviert)
-- **Ordner:** `content/spielberichte/`
-- **Spezielle Metadaten:** Gegner, Ergebnis, Wettbewerb
-- **Gallery-Support:** Automatische Bildergalerien
 
 ### Workflow im CMS
 
@@ -416,7 +407,7 @@ public_folder: "/uploads"
 ### Neue Inhalte erstellen
 
 **Via CMS (empfohlen):**
-1. [CMS öffnen](https://fc-aich.engelmann.me/admin/)
+1. [CMS öffnen](https://fc-aich.de/admin/)
 2. Einloggen mit GitHub
 3. "New News" klicken
 4. Inhalt erstellen und publishen
@@ -447,7 +438,7 @@ public_folder: "/uploads"
 ## 📞 Kontakt
 
 **FC Aich e.V.**
-Fußballverein im Landkreis Fürstenfeldbruck
+Der Fußballverein im Landkreis Fürstenfeldbruck
 
 - 🌐 Website: [fc-aich.de](https://fc-aich.de)
 - 📧 Email: info@fc-aich.de
@@ -462,7 +453,3 @@ Dieses Projekt ist privat und nur für den internen Gebrauch des FC Aich e.V. be
 Das verwendete [Ananke Theme](https://github.com/theNewDynamic/gohugo-theme-ananke) steht unter der MIT-Lizenz.
 
 ---
-
-**Letztes Update:** November 2025
-**Hugo Version:** v0.152.2+extended
-**Sveltia CMS:** Latest
