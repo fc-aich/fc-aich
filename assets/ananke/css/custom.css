@@ -358,6 +358,33 @@ nav[role="navigation"] ul li a.active::after {
 .bfv-widget {
   width: 100%;
   max-width: 400px;
+  opacity: 0;
+  animation: fadeInScale 0.6s ease-out forwards;
+}
+
+/* Gestaffelte Animation für jedes Widget */
+.bfv-widget-left {
+  animation-delay: 0.1s;
+}
+
+.bfv-widget-center {
+  animation-delay: 0.3s;
+}
+
+.bfv-widget-right {
+  animation-delay: 0.5s;
+}
+
+/* Animation: Fade-in mit leichtem Scale */
+@keyframes fadeInScale {
+  from {
+    opacity: 0;
+    transform: translateY(20px) scale(0.95);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
 }
 
 /* Mobile: Nur mittleres Widget (Spiele) anzeigen */
