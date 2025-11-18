@@ -1,0 +1,58 @@
+{{ define "main" }}
+  <article class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy nested-links {{ $.Param "text_color" | compare.Default "mid-gray" }}">
+    {{ .Content }}
+  </article>
+
+  {{/* BFV Widget Script einmalig laden */}}
+  <script type="text/javascript" src="https://widget-prod.bfv.de/widget/widgetresource/widgetjs"></script>
+
+  {{/* Drei-Spalten-Layout für BFV Widgets */}}
+  <div class="bfv-widgets-container w-100 ph3 ph4-ns pv4">
+    <div class="bfv-widgets-grid">
+
+      {{/* Links - Tabelle (nur Desktop) */}}
+      <div class="bfv-widget bfv-widget-left">
+        <div id="bfv1763480198973">Laden...</div>
+        <script>
+        BFVWidget.HTML5.zeigeWettbewerbsTabelle("02TLUJHH8K000004VS5489BTVT4H6CF2-G", "bfv1763480198973", { height: "640",  width: "380", teamPermanentId: "02PQGJKEHC000000VS5489B1VU7RM1AE", colorResults: "undefined", colorNav: "undefined", colorClubName: "undefined", backgroundNav: "undefined"});
+        </script>
+      </div>
+
+      {{/* Mitte - Spiele (Desktop & Mobile) */}}
+      <div class="bfv-widget bfv-widget-center">
+        <div id="bfv1763480338941">Laden...</div>
+        <script>
+        BFVWidget.HTML5.zeigeMannschaftKomplett("02PQGJKEHC000000VS5489B1VU7RM1AE", "bfv1763480338941", { height: "640", width: "380", selectedTab:BFVWidget.HTML5.mannschaftTabs.spiele, colorResults: "rgb(32,32,96)", colorNav: "undefined", colorClubName: "rgb(32,32,96)", backgroundNav: "undefined"});
+        </script>
+      </div>
+
+      {{/* Rechts - Spielbericht (nur Desktop) */}}
+      <div class="bfv-widget bfv-widget-right">
+        <div id="bfv1763480400844">Laden...</div>
+        <script>
+        BFVWidget.HTML5.zeigeSpielbericht("02PQGJKEHC000000VS5489B1VU7RM1AE", "bfv1763480400844", { height: "640", width: "380", colorResults: "rgb(32,32,96)", colorNav: "undefined", colorClubName: "undefined", backgroundNav: "undefined"});
+        </script>
+      </div>
+
+    </div>
+  </div>
+
+  {{/* News-Artikel mit category "damen" anzeigen */}}
+  {{ $related_posts := where site.RegularPages "Section" "news" }}
+  {{ $related_posts = where $related_posts ".Params.categories" "intersect" (collections.Slice "damen") }}
+  {{ $related_posts = $related_posts.ByDate.Reverse }}
+
+  {{ if $related_posts }}
+    <div class="pa3 pa4-ns w-100 w-70-ns center">
+      <section class="w-100 mw8">
+        <h2 class="f3 fw6 mb3">Aktuelle News zur Damenmannschaft</h2>
+
+        {{ range $related_posts }}
+          <div class="w-100 mb4 relative">
+            {{ .Render "summary-with-image" }}
+          </div>
+        {{ end }}
+      </section>
+    </div>
+  {{ end }}
+{{ end }}
