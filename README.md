@@ -21,7 +21,7 @@ Die moderne, Hugo-basierte Website des **FC Aich e.V.**, einem Fußballverein im
 
 ## 🎯 Projektübersicht
 
-Dieses Projekt ist die Neuauflage der FC Aich Website, die von **WordPress auf Hugo migriert** wurde. Die alte WordPress-Site war nicht mehr auf dem aktullsten Stand der Technik und musste abgeschaltet werden.
+Dieses Projekt ist die Neuauflage der FC Aich Website, die von **WordPress auf Hugo migriert** wurde. Die alte WordPress-Site war nicht mehr auf dem aktuellsten Stand der Technik und musste abgeschaltet werden.
 
 ### Ziele der Migration:
 - ✅ Sicherheit durch statische Website (keine Datenbank, kein PHP)

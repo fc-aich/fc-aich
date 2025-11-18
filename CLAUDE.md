@@ -5,19 +5,19 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 ## Project Overview
 
 This is the Hugo-based website for **FC Aich e.V.**, a German football club in Landkreis Fürstenfeldbruck. The site uses the Ananke theme with custom layouts and German content.
-The original and still productive Webpage can be found at https://www.fc-aich.de. The production Page is based on Wordpress and was hacked. The hacker or bot created a lot of news pages about gambling an casinos. The goal of this project is to migrate the Wordpress based page to a Hugo page, hosted on Github pages and deployed by Github actions. To create news articles and Spielberichte Sveltia CMS (https://github.com/sveltia/sveltia-cms) was integrated.
+The original and still productive Webpage can be found at https://www.fc-aich.de. The old production Page was based on Wordpress and was compromised. The goal of this project is to migrate the Wordpress based page to a Hugo page, hosted on Github pages and deployed by Github actions. To create news articles Sveltia CMS (https://github.com/sveltia/sveltia-cms) was integrated.
 
-**Live URL**: https://fc-aich.engelmann.me/
+**Live URL**: https://fc-aich.de/
 
 ## Development Commands
 
 ### Local Development
 ```bash
 # Start local development server (default: http://localhost:1313)
-hugo server
+hugo server -w
 
 # Start with drafts visible
-hugo server -D
+hugo server -w -D
 
 # Build site for production
 hugo
