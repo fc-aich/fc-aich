@@ -1,0 +1,20 @@
+#### Links - Tabelle:
+
+<div id="bfv1763480198973">Laden...</div>
+<script>
+BFVWidget.HTML5.zeigeWettbewerbsTabelle("02TLUJHH8K000004VS5489BTVT4H6CF2-G", "bfv1763480198973", { height: "640",  width: "380" , teamPermanentId: "02PQGJKEHC000000VS5489B1VU7RM1AE", colorResults: "undefined" , colorNav: "undefined" , colorClubName : "undefined" , backgroundNav: "undefined"});
+</script>
+
+### Mitte - Spiele
+
+<div id="bfv1763480338941">Laden...</div>
+<script>
+BFVWidget.HTML5.zeigeMannschaftKomplett("02PQGJKEHC000000VS5489B1VU7RM1AE", "bfv1763480338941", { height: "640", width: "380", selectedTab:BFVWidget.HTML5.mannschaftTabs.spiele, colorResults: "rgb(32,32,96)" , colorNav: "undefined" , colorClubName : "rgb(32,32,96)" , backgroundNav: "undefined"});
+</script>
+
+#### Rechts - Spielbericht:
+
+<div id="bfv1763480400844">Laden...</div>
+<script>
+BFVWidget.HTML5.zeigeSpielbericht("02PQGJKEHC000000VS5489B1VU7RM1AE", "bfv1763480400844", { height: "640", width: "380", colorResults: "rgb(32,32,96)" , colorNav: "undefined" , colorClubName : "undefined" , backgroundNav: "undefined"});
+</script>
