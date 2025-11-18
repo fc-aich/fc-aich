@@ -333,3 +333,51 @@ nav[role="navigation"] ul li a.active::after {
   margin-left:auto; font-weight:800; font-variant-numeric: tabular-nums;
 }
 .thumb { width:100%; height:auto; border-radius:.5rem; margin-top:.5rem; }
+
+/* ===== BFV Widgets Grid Layout ===== */
+.bfv-widgets-container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.bfv-widgets-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.5rem;
+  justify-items: center;
+}
+
+/* Desktop: Drei Spalten nebeneinander */
+@media (min-width: 60em) {
+  .bfv-widgets-grid {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+  }
+}
+
+.bfv-widget {
+  width: 100%;
+  max-width: 400px;
+}
+
+/* Mobile: Nur mittleres Widget (Spiele) anzeigen */
+@media (max-width: 59.99em) {
+  .bfv-widget-left,
+  .bfv-widget-right {
+    display: none;
+  }
+
+  .bfv-widget-center {
+    max-width: 100%;
+  }
+}
+
+/* BFV Widget iframe responsive */
+.bfv-widget > div {
+  width: 100% !important;
+}
+
+.bfv-widget iframe {
+  width: 100% !important;
+  max-width: 100% !important;
+}
