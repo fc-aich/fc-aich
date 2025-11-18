@@ -3,6 +3,9 @@ title: "G-Jugend"
 featured_image: ""
 ---
 
+![Oachi](/img/oachi/oachi6.png)
+
+
 Hier findet ihr Infos, Kader und Spieltermine der **G-Jugend**.
 
 ## Trainer:
