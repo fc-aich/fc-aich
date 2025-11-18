@@ -35,6 +35,26 @@ nav[role="navigation"] a[href="/"]:hover {
   opacity: 0.85;
 }
 
+/* Admin Link (versteckt, nur bei Hover sichtbar) */
+.admin-link {
+  opacity: 0;
+  transition: opacity 0.3s ease, color 0.3s ease;
+  color: rgba(255, 255, 255, 0.3) !important;
+  display: inline-flex;
+  align-items: center;
+  padding: 0.25rem;
+}
+
+.admin-link:hover,
+nav[role="navigation"]:hover .admin-link {
+  opacity: 1;
+  color: rgba(255, 255, 255, 0.7) !important;
+}
+
+.admin-link:hover {
+  color: rgba(255, 255, 255, 1) !important;
+}
+
 /* Menu Items */
 nav[role="navigation"] ul li {
   position: relative;

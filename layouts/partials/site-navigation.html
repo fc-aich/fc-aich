@@ -1,12 +1,20 @@
 <nav class="pv3 ph3 ph4-ns" role="navigation">
   <div class="flex-l center items-center justify-between">
-    <a href="{{ .Site.Home.RelPermalink }}" class="f3 fw2 hover-white white-90 dib no-underline">
-      {{ with .Site.Params.site_logo }}
-        <img src="{{ urls.RelURL . }}" class="w100 mw5-ns" alt="{{ $.Site.Title }}" />
-      {{ else }}
-        {{ .Site.Title }}
-      {{ end }}
-    </a>
+    <div class="flex items-center">
+      <a href="{{ .Site.Home.RelPermalink }}" class="f3 fw2 hover-white white-90 dib no-underline">
+        {{ with .Site.Params.site_logo }}
+          <img src="{{ urls.RelURL . }}" class="w100 mw5-ns" alt="{{ $.Site.Title }}" />
+        {{ else }}
+          {{ .Site.Title }}
+        {{ end }}
+      </a>
+      <a href="/admin/" class="admin-link ml2" title="Admin" aria-label="Admin">
+        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M12.22 2h-.44a2 2 0 0 0-2 2v.18a2 2 0 0 1-1 1.73l-.43.25a2 2 0 0 1-2 0l-.15-.08a2 2 0 0 0-2.73.73l-.22.38a2 2 0 0 0 .73 2.73l.15.1a2 2 0 0 1 1 1.72v.51a2 2 0 0 1-1 1.74l-.15.09a2 2 0 0 0-.73 2.73l.22.38a2 2 0 0 0 2.73.73l.15-.08a2 2 0 0 1 2 0l.43.25a2 2 0 0 1 1 1.73V20a2 2 0 0 0 2 2h.44a2 2 0 0 0 2-2v-.18a2 2 0 0 1 1-1.73l.43-.25a2 2 0 0 1 2 0l.15.08a2 2 0 0 0 2.73-.73l.22-.39a2 2 0 0 0-.73-2.73l-.15-.08a2 2 0 0 1-1-1.74v-.5a2 2 0 0 1 1-1.74l.15-.09a2 2 0 0 0 .73-2.73l-.22-.38a2 2 0 0 0-2.73-.73l-.15.08a2 2 0 0 1-2 0l-.43-.25a2 2 0 0 1-1-1.73V4a2 2 0 0 0-2-2z"></path>
+          <circle cx="12" cy="12" r="3"></circle>
+        </svg>
+      </a>
+    </div>
     <div class="flex-l items-center">
       {{ partials.Include "i18nlist.html" . }}
       {{ if .Site.Menus.main }}
