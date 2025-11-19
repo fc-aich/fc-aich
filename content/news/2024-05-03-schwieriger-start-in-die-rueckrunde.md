@@ -1,15 +1,9 @@
 ---
-_edit_last: "908"
-_jetpack_memberships_contains_paid_content: ""
 author: lutz.goehricke
 categories:
   - damen
 date: "2024-05-03T08:07:45+00:00"
-guid: http://www.fc-aich.de/?p=5630
-parent_post_id: null
-post_id: "5630"
 title: Schwieriger Start in die Rückrunde für unsere Damen
-url: /schwieriger-start-in-die-rueckrunde-fuer-unsere-damen/
 
 ---
 Am vergangenen Sonntag unter endlich wieder blauem Himmel bestritt die heimische SG ihr erstes Punktspiel der Rückrunde gegen die SG aus dem ASV Eglfing und dem TSV Peissenberg.  

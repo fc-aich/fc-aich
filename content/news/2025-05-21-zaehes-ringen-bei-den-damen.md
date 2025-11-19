@@ -9,7 +9,7 @@ gallery:
   - /wp-content/uploads/2025/05/image1-768x1024.jpeg
 
 ---
-_SG Wildenroth / Aich / Aufkrichen - SC Eibsee Grainau 0:0_
+**SG Wildenroth / Aich / Aufkrichen - SC Eibsee Grainau 0:0**
 
 Vergangenen Sonntag, den 18.05.2025, war das Liga-Schlusslicht aus Grainau zu Gast in Aich. Trotzdem war es ein hart umkämpftes Spiel. Obwohl unsere Damen zum Teil die überlegenere Mannschaft waren, war uns kein Tor vergönnt. Torchancen waren auf beiden Seiten Mangelware, sodass die Zuschauer ein torloses und eher zähes Spiel geboten bekommen haben.
 

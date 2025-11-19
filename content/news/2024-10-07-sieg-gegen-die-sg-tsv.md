@@ -1,14 +1,11 @@
 ---
-_edit_last: "908"
+
 author: lutz.goehricke
 categories:
   - damen
 date: "2024-10-07T14:52:51+00:00"
-guid: http://www.fc-aich.de/?p=5863
-parent_post_id: null
-post_id: "5863"
 title: Sieg gegen die SG TSV Farchant/ 1. FC Garmisch-Patenkirchen
-url: /sieg-gegen-die-sg-tsv-farchant-1-fc-garmisch-patenkirchen/
+
 
 ---
 Am 3. Spieltag, den 06.10.2024 gewannen unsere Damen verdient auf heimischen Rasen gegen die Gäste aus Garmisch.

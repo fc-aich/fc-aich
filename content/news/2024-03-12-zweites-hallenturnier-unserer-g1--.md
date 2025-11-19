@@ -1,14 +1,10 @@
 ---
-_edit_last: "908"
 author: lutz.goehricke
 categories:
   - jugend
 date: "2024-03-12T20:05:29+00:00"
-guid: http://www.fc-aich.de/?p=5566
-parent_post_id: null
-post_id: "5566"
 title: Zweites Hallenturnier unserer G1 - zweiter Turniersieg
-url: /zweites-hallenturnier-unserer-g1-zweiter-turniersieg/
+
 
 ---
 Schon wieder hat die G1 zugeschlagen. In Ihrem zweiten Hallenturnier, ausgerichtet vom TSV Alling, wurden sie schon wieder Turniersieger.
@@ -24,4 +20,4 @@ Nach dem Schlusspfiff jubelten alle mitgereisten Eltern und die Mannschaft dreht
 
 Die Spieler Felix, Oskar, Timo, Rafael, Elias, Nico, Benjamin, Devnim. Oskar, Florian und Levy.
 
-{{< figure src="/wp-content/uploads/2024/03/Bild1.jpg" alt="" caption="" >}}
+![](/wp-content/uploads/2024/03/Bild1.jpg)

@@ -1,17 +1,14 @@
 ---
-_edit_last: "908"
+
 author: lutz.goehricke
 categories:
   - damen
 date: "2025-09-22T15:38:56+00:00"
-guid: https://www.fc-aich.de/?p=19708
-parent_post_id: null
-post_id: "19708"
 title: Unentschieden im Lokalderby
-url: /unentschieden-im-lokalderby/
+
 
 ---
-_SV RW Überacker II - SG SpVgg Wildenroth / Aich 3:3 (2:3)_
+**SV RW Überacker II - SG SpVgg Wildenroth / Aich 3:3 (2:3)**
 
 Es geht wieder los! Unsere Damen starteten am Mittwoch, den 17.09.2025, in die neue Saison, mit einem Lokalderby gegen SV RW Überacker II.
 
@@ -31,4 +28,4 @@ In den letzten Minuten vor dem Abpfiff kämpften die Mädels noch für das 3:4, 
 
 Stark gekämpft, Mädels!
 
-{{< figure src="/wp-content/uploads/2025/09/image1.jpeg" alt="" caption="" >}}
+![](/wp-content/uploads/2025/09/image1.jpeg)

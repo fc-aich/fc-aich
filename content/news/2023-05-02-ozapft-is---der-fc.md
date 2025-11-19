@@ -31,4 +31,4 @@ Mia g'frein uns aufs nächste Jahr!
 
 Text: Melina Schön
 
-\[ngg src="galleries" ids="27" display="basic\_thumbnail" thumbnail\_crop="0"\]
+{{<wp-gallery volksfesteinzug-2023>}}

@@ -5,7 +5,7 @@ categories:
 date: "2025-05-27T19:29:12+00:00"
 title: Tolle Mannschaftsleistung führt zum Sieg
 ---
-_TSV Gilching/A. II – SG SpVgg Wildenroth / Aich / Aufkirchen 0:1 (0:1)_
+**TSV Gilching/A. II – SG SpVgg Wildenroth / Aich / Aufkirchen 0:1 (0:1)**
 
 
 Am Sonntag traten unsere Damen von der SG Wildenroth / Aich / Aufkirchen gegen den Tabellenführer Gilching II an. Für die Gastgeber war es ein entscheidendes Spiel. Mit einem Sieg oder einem Unentschieden konnte der TSV Gilching II vorzeitig Meister werden. Trotz angeschlagener Spielerinnen wollte dies die SG verhindern.  

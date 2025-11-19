@@ -1,20 +1,16 @@
 ---
-_edit_last: "908"
-_jetpack_memberships_contains_paid_content: ""
+
 author: lutz.goehricke
 categories:
   - 1.mannschaft
 date: "2024-05-27T09:52:41+00:00"
-guid: http://www.fc-aich.de/?p=5667
-parent_post_id: null
-post_id: "5667"
 title: 'Nach „toller Meisterrunde“: Brüder führen Aich zur Meisterschaft'
-url: /es-ist-vollbracht-aufstieg-in-die-bezirksliga/
+
 
 ---
 _Sieg gegen Gilching – Doppeltorschütze und Elfmeterheld aus einer Familie_
 
-{{< figure src="/wp-content/uploads/2024/05/1920x1280.webp" alt="" caption="" >}}
+![](/wp-content/uploads/2024/05/1920x1280.webp)
 
 **Der FC Aich ist aufgestiegen. Mit einem Sieg gegen Gilching sicherte der FC die Meisterschaft und geht nach einer guten Meisterrunde in die Bezirksliga.**
 

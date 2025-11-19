@@ -1,14 +1,10 @@
 ---
-_edit_last: "908"
 author: lutz.goehricke
 categories:
   - damen
 date: "2023-05-15T10:33:53+00:00"
-guid: http://www.fc-aich.de/?p=5193
-parent_post_id: null
-post_id: "5193"
 title: Sieg gegen Penzing
-url: /sieg-gegen-penzing/
+
 
 ---
 Es stand lange auf der Kippe ob die Gastmannschaft aus Penzing überhaupt antritt, da sie eine Spielverlegung beantragten, diese aber nicht mehr möglich war. Da staunten wir nicht schlecht, als sie dann gleich mit 14 Spielerinnen ankamen, obwohl nur 9 angekündigt waren.
@@ -22,4 +18,4 @@ Dass die SG gut aus der Halbzeitpause zurückgekehrt ist, bewies Lisa Schmölzl 
 
 Ein verdienter Sieg mit einer geschlossenen Mannschaftsleistung, die sich von Spiel zu Spiel steigert. Damit bleibt die SG weiterhin an der Tabellenspitze.
 
-{{< figure src="/wp-content/uploads/2023/05/Bild4-1.jpg" alt="" caption="" >}}
+![](/wp-content/uploads/2023/05/Bild4-1.jpg)

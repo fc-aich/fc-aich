@@ -428,3 +428,41 @@ nav[role="navigation"] ul li a.active::after {
   width: 100% !important;
   max-width: 100% !important;
 }
+
+/* ===== WP Gallery (GLightbox) Styling ===== */
+.wp-gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 0.5rem;
+  margin: 1.5rem 0;
+}
+
+.wp-gallery-grid a {
+  display: block;
+  overflow: hidden;
+  border-radius: 0.5rem;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  line-height: 0;
+}
+
+.wp-gallery-grid a:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+.wp-gallery-grid img {
+  width: 100%;
+  height: 150px;
+  object-fit: cover;
+  display: block;
+}
+
+@media (min-width: 48em) {
+  .wp-gallery-grid {
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  }
+
+  .wp-gallery-grid img {
+    height: 200px;
+  }
+}

@@ -1,14 +1,11 @@
 ---
-_edit_last: "908"
+
 author: lutz.goehricke
 categories:
   - jugend
 date: "2024-01-29T10:33:33+00:00"
-guid: http://www.fc-aich.de/?p=5506
-parent_post_id: null
-post_id: "5506"
 title: G-Jugend grandios beim Turnier des FC Greifenberg
-url: /g-jugend-grandios-in-greifenberg/
+
 
 ---
 Die G-Jugend des FC Aich hat unter der Leitung ihres engagierten Trainerduos Thomas und Rainer ein beeindruckendes Ergebnis beim Hallenturnier des FC Greifenberg in Schondorf errungen. Die jungen Talente zeigten nicht nur fußballerisches Können, sondern auch großen Teamgeist.
@@ -23,4 +20,4 @@ Das Trainerteam zeigte sich stolz über die Leistung ihrer Schützlinge, die Fai
 
 Dieser Triumph unterstreicht nicht nur die Qualität der Jugendarbeit in unserem Verein, sondern bietet auch einen vielversprechenden Ausblick auf die Zukunft des Fußballs in unserer Gemeinschaft. Herzlichen Glückwunsch an die G-Jugend zu diesem herausragenden Erfolg!
 
-{{< figure src="/wp-content/uploads/2024/01/G%5FJugend%5FGreifenberg.jpg" alt="" caption="" >}}
+![](/wp-content/uploads/2024/01/G%5FJugend%5FGreifenberg.jpg)

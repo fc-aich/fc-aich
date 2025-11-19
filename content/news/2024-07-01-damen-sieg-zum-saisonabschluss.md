@@ -1,14 +1,10 @@
 ---
-_edit_last: "908"
 author: lutz.goehricke
 categories:
   - damen
 date: "2024-07-01T16:45:15+00:00"
-guid: http://www.fc-aich.de/?p=5726
-parent_post_id: null
-post_id: "5726"
 title: 'Damen: Sieg zum Saisonabschluss'
-url: /damen-sieg-zum-saisonabschluss/
+
 
 ---
 Die Saison 2023/2024 beendeten unsere Damen mit einem fantastischem 5:0 Sieg gegen den SV Baiernrain-Linden am 22.06.2024.

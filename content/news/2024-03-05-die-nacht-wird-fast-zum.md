@@ -8,11 +8,8 @@ enclosure: |-
   http://www.fc-aich.de/wp-content/uploads/2024/03/WhatsApp-Video-2024-02-27-at-19.45.26.mp4
   3173068
   video/mp4
-guid: http://www.fc-aich.de/?p=5546
-parent_post_id: null
-post_id: "5546"
 title: Die Nacht wird fast zum Tag...
-url: /die-nacht-wird-fast-zum-tag/
+
 
 ---
 Neue Flutlichtanlage beim FC Aich!!!
@@ -23,4 +20,9 @@ Mit unserem Partner LED Sports wurde die Anlage am 27. Februar aufgebaut und ins
 
 Vielen Dank an alle, die uns bei diesem Projekt unterstützt haben!
 
-\[ngg src="galleries" ids="33" display="basic\_thumbnail" thumbnail\_crop="0"\]
+<video controls width="100%" style="max-width: 800px; border-radius: 0.5rem;">
+  <source src="/wp-content/uploads/2024/03/WhatsApp-Video-2024-02-27-at-19.45.26.mp4" type="video/mp4">
+  Dein Browser unterstützt das Video-Tag nicht.
+</video>
+
+{{< wp-gallery flutlicht-2024>}}

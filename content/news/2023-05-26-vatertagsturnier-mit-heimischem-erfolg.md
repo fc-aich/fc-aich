@@ -1,14 +1,11 @@
 ---
-_edit_last: "908"
+
 author: lutz.goehricke
 categories:
   - jugend
 date: "2023-05-26T14:14:41+00:00"
-guid: http://www.fc-aich.de/?p=5209
-parent_post_id: null
-post_id: "5209"
 title: Vatertagsturnier mit heimischem Erfolg
-url: /vatertagsturnier-mit-heimischem-erfolg/
+
 
 ---
 Ist das Vatertagsturnier beim FC Aich in der Vergangenheit schon immer ein großes sportliches Event gewesen, konnte der Gastgeber in diesem Jahr einen zusätzlichen großen Erfolg verzeichnen.
@@ -41,4 +38,4 @@ Info: Die Ergebnisse der einzelnen Jugendmannschaften könnt Ihr auf unserer [Tu
 
 Text: Melina R. Schön
 
-\[ngg src="galleries" ids="29" display="basic\_slideshow"\]
+{{<wp-gallery vatertag-2023>}}

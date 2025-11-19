@@ -1,0 +1,30 @@
+{{/*
+  Shortcode für WordPress-Galerien aus static/wp-content/gallery/
+
+  Verwendung:
+  {{< wp-gallery "aufstieg-2024" >}}
+
+  Erwartet Struktur:
+  static/wp-content/gallery/aufstieg-2024/
+    ├── image1.jpg
+    ├── image2.jpg
+    └── thumbs/
+        ├── thumbs_image1.jpg
+        └── thumbs_image2.jpg
+*/}}
+
+{{ $galleryPath := .Get 0 }}
+{{ $fullPath := printf "wp-content/gallery/%s" $galleryPath }}
+
+<div class="wp-gallery-grid gallery-grid">
+  {{ range (readDir (printf "static/%s" $fullPath)) }}
+    {{ if and (not .IsDir) (or (strings.HasSuffix .Name ".jpg") (strings.HasSuffix .Name ".jpeg") (strings.HasSuffix .Name ".png") (strings.HasSuffix .Name ".JPG") (strings.HasSuffix .Name ".JPEG")) }}
+      {{ $imagePath := printf "/%s/%s" $fullPath .Name }}
+      {{ $thumbPath := printf "/%s/thumbs/thumbs_%s" $fullPath .Name }}
+
+      <a href="{{ $imagePath }}" class="glightbox" data-gallery="wp-gallery">
+        <img src="{{ $thumbPath }}" alt="{{ .Name }}" loading="lazy" />
+      </a>
+    {{ end }}
+  {{ end }}
+</div>

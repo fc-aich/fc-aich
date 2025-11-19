@@ -1,14 +1,11 @@
 ---
-_edit_last: "908"
+
 author: lutz.goehricke
 categories:
   - damen
 date: "2024-07-30T10:33:44+00:00"
-guid: http://www.fc-aich.de/?p=5757
-parent_post_id: null
-post_id: "5757"
 title: Update aus der Damenmannschaft
-url: /update-aus-der-damenmannschaft/
+
 
 ---
 _Wie geht es in der nächsten Saison für unsere Damen weiter?_

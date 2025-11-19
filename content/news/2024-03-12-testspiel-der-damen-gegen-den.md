@@ -1,14 +1,11 @@
 ---
-_edit_last: "908"
+
 author: lutz.goehricke
 categories:
   - damen
 date: "2024-03-12T20:33:20+00:00"
-guid: http://www.fc-aich.de/?p=5570
-parent_post_id: null
-post_id: "5570"
 title: Testspiel der Damen gegen den SV Hohenfurch
-url: /testspiel-der-damen-gegen-den-sv-hohenfurch/
+
 
 ---
 Am Sonntag, den 12.03. bestritten unsere Damen der Spiegemeinschaft Aich / Aufkirchen / Wildenroth auf dem Sportplatz in Wildenroth das erste Testspiel seit der Winterpause gegen den SV Hohenfurch.

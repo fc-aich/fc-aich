@@ -1,17 +1,13 @@
 ---
-_edit_last: "908"
 author: lutz.goehricke
 categories:
   - damen
 date: "2025-09-28T19:46:49+00:00"
-guid: https://www.fc-aich.de/?p=19716
-parent_post_id: null
-post_id: "19716"
+
 title: Remis in neuen Trikots
-url: /remis-in-neuen-trikots/
 
 ---
-_SG SpVgg Wildenroth / FC Aich gegen SG Isarwinkel 1:1 (0:0)_
+**SG SpVgg Wildenroth / FC Aich gegen SG Isarwinkel 1:1 (0:0)**
 
 Bei wunderschönem Kaiserwetter fand das erste Heimspiel unserer Damen gegen die SG Isarwinkel statt. Dabei liefen sie in den neu gesponserten Trikots von „Pizza Pazza“ auf. An dieser Stelle noch einmal vielen Dank an das Familienunternehmen.
 
@@ -23,4 +19,4 @@ Unsere Damen von der SG Wildenroth / Aich versuchten noch auf 2:1 zu erhöhen �
 
 Stark gekämpft, Mädels.
 
-{{< figure src="/wp-content/uploads/2025/09/image1-1.jpeg" alt="" caption="" >}}
+![](/wp-content/uploads/2025/09/image1-1.jpeg)

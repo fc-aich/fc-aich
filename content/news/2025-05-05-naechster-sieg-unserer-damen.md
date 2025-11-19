@@ -5,7 +5,7 @@ categories:
 date: "2025-05-05T15:22:23+00:00"
 title: Nächster Sieg unserer Damen
 ---
-_SG SpVgg Wildenroth / Aich / Aufkirchen - SG Isarwinkel 6:3 (2:0)_
+**SG SpVgg Wildenroth / Aich / Aufkirchen - SG Isarwinkel 6:3 (2:0)**
 
 Am Sonntag, den 04.05.2025, waren die Damen der SG Isarwinkel zu Gast in Aich. Die SG SpVgg Wildenroth / Aich / Aufkirchen spielte, in Gedenken an den ehemaligen Trainer, mit Trauerbinde. Bei regnerischem Wetter mussten sich die Spielerinnen auf dem rutschigen Rasen zu Beginn noch zurechtfinden. Doch unsere Damen zeigten von Beginn an, dass sie die dominante Mannschaft auf dem Platz sind. In der 22. Minute gelang es dann Alexandra De Lucia die Spielgemeinschaft Wildenroth / Aich / Aufkirchen in Führung zu bringen. Antonia Nuscheler traf 4 Minuten später mit einem scharfen, hohen Ball, der über die Torhüterin hinweg ins Netz segelte, zum 2:0. Die restliche erste Halbzeit verlief dann eher ruhig.
 

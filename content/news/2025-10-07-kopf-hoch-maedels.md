@@ -4,10 +4,10 @@ date: 2025-10-07T08:37:00
 categories:
   - damen
 featured_image: /wp-content/uploads/2025/10/image1.jpeg
-summary: SG SpVgg Wildenroth / FC Aich – SC Pöcking 2:4 (1:3)
+#summary: SG SpVgg Wildenroth / FC Aich – SC Pöcking 2:4 (1:3)
 author: lutz.goehricke
 ---
-_SG SpVgg Wildenroth / FC Aich – SC Pöcking 2:4 (1:3)_
+**SG SpVgg Wildenroth / FC Aich – SC Pöcking 2:4 (1:3)**
 
 Am Samstag, den 27.09.2025, hat die Spielgemeinschaft SpVgg Wildenroth / FC Aich den SC Pöcking empfangen.
 
