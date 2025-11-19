@@ -1,16 +1,11 @@
 ---
-_edit_last: "908"
 author: lutz.goehricke
 categories:
   - damen
 date: "2025-04-01T07:43:41+00:00"
-guid: https://www.fc-aich.de/?p=5994
-parent_post_id: null
-post_id: "5994"
 title: Gelungener Rückrundenstart
-url: /gelungener-rueckrundenstart/
-
 ---
+
 **SG Wildenroth/Aich/Aufkirchen - SC Pöcking 3:1 (0:0)**
 
 Am Sonntag, dem 30.03.2025, empfing die SG den SC Pöcking zum ersten Punktspiel der Rückrunde. Die SG Wildenroth / Aich / Aufkirchen übernahm das Spiel von Anfang an und hatte in den ersten 10 Minuten eine große Torchance.
@@ -21,6 +16,6 @@ Das Spiel ging von beiden Seiten hitzig her. Dennoch ging es torlos in die Halbz
 
 Großes Lob an die ganze Mannschaft und Glückwunsch zum erfolgreichen Sieg.
 
-{{< figure src="/wp-content/uploads/2025/04/image0.jpeg" alt="" caption="" >}}
+![](/wp-content/uploads/2025/04/image0.jpeg)
 
-{{< figure src="/wp-content/uploads/2025/04/image1.jpeg" alt="" caption="" >}}
+![](/wp-content/uploads/2025/04/image1.jpeg)

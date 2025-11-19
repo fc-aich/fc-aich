@@ -1,14 +1,9 @@
 ---
-_edit_last: "908"
 author: lutz.goehricke
 categories:
   - damen
 date: "2024-10-21T18:07:31+00:00"
-guid: http://www.fc-aich.de/?p=5878
-parent_post_id: null
-post_id: "5878"
 title: Den Tabellenführer zu Gast...
-url: /den-tabellenfuehrer-zu-gast/
 gallery:
   - /wp-content/uploads/2024/10/image2.jpeg
   - /wp-content/uploads/2024/10/image1.jpeg

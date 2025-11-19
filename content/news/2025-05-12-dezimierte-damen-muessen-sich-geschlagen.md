@@ -1,14 +1,10 @@
 ---
-_edit_last: "908"
 author: lutz.goehricke
 categories:
   - damen
 date: "2025-05-12T14:50:32+00:00"
-guid: https://www.fc-aich.de/?p=6031
-parent_post_id: null
-post_id: "6031"
+
 title: Dezimierte Damen müssen sich geschlagen geben...
-url: /dezimierte-damen-muessen-sich-geschlagen-geben/
 
 ---
 _SG TSV Farchant / 1. FC Garmisch-Partenkirchen : SG SpVgg Wildenroth / Aich / Aufkirchen 3:0 (1:0)_

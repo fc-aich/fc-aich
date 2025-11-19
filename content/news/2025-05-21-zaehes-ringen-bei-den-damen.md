@@ -1,14 +1,9 @@
 ---
-_edit_last: "908"
 author: lutz.goehricke
 categories:
   - damen
 date: "2025-05-21T07:20:34+00:00"
-guid: https://www.fc-aich.de/?p=6041
-parent_post_id: null
-post_id: "6041"
 title: Zähes Ringen bei den Damen
-url: /zaehes-ringen-bei-den-damen/
 gallery:
   - /wp-content/uploads/2025/05/image0-1-768x1024.jpeg
   - /wp-content/uploads/2025/05/image1-768x1024.jpeg

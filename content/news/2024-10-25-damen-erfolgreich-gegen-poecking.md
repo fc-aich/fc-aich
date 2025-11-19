@@ -1,14 +1,12 @@
 ---
-_edit_last: "908"
+
 author: lutz.goehricke
 categories:
   - damen
 date: "2024-10-25T15:33:07+00:00"
-guid: http://www.fc-aich.de/?p=5883
-parent_post_id: null
-post_id: "5883"
+
 title: Damen erfolgreich gegen Pöcking
-url: /damen-erfolgreich-gegen-poecking/
+
 
 ---
 _SC Pöcking – SG Wildenroth / Aich / Aufkrichen 2:5 (2:2)_

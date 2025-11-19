@@ -1,15 +1,9 @@
 ---
-_edit_last: "908"
 author: lutz.goehricke
 categories:
   - damen
 date: "2025-05-27T19:29:12+00:00"
-guid: https://www.fc-aich.de/?p=6048
-parent_post_id: null
-post_id: "6048"
 title: Tolle Mannschaftsleistung führt zum Sieg
-url: /tolle-mannschaftsleistung-fuehrt-zum-sieg/
-
 ---
 _TSV Gilching/A. II – SG SpVgg Wildenroth / Aich / Aufkirchen 0:1 (0:1)_
 
@@ -22,4 +16,5 @@ In der zweiten Spielhälfte versuchte der TSV Gilching II den Ausgleich zu schie
 Das Spiel endet mit einem Ergebnis von 0:1.  
 Großes Lob für die hervorragende Mannschaftsleistung.
 
-{{< figure src="https://www.www.www.fc-aich.de/wp-content/uploads/2025/05/image1-1-1024x768.jpeg" alt="" caption="" >}}
+
+![Sieg](/wp-content/uploads/2025/05/image1-1-1024x768.jpeg)

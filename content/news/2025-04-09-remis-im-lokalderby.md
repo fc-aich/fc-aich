@@ -1,14 +1,9 @@
 ---
-_edit_last: "908"
 author: lutz.goehricke
 categories:
   - damen
 date: "2025-04-09T10:26:59+00:00"
-guid: https://www.fc-aich.de/?p=6000
-parent_post_id: null
-post_id: "6000"
 title: Remis im Lokalderby
-url: /remis-im-lokalderby/
 
 ---
 **SV RW Überacker II - SG SpVgg Wildenroth / Aich / Aufkirchen 1:1 (1:0)**
@@ -20,4 +15,4 @@ Die letzten Minuten vor dem Abpfiff kämpften die Mädels noch für den Siegtref
 
 Stark gekämpft, Mädels! Weiter so!
 
-{{< figure src="/wp-content/uploads/2025/04/image0-1.jpeg" alt="" caption="" >}}
+![](/wp-content/uploads/2025/04/image0-1.jpeg)
