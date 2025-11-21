@@ -30,10 +30,10 @@ email = "info@fc-aich.de"
     name = "News"
     url  = "/news/"
     weight = 2
-[[menu.main]]
-    name = "Zeitung"
-    url  = "/zeitung/"
-    weight = 3
+#[[menu.main]]
+#    name = "Zeitung"
+#    url  = "/zeitung/"
+#    weight = 3
 [[menu.main]]
     name = "Shop"
     url  = "/shop/"

@@ -1,6 +1,6 @@
 ---
 title: "1. Mannschaft"
-featured_image: "img/fotos/1-mannchaft-comic-style2-logo1.jpg"
+featured_image: "img/fotos/1-mannchaft-comic-style-title-blue.png"
 ---
 
 Hier findet ihr Infos, Kader und Spieltermine der **Ersten**.

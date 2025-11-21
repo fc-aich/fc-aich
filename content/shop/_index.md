@@ -1,12 +1,15 @@
 ---
 title: Shop
-featured_image: "img/soccer_1920.jpg"
+featured_image: "img/title.png"
 ---
 {{< figure src="/img/logos/Aich-Sport-Haas-Logo.png" alt="" caption="" >}}
 
 In Zusammenarbeit mit Jako und Sport Haas können wir Euch hier die FC Aich Kollektion präsentieren. Die Bestellung, Abwicklung und Lieferung läuft direkt über den Onlineshop von Sport Haas ( [www.sport-haas.de](https://www.sport-haas.de/)).
 
-1\. Erstellt ein Konto bei Sport Haas mit dem Registrierungscode **23721.** Eine detaillierte Anleitung dazu findet ihr hier: [Shop Anleitung](/wp-content/uploads/2020/04/Anleitung_Shop_FC-Aich.pdf)
+1\. Erstellt ein Konto bei Sport Haas mit dem Registrierungscode **23721.**  
+**WICHTIG:** Unsere Kollektion wird nur angezeigt, wenn ihr im Shop eingeloggt seid!  
+
+_Eine detaillierte Anleitung dazu findet ihr hier: [Shop Anleitung](/wp-content/uploads/2020/04/Anleitung_Shop_FC-Aich.pdf)_
 
 ![](/img/shop/FC-Aich_4219_04_w_200x200.png)
 

@@ -1,7 +1,8 @@
 
 ---
 title: "Jugend"
-featured_image: "img/soccer_1920.jpg"
+#featured_image: "img/soccer_1920.jpg"
+featured_image: "img/title.png"
 ---
 
 ![Oachi](/img/oachi/oachi7.png)
