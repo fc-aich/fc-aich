@@ -2,7 +2,7 @@
 ---
 title: "Alte Herren des FC Aich"
 #featured_image: "img/bg/old-ball.jpg"
-featured_image: "img/title.png"
+featured_image: "img/fotos/ah-title.png"
 ---
 
 Die **Alten Herren** des FC Aich trainieren wöchentlich und freuen sich über neue Mitspieler.

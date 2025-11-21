@@ -1,6 +1,7 @@
 
 ---
 title: "Sportgelaende"
+featured_image: "img/platz.png"
 ---
 
 Unser Sportgelaende liegt idyllisch in Aich (Landkreis Fuerstenfeldbruck) und umfasst:

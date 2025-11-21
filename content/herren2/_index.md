@@ -1,7 +1,7 @@
 
 ---
 title: "2. Mannschaft"
-featured_image: "img/fotos/2-mannschaft-comic-style-title-blue.png"
+featured_image: "img/fotos/herren2-title.png"
 ---
 
 Hier findet ihr Infos, Kader und Spieltermine der **Zweiten**.

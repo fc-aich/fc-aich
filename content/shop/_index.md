@@ -1,6 +1,9 @@
 ---
 title: Shop
-featured_image: "img/title.png"
+#featured_image: "img/title.png"
+#featured_image: "img/fc-aich-logo.svg"
+featured_image: "img/oachi/oachi9.png"
+
 ---
 {{< figure src="/img/logos/Aich-Sport-Haas-Logo.png" alt="" caption="" >}}
 

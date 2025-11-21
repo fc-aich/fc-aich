@@ -2,14 +2,14 @@
 ---
 title: "Willkommen beim FC Aich"
 #featured_image: "img/soccer_1920.jpg"
-featured_image: "img/title.png"
-
+#featured_image: "img/fc-aich-logo.png"
+#featured_image: "img/platz.png"
+featured_image: "img/zweikampf.png"
 ---
 
-<div class="text-center">
-  <h2>Spaß am Fußball</h2>
-  <p>Willkommen auf der Homepage des <strong>FC Aich e. V.</strong></p>
-</div>
+## Spaß am Fußball
+
+Willkommen auf der Homepage des **FC Aich e.V.**
 
 Gegründet 1924, ist der FC Aich seit nunmehr über 100 Jahren im Fußballsport aktiv. Heute bieten wir Interessierten Spaß am Fußball in allen Jugendbereichen bis hin zu den Aktiven Herren.
 

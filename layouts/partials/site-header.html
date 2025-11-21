@@ -8,6 +8,8 @@
 {{ if $featured_image }}
   {{/* Featured Image mit Titel-Overlay */}}
   <header class="hero-header">
+    <div class="hero-bg-color"></div>
+    <img src="/img/fc-aich-logo.svg" alt="" class="hero-bg-logo">
     <img src="{{ $featured_image | absURL }}" alt="" class="hero-bg-image">
     <div class="hero-overlay">
       <div class="hero-content tc-l pv4 pv5-l ph3 ph4-ns">
