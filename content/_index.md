@@ -11,15 +11,12 @@ featured_image: "img/zweikampf.png"
 
 Willkommen auf der Homepage des **FC Aich e.V.**
 
-Gegründet 1924, ist der FC Aich seit nunmehr über 100 Jahren im Fußballsport aktiv. Heute bieten wir Interessierten Spaß am Fußball in allen Jugendbereichen bis hin zu den Aktiven Herren.
+Gegründet 1924, ist der FC Aich seit nunmehr über 100 Jahren im Fußballsport aktiv. Heute bieten wir Interessierten Spaß am Fußball in allen [Jugendbereichen](/jugend/), den [Damen](/damen) und [Herren](/herren1) bis hin zu den [Aktiven Herren](/ah/).
 
-Um Mitglied zu werden, füllen Sie einfach die Beitrittserklärunng unter dem Menüpunkt Downloads aus und lassen diese dem Verein zukommen.
+Der **FC Aich** bietet Fussball für Kinder, [Jugendliche](/jugend) und Erwachsene. Teamgeist, Fairplay und Spass am Spiel stehen bei uns an erster Stelle. Wir freuen uns über neue Mitglieder, Ehrenamtliche und Unterstützer.
 
-## Aktuelles
+Um Mitglied zu werden, füllen Sie einfach die Beitrittserklärunng unter dem Menüpunkt [Downloads](/downloads/) aus und lassen diese dem Verein zukommen.
 
-- **Sommer-Vorbereitung**: Die 1. Mannschaft startet am 10. Juli in die Vorbereitung.
-- **Schnuppertraining** fuer U7–U11 jeden Dienstag 17:00 Uhr. Einfach vorbeikommen!
-- **Danke an unsere Sponsoren!** Ohne euch geht's nicht – schaut auf der Sponsoren-Seite vorbei.
+**Danke an unsere Sponsoren!** Ohne euch geht's nicht – schaut auf der [Sponsoren-Seite](verein/sponsoren/) vorbei.
 
-## Über uns
-Der FC Aich bietet Fussball für Kinder, Jugendliche und Erwachsene. Teamgeist, Fairplay und Spass am Spiel stehen bei uns an erster Stelle. Wir freuen uns über neue Mitglieder, Ehrenamtliche und Unterstützer.
+
