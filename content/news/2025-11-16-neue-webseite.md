@@ -12,11 +12,11 @@ Die neue Seite ist klar nach unseren Abteilungen strukturiert:
 
 - **[News](/news/)** mit aktuellen Infos
 - **[Shop](/shop/)** in Zusmmenarbeit mit Sport Haas
-- **[1.]((herren1/) und [2.](/herren2/) Mannschaft** mit Infos und Ergebnissen
-- **[Damen](/damen/)**  (Work in progress...)
+- **[1.](/herren1/)** und **[2.](/herren2/)** Mannschaft mit Infos und Ergebnissen
+- **[Damen](/damen/)** mit Infos und Ergebnissen  
 - **[Jugend](/jugend/)** von A- bis G-Jugend
 - **[A-Herren](/ah/)**
-- **[Verein](/verein/) & [Vorstand](/verein/vorstand/)** mit wichtigen Infos
+- **[Verein](/verein/)** & **[Vorstand](/verein/vorstand/)** mit wichtigen Infos
 - **[Downloads](/downloads/)** mit wichtigen Dokumenten
 - **[Sponsoren](/verein/sponsoren/)** 
 
