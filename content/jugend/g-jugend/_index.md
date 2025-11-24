@@ -1,5 +1,5 @@
 ---
-title: "G-Jugend"
+title: "- G -"
 featured_image: ""
 ---
 

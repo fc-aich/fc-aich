@@ -1,7 +1,9 @@
 ---
-title: "E-Jugend"
+title: "- E -"
 featured_image: ""
 ---
+
+![Oachi](/img/oachi/oachi7.png)
 
 Hier findet ihr Infos, Kader und Spieltermine der **E-Jugend**.
 

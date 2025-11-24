@@ -1,5 +1,5 @@
 ---
-title: "A-Jugend"
+title: "- A -"
 featured_image: ""
 ---
 

@@ -63,27 +63,27 @@ text_color="near-white"
 
   # Untermenüpunkte für Jugend
   [[menu.main]]
-    name = "A-Jugend"
+    name = "A"
     parent = "Jugend"
     url  = "/jugend/a-jugend/"
     weight = 1
   [[menu.main]]
-    name = "C-Jugend"
+    name = "C"
     parent = "Jugend"
     url  = "/jugend/c-jugend/"
     weight = 3
   [[menu.main]]
-    name = "E-Jugend"
+    name = "E"
     parent = "Jugend"
     url  = "/jugend/e-jugend/"
     weight = 5
   [[menu.main]]
-    name = "F-Jugend"
+    name = "F"
     parent = "Jugend"
     url  = "/jugend/f-jugend/"
     weight = 6
   [[menu.main]]
-    name = "G-Jugend"
+    name = "G"
     parent = "Jugend"
     url  = "/jugend/g-jugend/"
     weight = 7
