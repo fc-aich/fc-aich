@@ -2,14 +2,50 @@
   --primary: #999999;
   --nav-hover: #ffffff;
   --nav-text: rgba(255, 255, 255, 0.85);
+  --bg-color: #130f0f;
+  --bg-color-alt: #1f1f64;
+  --text-color: #555555;
+  --text-color-alt: #f1f1f1;
 }
+
+/* Globale Hintergrund- und Schriftfarbe */
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+}
+
+/* Haupt-Content-Bereich dunkel mit heller Schrift
+article,
+main,
+.content {
+  background-color: var(--bg-color) !important;
+  color: var(--text-color-alt) !important;
+}*/
+
+/* Überschriften hell 
+h1, h2, h3, h4, h5, h6,
+.f1, .f2, .f3, .f4, .f5, .f6 {
+  color: var(--text-color) !important;
+}*/
+
+/* Absätze und Listen hell */
+p, li, span, div {
+  color: inherit;
+}
+
+/* Footer auch dunkel
+footer, .footer {
+  background-color: var(--bg-color) !important;
+  color: var(--text-color) !important;
+}*/
+
 a, .link, .bg-primary, .text-primary {
   color: var(--primary) !important;
 }
 
 /* ===== Navigation Styling ===== */
 nav[role="navigation"] {
-  background: #000000;
+  background: #1f1f64;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
 }
 
@@ -113,7 +149,7 @@ nav[role="navigation"] ul li a.active::after {
   position: absolute;
   top: 100%;
   left: 0;
-  background: #1a1a1a;
+  background: #181852;
   min-width: 200px;
   padding: 0.5rem 0;
   margin: 0;
