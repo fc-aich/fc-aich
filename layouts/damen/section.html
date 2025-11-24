@@ -1,9 +1,5 @@
 {{ define "main" }}
-  <article class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy nested-links {{ $.Param "text_color" | compare.Default "mid-gray" }}">
-    {{ .Content }}
-  </article>
-
-  {{/* BFV Widget Script einmalig laden */}}
+    {{/* BFV Widget Script einmalig laden */}}
   <script type="text/javascript" src="https://widget-prod.bfv.de/widget/widgetresource/widgetjs"></script>
 
   {{/* Drei-Spalten-Layout für BFV Widgets */}}
@@ -36,6 +32,10 @@
 
     </div>
   </div>
+  
+  <article class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy nested-links {{ $.Param "text_color" | compare.Default "mid-gray" }}">
+    {{ .Content }}
+  </article>
 
   {{/* News-Artikel mit category "damen" anzeigen */}}
   {{ $related_posts := where site.RegularPages "Section" "news" }}
