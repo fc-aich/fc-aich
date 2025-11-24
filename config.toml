@@ -8,7 +8,7 @@ defaultContentLanguage = "de"
 timeZone = "Europe/Berlin"
 
 [pagination]
-  paginate = 10
+  pagerSize = 9
 
 [params]
 #author = "FC Aich"
