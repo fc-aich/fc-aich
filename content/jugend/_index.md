@@ -5,6 +5,8 @@ title: "Jugend"
 featured_image: "img/fotos/jugend-title.png"
 ---
 
+![Oachi im Schnee](/img/oachi/oachi10.png)
+
 Beim FC Aich spielt der Nachwuchs die Hauptrolle. Wir bieten Teams von der **G‑ bis zur A‑Jugend**.
 
 ### Trainingszeiten
