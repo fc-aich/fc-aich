@@ -15,16 +15,56 @@
         </svg>
       </a>
     </div>
-    <div class="flex-l items-center">
+    <!-- Mobile Menu Toggle Button -->
+    <button
+      id="mobile-menu-toggle"
+      class="mobile-menu-button dn-l"
+      aria-label="Navigation öffnen"
+      aria-expanded="false"
+      aria-controls="mobile-menu-overlay"
+    >
+      <span class="hamburger-icon">
+        <span></span>
+        <span></span>
+        <span></span>
+      </span>
+    </button>
+    <!-- Mobile Overlay Menu -->
+    <div id="mobile-menu-overlay" class="mobile-menu-overlay" aria-hidden="true">
+      <div class="mobile-menu-content">
+        <!-- Close Button -->
+        <button
+          id="mobile-menu-close"
+          class="mobile-menu-close"
+          aria-label="Navigation schließen"
+        >
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <line x1="18" y1="6" x2="6" y2="18"></line>
+            <line x1="6" y1="6" x2="18" y2="18"></line>
+          </svg>
+        </button>
+        <!-- Logo in Mobile Menu -->
+        <div class="mobile-menu-logo">
+          {{ with .Site.Params.site_logo }}
+            <img src="{{ urls.RelURL . }}" alt="{{ $.Site.Title }}" />
+          {{ end }}
+        </div>
+        <div class="flex-l items-center">
       {{ partials.Include "i18nlist.html" . }}
       {{ if .Site.Menus.main }}
-        <ul class="{{ compare.Conditional (compare.Eq $.Site.Language.LanguageDirection "rtl") "pr0 ml3" "pl0 mr3" }}">
+        <ul class="{{ compare.Conditional (compare.Eq $.Site.Language.LanguageDirection "rtl") "pr0 ml3" "pl0 mr3" }} mobile-menu-list">
           {{ range .Site.Menus.main }}
           <li class="list f5 f4-ns fw4 dib {{ compare.Conditional (compare.Eq $.Site.Language.LanguageDirection "rtl") "pl3" "pr3" }} nav-item {{ if .HasChildren }}has-dropdown{{ end }}">
             <a class="hover-white white-90 no-underline" href="{{ .URL }}" title="{{ lang.Translate "pageTitle" . }}">
               {{ .Name }}
             </a>
             {{ if .HasChildren }}
+              <!-- Dropdown Toggle für Mobile -->
+              <button class="dropdown-toggle-mobile dn-l" aria-label="{{ .Name }} Untermenü">
+                <svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor">
+                  <path d="M8 10.5l-4-4h8z"/>
+                </svg>
+              </button>
               <ul class="dropdown-menu">
                 {{ range .Children }}
                   <li class="dropdown-item">
@@ -40,6 +80,8 @@
         </ul>
       {{ end }}
       {{ partials.IncludeCached "social/follow.html" . }}
+    </div>
+      </div>
     </div>
   </div>
 </nav>

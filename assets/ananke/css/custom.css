@@ -212,6 +212,348 @@ nav[role="navigation"] ul li a.active::after {
   }
 }
 
+/* ===== Mobile Menu Button (Hamburger) ===== */
+.mobile-menu-button {
+  position: relative;
+  z-index: 2000;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  padding: 0.75rem;
+  margin-left: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: opacity 0.3s ease;
+}
+
+.mobile-menu-button:hover {
+  opacity: 0.8;
+}
+
+.mobile-menu-button:focus {
+  outline: 2px solid rgba(255, 255, 255, 0.5);
+  outline-offset: 2px;
+}
+
+/* Hamburger Icon */
+.hamburger-icon {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 28px;
+  height: 21px;
+  position: relative;
+}
+
+.hamburger-icon span {
+  display: block;
+  width: 100%;
+  height: 3px;
+  background-color: rgba(255, 255, 255, 0.9);
+  border-radius: 2px;
+  transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
+  transform-origin: center;
+}
+
+/* Animated hamburger to X */
+.mobile-menu-button.is-active .hamburger-icon span:nth-child(1) {
+  transform: translateY(9px) rotate(45deg);
+}
+
+.mobile-menu-button.is-active .hamburger-icon span:nth-child(2) {
+  opacity: 0;
+  transform: scaleX(0);
+}
+
+.mobile-menu-button.is-active .hamburger-icon span:nth-child(3) {
+  transform: translateY(-9px) rotate(-45deg);
+}
+
+/* Hide on desktop */
+@media (min-width: 60em) {
+  .mobile-menu-button {
+    display: none !important;
+  }
+}
+
+/* ===== Mobile Menu Overlay ===== */
+.mobile-menu-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(135deg, #1f1f64 0%, #181852 100%);
+  z-index: 1999;
+  overflow-y: auto;
+  overflow-x: hidden;
+
+  /* Hidden by default */
+  opacity: 0;
+  visibility: hidden;
+  transform: translateX(-100%);
+  transition: opacity 0.4s cubic-bezier(0.645, 0.045, 0.355, 1),
+              visibility 0.4s cubic-bezier(0.645, 0.045, 0.355, 1),
+              transform 0.4s cubic-bezier(0.645, 0.045, 0.355, 1);
+}
+
+/* Active state */
+.mobile-menu-overlay.is-active {
+  opacity: 1;
+  visibility: visible;
+  transform: translateX(0);
+}
+
+/* Prevent body scroll when menu is open */
+body.mobile-menu-open {
+  overflow: hidden;
+  position: fixed;
+  width: 100%;
+}
+
+/* Desktop: Always show menu inline, never as overlay */
+@media (min-width: 60em) {
+  .mobile-menu-overlay {
+    position: static;
+    opacity: 1;
+    visibility: visible;
+    transform: none;
+    background: none;
+    overflow: visible;
+    height: auto;
+  }
+}
+
+/* ===== Mobile Menu Content ===== */
+.mobile-menu-content {
+  position: relative;
+  min-height: 100vh;
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  animation: slideInFromLeft 0.4s cubic-bezier(0.645, 0.045, 0.355, 1);
+}
+
+@keyframes slideInFromLeft {
+  from {
+    opacity: 0;
+    transform: translateX(-20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+/* Desktop: Remove overlay styling */
+@media (min-width: 60em) {
+  .mobile-menu-content {
+    min-height: auto;
+    padding: 0;
+    animation: none;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+  }
+}
+
+/* Close Button */
+.mobile-menu-close {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  background: transparent;
+  border: none;
+  color: rgba(255, 255, 255, 0.9);
+  cursor: pointer;
+  padding: 0.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: color 0.3s ease, transform 0.3s ease;
+  z-index: 10;
+}
+
+.mobile-menu-close:hover {
+  color: #ffffff;
+  transform: rotate(90deg);
+}
+
+.mobile-menu-close:focus {
+  outline: 2px solid rgba(255, 255, 255, 0.5);
+  outline-offset: 2px;
+}
+
+/* Desktop: Hide close button */
+@media (min-width: 60em) {
+  .mobile-menu-close {
+    display: none;
+  }
+}
+
+/* Mobile Menu Logo */
+.mobile-menu-logo {
+  text-align: center;
+  margin: 2rem 0 2.5rem;
+  padding: 1rem 0;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.mobile-menu-logo img {
+  width: 120px;
+  height: auto;
+  display: inline-block;
+  filter: drop-shadow(0 2px 8px rgba(0, 0, 0, 0.3));
+}
+
+/* Desktop: Hide logo in menu */
+@media (min-width: 60em) {
+  .mobile-menu-logo {
+    display: none;
+  }
+}
+
+/* ===== Mobile Menu List ===== */
+.mobile-menu-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* Mobile: Vertical stacked layout */
+@media (max-width: 59.99em) {
+  .mobile-menu-list {
+    display: flex !important;
+    flex-direction: column;
+    gap: 0;
+    width: 100%;
+  }
+
+  .mobile-menu-list .nav-item {
+    display: block !important;
+    width: 100%;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+
+  .mobile-menu-list .nav-item > a {
+    display: block !important;
+    padding: 1rem 1rem !important;
+    font-size: 1.125rem;
+    font-weight: 600;
+    color: rgba(255, 255, 255, 0.95) !important;
+    transition: background-color 0.2s ease, padding-left 0.3s ease;
+  }
+
+  .mobile-menu-list .nav-item > a:hover {
+    background-color: rgba(255, 255, 255, 0.08);
+    padding-left: 1.5rem !important;
+  }
+
+  /* Remove the underline effect on mobile */
+  .mobile-menu-list .nav-item > a::after {
+    display: none !important;
+  }
+}
+
+/* ===== Mobile Dropdown Handling ===== */
+@media (max-width: 59.99em) {
+  /* Dropdown toggle button */
+  .dropdown-toggle-mobile {
+    display: inline-flex !important;
+    background: transparent;
+    border: none;
+    color: rgba(255, 255, 255, 0.7);
+    padding: 0.5rem;
+    cursor: pointer;
+    transition: transform 0.3s ease, color 0.2s ease;
+    vertical-align: middle;
+    margin-left: 0.25rem;
+  }
+
+  .dropdown-toggle-mobile:hover {
+    color: rgba(255, 255, 255, 1);
+  }
+
+  /* Rotate when active */
+  .nav-item.has-dropdown.is-open .dropdown-toggle-mobile {
+    transform: rotate(180deg);
+  }
+
+  /* Dropdown menu: hidden by default on mobile */
+  .mobile-menu-list .dropdown-menu {
+    position: static;
+    background: rgba(0, 0, 0, 0.2);
+    box-shadow: none;
+    border-radius: 0;
+    padding: 0;
+    margin: 0;
+    max-height: 0;
+    overflow: hidden;
+    opacity: 0;
+    transition: max-height 0.4s cubic-bezier(0.645, 0.045, 0.355, 1),
+                opacity 0.3s ease,
+                padding 0.3s ease;
+  }
+
+  /* Show dropdown when parent has .is-open class */
+  .mobile-menu-list .nav-item.has-dropdown.is-open .dropdown-menu {
+    max-height: 500px;
+    opacity: 1;
+    padding: 0.5rem 0;
+  }
+
+  .mobile-menu-list .dropdown-item a {
+    padding: 0.75rem 1rem 0.75rem 2rem !important;
+    font-size: 1rem;
+    font-weight: 500;
+  }
+
+  .mobile-menu-list .dropdown-item a:hover {
+    background-color: rgba(255, 255, 255, 0.08);
+    padding-left: 2.5rem !important;
+  }
+
+  /* Remove old mobile dropdown styling */
+  .mobile-menu-list .nav-item.has-dropdown > a::after {
+    content: none;
+  }
+}
+
+/* Desktop: Hide mobile dropdown toggle */
+@media (min-width: 60em) {
+  .dropdown-toggle-mobile {
+    display: none !important;
+  }
+}
+
+/* ===== Focus and Accessibility ===== */
+.mobile-menu-overlay a:focus,
+.mobile-menu-overlay button:focus {
+  outline: 2px solid rgba(255, 255, 255, 0.5);
+  outline-offset: 2px;
+  position: relative;
+  z-index: 1;
+}
+
+/* Smooth scrolling for menu */
+.mobile-menu-overlay {
+  -webkit-overflow-scrolling: touch;
+  scroll-behavior: smooth;
+}
+
+/* Ensure touch targets are large enough (min 44x44px) */
+@media (max-width: 59.99em) {
+  .mobile-menu-list .nav-item > a,
+  .dropdown-toggle-mobile {
+    min-height: 44px;
+    display: inline-flex;
+    align-items: center;
+  }
+}
+
 /* Featured Image Header mit Titel-Overlay */
 .hero-header {
   position: relative;
