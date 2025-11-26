@@ -195,6 +195,16 @@ nav[role="navigation"] ul li a.active::after {
   color: var(--nav-hover) !important;
 }
 
+/* ===== Navigation Layout ===== */
+/* Ensure nav container is flexbox on mobile for vertical alignment */
+@media (max-width: 59.99em) {
+  nav[role="navigation"] > div {
+    display: flex !important;
+    align-items: center;
+    justify-content: space-between;
+  }
+}
+
 /* ===== Mobile Menu Button (Hamburger) ===== */
 .mobile-menu-button {
   position: relative;
