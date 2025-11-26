@@ -195,23 +195,6 @@ nav[role="navigation"] ul li a.active::after {
   color: var(--nav-hover) !important;
 }
 
-/* Mobile: Dropdown untereinander statt nebeneinander */
-@media (max-width: 59.99em) {
-  .dropdown-menu {
-    position: static;
-    opacity: 1;
-    visibility: visible;
-    transform: none;
-    box-shadow: none;
-    background: transparent;
-    padding-left: 1rem;
-  }
-
-  .nav-item.has-dropdown > a::after {
-    content: ' ▾';
-  }
-}
-
 /* ===== Mobile Menu Button (Hamburger) ===== */
 .mobile-menu-button {
   position: relative;
@@ -231,9 +214,13 @@ nav[role="navigation"] ul li a.active::after {
   opacity: 0.8;
 }
 
-.mobile-menu-button:focus {
+.mobile-menu-button:focus-visible {
   outline: 2px solid rgba(255, 255, 255, 0.5);
   outline-offset: 2px;
+}
+
+.mobile-menu-button:focus:not(:focus-visible) {
+  outline: none;
 }
 
 /* Hamburger Icon */
@@ -277,6 +264,13 @@ nav[role="navigation"] ul li a.active::after {
   }
 }
 
+/* Hide hamburger button when menu is open (prevent double X) */
+.mobile-menu-button.is-active {
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+}
+
 /* ===== Mobile Menu Overlay ===== */
 .mobile-menu-overlay {
   position: fixed;
@@ -292,24 +286,23 @@ nav[role="navigation"] ul li a.active::after {
   /* Hidden by default */
   opacity: 0;
   visibility: hidden;
-  transform: translateX(-100%);
-  transition: opacity 0.4s cubic-bezier(0.645, 0.045, 0.355, 1),
-              visibility 0.4s cubic-bezier(0.645, 0.045, 0.355, 1),
-              transform 0.4s cubic-bezier(0.645, 0.045, 0.355, 1);
+  pointer-events: none;
+  transition: opacity 0.2s ease,
+              visibility 0s linear 0.2s; /* Delay visibility to match opacity */
 }
 
 /* Active state */
 .mobile-menu-overlay.is-active {
   opacity: 1;
   visibility: visible;
-  transform: translateX(0);
+  pointer-events: auto;
+  transition: opacity 0.2s ease,
+              visibility 0s linear; /* No delay when opening */
 }
 
 /* Prevent body scroll when menu is open */
 body.mobile-menu-open {
   overflow: hidden;
-  position: fixed;
-  width: 100%;
 }
 
 /* Desktop: Always show menu inline, never as overlay */
@@ -380,9 +373,13 @@ body.mobile-menu-open {
   transform: rotate(90deg);
 }
 
-.mobile-menu-close:focus {
+.mobile-menu-close:focus-visible {
   outline: 2px solid rgba(255, 255, 255, 0.5);
   outline-offset: 2px;
+}
+
+.mobile-menu-close:focus:not(:focus-visible) {
+  outline: none;
 }
 
 /* Desktop: Hide close button */
@@ -460,60 +457,44 @@ body.mobile-menu-open {
 
 /* ===== Mobile Dropdown Handling ===== */
 @media (max-width: 59.99em) {
-  /* Dropdown toggle button */
+  /* Hide dropdown toggle button on mobile - we show all items expanded */
   .dropdown-toggle-mobile {
-    display: inline-flex !important;
-    background: transparent;
-    border: none;
-    color: rgba(255, 255, 255, 0.7);
-    padding: 0.5rem;
-    cursor: pointer;
-    transition: transform 0.3s ease, color 0.2s ease;
-    vertical-align: middle;
-    margin-left: 0.25rem;
+    display: none !important;
   }
 
-  .dropdown-toggle-mobile:hover {
-    color: rgba(255, 255, 255, 1);
-  }
-
-  /* Rotate when active */
-  .nav-item.has-dropdown.is-open .dropdown-toggle-mobile {
-    transform: rotate(180deg);
-  }
-
-  /* Dropdown menu: hidden by default on mobile */
+  /* Dropdown menu: always visible on mobile, no collapsing */
   .mobile-menu-list .dropdown-menu {
     position: static;
-    background: rgba(0, 0, 0, 0.2);
+    background: transparent;
     box-shadow: none;
     border-radius: 0;
     padding: 0;
     margin: 0;
-    max-height: 0;
-    overflow: hidden;
-    opacity: 0;
-    transition: max-height 0.4s cubic-bezier(0.645, 0.045, 0.355, 1),
-                opacity 0.3s ease,
-                padding 0.3s ease;
+    max-height: none;
+    overflow: visible;
+    opacity: 1;
+    visibility: visible;
+    transform: none;
+    display: block;
   }
 
-  /* Show dropdown when parent has .is-open class */
-  .mobile-menu-list .nav-item.has-dropdown.is-open .dropdown-menu {
-    max-height: 500px;
-    opacity: 1;
-    padding: 0.5rem 0;
+  /* Submenu items - indented to show hierarchy */
+  .mobile-menu-list .dropdown-item {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.05);
   }
 
   .mobile-menu-list .dropdown-item a {
-    padding: 0.75rem 1rem 0.75rem 2rem !important;
+    display: block;
+    padding: 0.875rem 1rem 0.875rem 2.5rem !important;
     font-size: 1rem;
-    font-weight: 500;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 0.85) !important;
+    transition: background-color 0.2s ease, padding-left 0.3s ease;
   }
 
   .mobile-menu-list .dropdown-item a:hover {
     background-color: rgba(255, 255, 255, 0.08);
-    padding-left: 2.5rem !important;
+    padding-left: 3rem !important;
   }
 
   /* Remove old mobile dropdown styling */
@@ -530,12 +511,19 @@ body.mobile-menu-open {
 }
 
 /* ===== Focus and Accessibility ===== */
-.mobile-menu-overlay a:focus,
-.mobile-menu-overlay button:focus {
+/* Only show focus outline for keyboard navigation (not touch/click) */
+.mobile-menu-overlay a:focus-visible,
+.mobile-menu-overlay button:focus-visible {
   outline: 2px solid rgba(255, 255, 255, 0.5);
   outline-offset: 2px;
   position: relative;
   z-index: 1;
+}
+
+/* Remove focus outline on click/touch */
+.mobile-menu-overlay a:focus:not(:focus-visible),
+.mobile-menu-overlay button:focus:not(:focus-visible) {
+  outline: none;
 }
 
 /* Smooth scrolling for menu */

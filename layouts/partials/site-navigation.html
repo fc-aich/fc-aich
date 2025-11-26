@@ -59,8 +59,8 @@
               {{ .Name }}
             </a>
             {{ if .HasChildren }}
-              <!-- Dropdown Toggle für Mobile -->
-              <button class="dropdown-toggle-mobile dn-l" aria-label="{{ .Name }} Untermenü">
+              <!-- Dropdown Toggle für Desktop (nicht für Mobile) -->
+              <button class="dropdown-toggle-mobile dn db-l" aria-label="{{ .Name }} Untermenü" style="display: none;">
                 <svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor">
                   <path d="M8 10.5l-4-4h8z"/>
                 </svg>

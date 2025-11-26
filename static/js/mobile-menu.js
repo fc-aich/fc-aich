@@ -17,9 +17,10 @@
   // Configuration
   const CONFIG = {
     breakpoint: 960, // 60em = 960px (Tachyons -l breakpoint)
-    transitionDuration: 400, // Must match CSS transition duration
+    transitionDuration: 200, // Must match CSS transition duration
     focusTrapEnabled: true,
-    closeOnLinkClick: true,
+    autoFocusEnabled: false, // Disabled to prevent layout jump on mobile
+    closeOnLinkClick: false, // Disabled - let page reload handle menu close
   };
 
   // State
@@ -87,8 +88,15 @@
 
   /**
    * Setup dropdown toggle buttons
+   * Note: On mobile (<960px), dropdowns are always expanded.
+   * This only applies to desktop view if needed.
    */
   function setupDropdownToggles() {
+    // Skip dropdown toggle setup on mobile - items are always visible
+    if (window.innerWidth < CONFIG.breakpoint) {
+      return;
+    }
+
     const dropdownItems = menuOverlay.querySelectorAll('.nav-item.has-dropdown');
 
     dropdownItems.forEach(item => {
@@ -152,7 +160,7 @@
    * Handle overlay click (close if clicking backdrop)
    */
   function handleOverlayClick(e) {
-    // Only close if clicking directly on overlay (not menu content)
+    // Only close if clicking directly on overlay backdrop (not menu content or links)
     if (e.target === menuOverlay) {
       closeMenu();
     }
@@ -178,10 +186,18 @@
    * Handle menu link clicks
    */
   function handleLinkClick(e) {
-    // Close menu after short delay (allow navigation to start)
-    setTimeout(() => {
-      closeMenu();
-    }, 100);
+    // For regular navigation links, we don't need to close the menu manually
+    // as the page will reload anyway. Only close for hash/anchor links.
+    const href = e.target.getAttribute('href') || e.target.closest('a')?.getAttribute('href');
+
+    if (href && href.startsWith('#')) {
+      // Anchor link on same page - close menu after navigation
+      setTimeout(() => {
+        closeMenu();
+      }, 50);
+    }
+    // For all other links, let the browser handle navigation normally
+    // The page reload will automatically close the menu
   }
 
   /**
@@ -191,6 +207,12 @@
     if (isMenuOpen) return;
 
     isMenuOpen = true;
+
+    // Calculate scrollbar width and compensate to prevent layout shift
+    const scrollbarWidth = window.innerWidth - document.documentElement.clientWidth;
+    if (scrollbarWidth > 0) {
+      document.body.style.paddingRight = `${scrollbarWidth}px`;
+    }
 
     // Update button state
     menuToggleButton.classList.add('is-active');
@@ -203,17 +225,26 @@
     // Prevent body scroll
     document.body.classList.add('mobile-menu-open');
 
+    // Force a reflow to ensure layout is stable before enabling pointer events
+    // This prevents clicks from being "eaten" by layout shifts
+    void menuOverlay.offsetHeight;
+
+    // Now enable pointer events after layout has settled
+    menuOverlay.style.pointerEvents = 'auto';
+
     // Setup focus trap
     if (CONFIG.focusTrapEnabled) {
       setupFocusTrap();
     }
 
-    // Focus first element after animation
-    setTimeout(() => {
-      if (firstFocusableElement) {
-        firstFocusableElement.focus();
-      }
-    }, CONFIG.transitionDuration);
+    // Focus first element after animation (only if enabled)
+    if (CONFIG.autoFocusEnabled) {
+      setTimeout(() => {
+        if (firstFocusableElement) {
+          firstFocusableElement.focus();
+        }
+      }, CONFIG.transitionDuration);
+    }
   }
 
   /**
@@ -228,12 +259,14 @@
     menuToggleButton.classList.remove('is-active');
     menuToggleButton.setAttribute('aria-expanded', 'false');
 
-    // Hide overlay
+    // Hide overlay and disable pointer events
     menuOverlay.classList.remove('is-active');
     menuOverlay.setAttribute('aria-hidden', 'true');
+    menuOverlay.style.pointerEvents = '';
 
-    // Restore body scroll
+    // Restore body scroll and remove padding compensation
     document.body.classList.remove('mobile-menu-open');
+    document.body.style.paddingRight = '';
 
     // Close all dropdowns
     dropdownToggles.forEach(dropdown => {
