@@ -205,6 +205,17 @@ nav[role="navigation"] ul li a.active::after {
   }
 }
 
+/* Fix pointer events on desktop - allow clicks through container to menu items */
+@media (min-width: 60em) {
+  nav[role="navigation"] > div.flex-l {
+    pointer-events: none !important;
+  }
+
+  nav[role="navigation"] > div.flex-l > * {
+    pointer-events: auto !important;
+  }
+}
+
 /* ===== Mobile Menu Button (Hamburger) ===== */
 .mobile-menu-button {
   position: relative;
@@ -315,7 +326,7 @@ body.mobile-menu-open {
   overflow: hidden;
 }
 
-/* Desktop: Always show menu inline, never as overlay */
+/* Desktop: Show menu inline, remove overlay blocking behavior */
 @media (min-width: 60em) {
   .mobile-menu-overlay {
     position: static;
@@ -325,6 +336,12 @@ body.mobile-menu-open {
     background: none;
     overflow: visible;
     height: auto;
+    pointer-events: none !important; /* Don't block clicks */
+  }
+
+  /* But allow clicks on menu items themselves */
+  .mobile-menu-overlay * {
+    pointer-events: auto;
   }
 }
 
@@ -472,8 +489,8 @@ body.mobile-menu-open {
     display: none !important;
   }
 
-  /* Dropdown menu: always visible on mobile, no collapsing */
-  .mobile-menu-list .dropdown-menu {
+  /* Dropdown menu: always visible on mobile when overlay is active, no collapsing */
+  .mobile-menu-overlay.is-active .mobile-menu-list .dropdown-menu {
     position: static;
     background: transparent;
     box-shadow: none;
@@ -488,12 +505,12 @@ body.mobile-menu-open {
     display: block;
   }
 
-  /* Submenu items - indented to show hierarchy */
-  .mobile-menu-list .dropdown-item {
+  /* Submenu items - indented to show hierarchy (only when mobile overlay is active) */
+  .mobile-menu-overlay.is-active .mobile-menu-list .dropdown-item {
     border-bottom: 1px solid rgba(255, 255, 255, 0.05);
   }
 
-  .mobile-menu-list .dropdown-item a {
+  .mobile-menu-overlay.is-active .mobile-menu-list .dropdown-item a {
     display: block;
     padding: 0.875rem 1rem 0.875rem 2.5rem !important;
     font-size: 1rem;
@@ -502,7 +519,7 @@ body.mobile-menu-open {
     transition: background-color 0.2s ease, padding-left 0.3s ease;
   }
 
-  .mobile-menu-list .dropdown-item a:hover {
+  .mobile-menu-overlay.is-active .mobile-menu-list .dropdown-item a:hover {
     background-color: rgba(255, 255, 255, 0.08);
     padding-left: 3rem !important;
   }
