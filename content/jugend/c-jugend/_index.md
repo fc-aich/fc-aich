@@ -3,6 +3,8 @@ title: "- C -"
 featured_image: ""
 ---
 
+![Oachi](/img/oachi/oachi-bodybuilder-small.png)
+
 Hier findet ihr Infos, Kader und Spieltermine der **C-Jugend**.
 
 ## Trainer:
