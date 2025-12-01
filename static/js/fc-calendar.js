@@ -16,13 +16,18 @@
 
   // Konfiguration
   const CONFIG = {
+    // Unsere eigenen Optionen
     calendarEl: '#fc-calendar',
     agendaEl: '#fc-agenda',
+    breakpoint: 960, // 60em = Tachyons -l
+  };
+
+  // FullCalendar-spezifische Optionen
+  const CALENDAR_OPTIONS = {
     locale: 'de',
     firstDay: 1, // Montag
     initialView: 'dayGridMonth',
     timeZone: 'Europe/Berlin',
-    breakpoint: 960, // 60em = Tachyons -l
     headerToolbar: {
       left: 'prev,next today',
       center: 'title',
@@ -76,7 +81,7 @@
     if (!calendarEl) return;
 
     calendar = new FullCalendar.Calendar(calendarEl, {
-      ...CONFIG,
+      ...CALENDAR_OPTIONS,
       googleCalendarApiKey: apiKey,
       events: {
         googleCalendarId: calendarId,
@@ -99,7 +104,7 @@
     if (!agendaEl) return;
 
     agendaCalendar = new FullCalendar.Calendar(agendaEl, {
-      ...CONFIG,
+      ...CALENDAR_OPTIONS,
       initialView: 'listMonth',
       headerToolbar: {
         left: '',
