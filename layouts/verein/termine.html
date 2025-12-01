@@ -4,9 +4,12 @@
     {{ .Content }}
 
     {{/* Calendar Container with proper data attributes */}}
+    {{/* Read from environment variables directly since Hugo's automatic mapping doesn't work reliably */}}
+    {{ $apiKey := getenv "HUGO_PARAMS_CALENDAR_GOOGLE_API_KEY" }}
+    {{ $calendarId := getenv "HUGO_PARAMS_CALENDAR_CALENDAR_ID" }}
     <div id="fc-calendar-container"
-         data-api-key="{{ .Site.Params.calendar.google_api_key }}"
-         data-calendar-id="{{ .Site.Params.calendar.calendar_id }}">
+         data-api-key="{{ $apiKey }}"
+         data-calendar-id="{{ $calendarId }}">
       <div id="fc-calendar" class="fc-calendar-loading"></div>
       <div id="fc-agenda" class="fc-calendar-loading"></div>
     </div>
@@ -14,9 +17,9 @@
     <h2 id="kalender-abonnieren">Kalender abonnieren</h2>
     <p>Sie können unseren Kalender auch in Ihre eigene Kalender-App integrieren.</p>
     <p><strong>Für Google Calendar, Apple Calendar, Outlook:</strong></p>
-    {{if .Site.Params.calendar.calendar_id}}
+    {{if $calendarId}}
     <p>
-      <a href="https://calendar.google.com/calendar/ical/{{ .Site.Params.calendar.calendar_id }}/public/basic.ics">
+      <a href="https://calendar.google.com/calendar/ical/{{ $calendarId }}/public/basic.ics">
         FC Aich öffentlicher Kalender
       </a>
     </p>
