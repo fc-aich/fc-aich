@@ -6,7 +6,7 @@ categories:
   - jugend
 cover:
   alt: ferienprogramm
-  image: /wp-content/uploads/2016/09/ferienprogramm.jpg
+  image: /uploads/2016/09/ferienprogramm.jpg
 date: "2016-09-01T06:45:56+00:00"
 guid: http://test.fc-aich.de/?p=494
 parent_post_id: null

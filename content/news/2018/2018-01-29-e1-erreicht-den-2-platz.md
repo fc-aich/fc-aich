@@ -6,7 +6,7 @@ categories:
   - allgemein
 cover:
   alt: E1-Greifenberg
-  image: /wp-content/uploads/2018/01/E1-Greifenberg.jpg
+  image: /uploads/2018/01/E1-Greifenberg.jpg
 date: "2018-01-29T09:53:43+00:00"
 guid: http://www.fc-aich.de/?p=1851
 parent_post_id: null

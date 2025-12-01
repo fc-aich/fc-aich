@@ -6,7 +6,7 @@ categories:
   - 2.mannschaft
 cover:
   alt: WhatsApp Image 2019-03-10 at 20.49.33
-  image: /wp-content/uploads/2019/03/WhatsApp-Image-2019-03-10-at-20.49.33.jpeg
+  image: /uploads/2019/03/WhatsApp-Image-2019-03-10-at-20.49.33.jpeg
 date: "2019-03-10T21:10:51+00:00"
 guid: http://www.fc-aich.de/?p=2516
 parent_post_id: null

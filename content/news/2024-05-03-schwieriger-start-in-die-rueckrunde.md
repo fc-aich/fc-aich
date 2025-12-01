@@ -15,10 +15,10 @@ Auch nach der Halbzeitpause fanden wir nicht zu unserer anfänglichen Form zurü
 Durch zahlreiche Wechsel, die in dem Versuch stattfanden, die verletzten, fehlenden Spieler auszugleichen, fanden wir als Mannschaft im Spiel nicht mehr zusammen und konnten den Gästen ihren Sieg nicht mehr nehmen.  
 Wir freuen uns sehr, dass Alexandra de Lucia und Kristina Zwack am Wochenende ihr erstes offizielles Spiel für unsere Mannschaft absolvierten.
 
-![](/wp-content/uploads/2024/05/IMG-20240429-WA0012-1.jpg)
+![](/uploads/2024/05/IMG-20240429-WA0012-1.jpg)
 
-![](/wp-content/uploads/2024/05/IMG-20240429-WA0008.jpg)![](/wp-content/uploads/2024/05/IMG-20240429-WA0004.jpg)
+![](/uploads/2024/05/IMG-20240429-WA0008.jpg)![](/uploads/2024/05/IMG-20240429-WA0004.jpg)
 
-![](/wp-content/uploads/2024/05/IMG-20240429-WA0005.jpg)
+![](/uploads/2024/05/IMG-20240429-WA0005.jpg)
 
-![](/wp-content/uploads/2024/05/IMG-20240429-WA0010.jpg)
+![](/uploads/2024/05/IMG-20240429-WA0010.jpg)

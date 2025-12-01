@@ -5,7 +5,7 @@ categories:
   - allgemein
 cover:
   alt: allevorn
-  image: /wp-content/uploads/2019/08/allevorn.jpg
+  image: /uploads/2019/08/allevorn.jpg
 date: "2019-08-06T18:26:33+00:00"
 guid: http://www.fc-aich.de/?p=2738
 parent_post_id: null
@@ -38,20 +38,20 @@ Wir wünschen Allen schöne Ferien
 
 Das Oacher BFV Team
 
-{{< figure src="/wp-content/uploads/2019/08/Alle-1.jpg" alt="" caption="" >}}
+{{< figure src="/uploads/2019/08/Alle-1.jpg" alt="" caption="" >}}
 
-{{< figure src="/wp-content/uploads/2019/08/Chiara-1.jpg" alt="" caption="" >}}
+{{< figure src="/uploads/2019/08/Chiara-1.jpg" alt="" caption="" >}}
 
-{{< figure src="/wp-content/uploads/2019/08/chiara2-1.jpg" alt="" caption="" >}}
+{{< figure src="/uploads/2019/08/chiara2-1.jpg" alt="" caption="" >}}
 
-{{< figure src="/wp-content/uploads/2019/08/Denny-1.jpg" alt="" caption="" >}}
+{{< figure src="/uploads/2019/08/Denny-1.jpg" alt="" caption="" >}}
 
-{{< figure src="/wp-content/uploads/2019/08/Hans-1.jpg" alt="" caption="" >}}
+{{< figure src="/uploads/2019/08/Hans-1.jpg" alt="" caption="" >}}
 
-{{< figure src="/wp-content/uploads/2019/08/Luis-1.jpg" alt="" caption="" >}}
+{{< figure src="/uploads/2019/08/Luis-1.jpg" alt="" caption="" >}}
 
-{{< figure src="/wp-content/uploads/2019/08/Poschi-1.jpg" alt="" caption="" >}}
+{{< figure src="/uploads/2019/08/Poschi-1.jpg" alt="" caption="" >}}
 
-{{< figure src="/wp-content/uploads/2019/08/Teil1-1.jpg" alt="" caption="" >}}
+{{< figure src="/uploads/2019/08/Teil1-1.jpg" alt="" caption="" >}}
 
-{{< figure src="/wp-content/uploads/2019/08/Teil2-1.jpg" alt="" caption="" >}}
+{{< figure src="/uploads/2019/08/Teil2-1.jpg" alt="" caption="" >}}

@@ -5,7 +5,7 @@ categories:
   - allgemein
 cover:
   alt: Mannschaftsfoto_FC_Aich_2019
-  image: /wp-content/uploads/2019/07/Mannschaftsfoto_FC_Aich_2019.jpg
+  image: /uploads/2019/07/Mannschaftsfoto_FC_Aich_2019.jpg
 date: "2019-07-02T18:24:29+00:00"
 guid: http://www.fc-aich.de/?p=2619
 parent_post_id: null

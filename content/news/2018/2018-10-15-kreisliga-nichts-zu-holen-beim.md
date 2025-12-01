@@ -6,7 +6,7 @@ categories:
   - 1.mannschaft
 cover:
   alt: Mannschaft
-  image: /wp-content/uploads/2017/08/Mannschaft.jpg
+  image: /uploads/2017/08/Mannschaft.jpg
 date: "2018-10-15T16:08:01+00:00"
 guid: http://www.fc-aich.de/?p=2334
 parent_post_id: null

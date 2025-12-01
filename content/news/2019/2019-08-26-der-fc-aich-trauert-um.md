@@ -5,7 +5,7 @@ categories:
   - allgemein
 cover:
   alt: 1695EEB1-9634-4B59-9694-ECEB7E1A73AB
-  image: /wp-content/uploads/2019/08/1695EEB1-9634-4B59-9694-ECEB7E1A73AB.jpeg
+  image: /uploads/2019/08/1695EEB1-9634-4B59-9694-ECEB7E1A73AB.jpeg
 date: "2019-08-26T05:35:16+00:00"
 guid: http://www.fc-aich.de/?p=2776
 parent_post_id: null

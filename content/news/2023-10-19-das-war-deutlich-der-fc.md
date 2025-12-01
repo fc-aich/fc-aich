@@ -11,7 +11,7 @@ title: 'Das war deutlich: Der FC Aich hat Mammendorf mit 6:2 besiegt. Zur Pause 
 url: /das-war-deutlich-der-fc-aich-hat-mammendorf-mit-62-besiegt-zur-pause-stand-es-noch-21/
 
 ---
-![](/wp-content/uploads/2023/10/1440x960.webp)
+![](/uploads/2023/10/1440x960.webp)
 
 Aich – Mit einem 6:2 (2:1) Kantersieg gegen Mammendorf verteidigte Aich seinen dritten Tabellenplatz und baute zugleich den Vorsprung auf Mammendorf auf vier Zähler aus. Man habe sich das Leben zwischendurch immer wieder selbst schwer gemacht, meinte Aichs Trainer Bastian Jaschke nach dem deutlichen Sieg. „Aber am Ende haben wir noch eine Schippe drauf legen können und der Sieg geht in meinen Augen deshalb auch in der Höhe in Ordnung.“
 

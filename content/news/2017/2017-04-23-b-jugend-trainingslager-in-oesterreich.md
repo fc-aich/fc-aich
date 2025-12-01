@@ -6,7 +6,7 @@ categories:
   - jugend
 cover:
   alt: B-Trainingslager-2017
-  image: /wp-content/uploads/2017/04/B-Trainingslager-2017.jpg
+  image: /uploads/2017/04/B-Trainingslager-2017.jpg
 date: "2017-04-23T08:50:46+00:00"
 guid: http://www.fc-aich.de/?p=1186
 parent_post_id: null

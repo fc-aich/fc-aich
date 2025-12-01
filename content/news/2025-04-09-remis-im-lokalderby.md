@@ -15,4 +15,4 @@ Die letzten Minuten vor dem Abpfiff kämpften die Mädels noch für den Siegtref
 
 Stark gekämpft, Mädels! Weiter so!
 
-![](/wp-content/uploads/2025/04/image0-1.jpeg)
+![](/uploads/2025/04/image0-1.jpeg)

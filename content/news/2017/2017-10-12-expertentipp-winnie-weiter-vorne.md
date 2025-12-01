@@ -18,4 +18,4 @@ Hertha BSC Berlin : FC Bayern München 2:2
 Nordirland : Deutschland 1:3
 Deutschland : Aserbaidschan 5:1
 
-Mehr dazu unter: [http://tippspiel.fc-aich.de/ranking](http://tippspiel.fc-aich.de/ranking)![](/wp-content/uploads/2017/10/20171013_Rangliste.png)
+Mehr dazu unter: [http://tippspiel.fc-aich.de/ranking](http://tippspiel.fc-aich.de/ranking)![](/uploads/2017/10/20171013_Rangliste.png)

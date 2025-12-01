@@ -19,7 +19,7 @@ Kleine Nachwuchs-Architekten aus Brucker Grundschulen bauten dafür tagelang mit
 
 Dank unserem Raphael vom FC Aich ist auch unser Vereinsheim auf dem Wasser zu bewundern!
 
-{{< figure src="/wp-content/uploads/2022/12/WhatsApp-Image-2022-12-02-at-16.50.59.jpeg" alt="" caption="" >}}
+{{< figure src="/uploads/2022/12/WhatsApp-Image-2022-12-02-at-16.50.59.jpeg" alt="" caption="" >}}
 
 Super Idee, tolle Arbeit!
 

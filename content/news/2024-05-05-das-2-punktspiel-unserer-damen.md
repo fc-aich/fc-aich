@@ -11,6 +11,6 @@ Am 02.05.2024 liefen unsere Damen um 19:30 Uhr für ihr zweites Punktspiel gegen
 Leider war es Gröbenzell, die dieses erste Tor in der 60. Minute schossen und später in der 72. Minute auf den 2:0 Endstand erhöhten.  
 Dennoch zeigte unsere Mannschaft eine deutliche Steigerung im Vergleich zum letzten Spiel und das, obwohl uns verletzungsbedingt wieder Spielerinnen fehlten. Deshalb kann man unseren Damen trotz der Niederlage zu ihrer Leistung gratulieren.
 
-![](/wp-content/uploads/2024/05/IMG-20240503-WA0023.jpg)
+![](/uploads/2024/05/IMG-20240503-WA0023.jpg)
 
-![](/wp-content/uploads/2024/05/IMG-20240503-WA0021.jpg)
+![](/uploads/2024/05/IMG-20240503-WA0021.jpg)

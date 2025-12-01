@@ -18,4 +18,4 @@ Neue Ergebnisse:
 - FC Bayern München : SC Freiburg 5:0
 - FC Aich : SC Pöcking-Possenhofen 2:2
 
-Mehr unter: [http://tippspiel.fc-aich.de/](http://tippspiel.fc-aich.de/)![](/wp-content/uploads/2017/10/20171020_Rangliste.png.png)
+Mehr unter: [http://tippspiel.fc-aich.de/](http://tippspiel.fc-aich.de/)![](/uploads/2017/10/20171020_Rangliste.png.png)

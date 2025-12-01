@@ -11,4 +11,4 @@ title: Kandler Leonhard feiert seinen  90. Geburtstag und wird für 70 Jahre Mit
 url: /kandler-leonhard-feiert-seinen-90-geburtstag-und-wird-fuer-70-jahre-mitgliedschaft-geehrt/
 
 ---
-{{< figure src="/wp-content/uploads/2020/06/Kandler-Leonhard-Text-90.-Geburtstag-II.png" alt="" caption="" >}}
+{{< figure src="/uploads/2020/06/Kandler-Leonhard-Text-90.-Geburtstag-II.png" alt="" caption="" >}}

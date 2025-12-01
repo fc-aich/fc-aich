@@ -6,7 +6,7 @@ categories:
   - allgemein
 cover:
   alt: Neymar
-  image: /wp-content/uploads/2017/01/Neymar.jpg
+  image: /uploads/2017/01/Neymar.jpg
 date: "2017-01-30T09:27:50+00:00"
 guid: http://www.fc-aich.de/?p=1050
 parent_post_id: null

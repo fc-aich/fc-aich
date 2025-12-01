@@ -6,7 +6,7 @@ categories:
   - 1.mannschaft
 cover:
   alt: sv_geiselbullach
-  image: /wp-content/uploads/2016/08/sv_geiselbullach.jpg
+  image: /uploads/2016/08/sv_geiselbullach.jpg
 date: "2016-10-04T06:39:17+00:00"
 guid: http://www.fc-aich.de/?p=634
 parent_post_id: null

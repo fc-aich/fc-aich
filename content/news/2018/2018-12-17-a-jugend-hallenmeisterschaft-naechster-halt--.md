@@ -6,10 +6,10 @@ categories:
   - jugend
 cover:
   alt: WhatsApp Image 2018-12-16 at 20.20.52
-  image: /wp-content/uploads/2018/12/WhatsApp-Image-2018-12-16-at-20.20.52.jpeg
+  image: /uploads/2018/12/WhatsApp-Image-2018-12-16-at-20.20.52.jpeg
 date: "2018-12-17T20:40:20+00:00"
 enclosure: |-
-  http://www.fc-aich.de/wp-content/uploads/2018/12/WhatsApp-Video-2018-12-16-at-20.21.59.mp4
+  http://www.fc-aich.de/uploads/2018/12/WhatsApp-Video-2018-12-16-at-20.21.59.mp4
   7137367
   video/mp4
 guid: http://www.fc-aich.de/?p=2446
@@ -33,6 +33,6 @@ Es spielten:
 - Denny Rosic ~ Philipp Degel ~ Nicolas Januschke ~ Benedikt Steber
 - Luis Czech ~ Benedict Ludwig ~ Manuel Milde ~ Michail Khrapak
 
-![](/wp-content/uploads/2018/12/WhatsApp-Image-2018-12-16-at-20.20.49.jpeg)
+![](/uploads/2018/12/WhatsApp-Image-2018-12-16-at-20.20.49.jpeg)
 
-\[video width="640" height="352" mp4="/wp-content/uploads/2018/12/WhatsApp-Video-2018-12-16-at-20.21.59.mp4"\]\[/video\]
+\[video width="640" height="352" mp4="/uploads/2018/12/WhatsApp-Video-2018-12-16-at-20.21.59.mp4"\]\[/video\]

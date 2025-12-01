@@ -6,7 +6,7 @@ categories:
   - jugend
 cover:
   alt: D-Juniorinnen
-  image: /wp-content/uploads/2017/07/D-Juniorinnen.jpg
+  image: /uploads/2017/07/D-Juniorinnen.jpg
 date: "2017-07-19T13:55:08+00:00"
 guid: http://www.fc-aich.de/?p=1429
 parent_post_id: null

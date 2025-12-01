@@ -5,7 +5,7 @@ categories:
   - allgemein
 cover:
   alt: flyer-aich
-  image: /wp-content/uploads/2019/04/flyer-aich.jpg
+  image: /uploads/2019/04/flyer-aich.jpg
 date: "2019-04-25T09:21:10+00:00"
 guid: http://www.fc-aich.de/?p=2542
 parent_post_id: null

@@ -17,4 +17,4 @@ Wir freuen uns auf einen unterhaltsamen Abend mit tollen Spielen, guter Stimmung
 
 Den Flyer mit allen wichtigen Informationen findet ihr hier:
 
-![](/wp-content/uploads/2025/01/Flyer-Watt-Turnier-2025-v2.png)
+![](/uploads/2025/01/Flyer-Watt-Turnier-2025-v2.png)

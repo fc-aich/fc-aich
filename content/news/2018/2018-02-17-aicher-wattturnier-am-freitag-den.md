@@ -11,4 +11,4 @@ title: Aicher Wattturnier am Freitag den 2. März 2018
 url: /wattn-aicher-wattturnier-am-freitag-den-2-maerz-2018/
 
 ---
-![](/wp-content/uploads/2018/02/FC_Aich_Wattturnier_Single_2018.png)
+![](/uploads/2018/02/FC_Aich_Wattturnier_Single_2018.png)

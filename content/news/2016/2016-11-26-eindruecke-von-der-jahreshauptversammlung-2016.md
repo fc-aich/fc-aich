@@ -6,7 +6,7 @@ categories:
   - allgemein
 cover:
   alt: img_5745
-  image: /wp-content/uploads/2016/11/IMG_5745.jpg
+  image: /uploads/2016/11/IMG_5745.jpg
 date: "2016-11-26T16:01:55+00:00"
 guid: http://www.fc-aich.de/?p=918
 parent_post_id: null

@@ -16,4 +16,4 @@ Die beiden Heimpartien der Oacher Herrenmannschaften wurden in dem Tippspiel ber
 - FC Aich : SC Oberweikertshofen II 2:2
 - FC Aich II : SC Oberweikertshofen III 0:0
 
-Mehr dazu auf: [http://tippspiel.fc-aich.de](http://tippspiel.fc-aich.de)![](/wp-content/uploads/2017/10/20171004_Expertentipp.png)
+Mehr dazu auf: [http://tippspiel.fc-aich.de](http://tippspiel.fc-aich.de)![](/uploads/2017/10/20171004_Expertentipp.png)

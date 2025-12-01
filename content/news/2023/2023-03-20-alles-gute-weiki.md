@@ -11,4 +11,4 @@ title: Alles Gute Weiki
 url: /alles-gute-weiki/
 
 ---
-{{< figure src="/wp-content/uploads/2023/03/IMG%5F0163.jpg" alt="" caption="" >}}
+{{< figure src="/uploads/2023/03/IMG%5F0163.jpg" alt="" caption="" >}}

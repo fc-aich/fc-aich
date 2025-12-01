@@ -28,6 +28,6 @@ Wir würden uns freuen euch auch in der Rückrunde wieder begrüßen zu dürfen,
 Vielen Dank für eure Unterstützung!   
 Die Damen vom FC Aich / FSV Aufkirchen und Traininer Robert Weikenstorfer
 
-{{< figure src="/wp-content/uploads/2019/10/Damen-18102019.jpg" alt="" caption="" >}}
+{{< figure src="/uploads/2019/10/Damen-18102019.jpg" alt="" caption="" >}}
 
 Text und Bilder: Robert Weikenstorfer

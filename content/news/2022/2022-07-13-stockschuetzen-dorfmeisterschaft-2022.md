@@ -15,7 +15,7 @@ Für Samstag den 9. Juli 2022 hatte der Stockschützenverein zur alljährlichen 
 
 Aus dem Ort haben sich hier ganze 11 Mannschaften zum Wettbewerb auf der Stockbahn getroffen.
 
-{{< figure src="/wp-content/uploads/2022/07/Bildschirmfoto-2022-07-13-um-20.29.58.png" alt="" caption="" >}}
+{{< figure src="/uploads/2022/07/Bildschirmfoto-2022-07-13-um-20.29.58.png" alt="" caption="" >}}
 
 Das Team der Aicher Fußballer hat den hervorragenden 2. Platz belegt und musste sich in einem spannenden Finale nur dem Team Milchhäusl geschlagen geben – herzlichen Glückwunsch!
 

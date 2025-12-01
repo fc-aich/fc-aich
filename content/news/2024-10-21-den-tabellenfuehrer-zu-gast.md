@@ -5,9 +5,9 @@ categories:
 date: "2024-10-21T18:07:31+00:00"
 title: Den Tabellenführer zu Gast...
 gallery:
-  - /wp-content/uploads/2024/10/image2.jpeg
-  - /wp-content/uploads/2024/10/image1.jpeg
-  - /wp-content/uploads/2024/10/image0.jpeg
+  - /uploads/2024/10/image2.jpeg
+  - /uploads/2024/10/image1.jpeg
+  - /uploads/2024/10/image0.jpeg
 
 ---
 Am vergangenen Sonntag, den 20. Oktober, hatte die Spielgemeinschaft der Damen den Tabellenführer, den TSV Gilching / Argelsried zu Gast in Wildenroth. Das Match hat nicht den Tabellenstand widerspiegelt, das Ergebnis leider schon. Unsere Damen waren vor allem in der ersten Halbzeit mit Abstand die überlegenere Mannschaft, es wurde fast nur in der gegnerischen Hälfte gespielt und die Verteidigung der Gilchinger ordentlich ins Schwitzen gebracht. Die SG machte das Spiel und konnte einige hochkarätige Chancen herausspielen. Der Schiedsrichter hingegen hatte wohl nicht seinen besten Tag. Ady Throm wurde von zwei Gilchingerinnen im Fünfmeterraum in die Zange genommen, konnte sich durchsetzen und stand alleine vor der Torfrau. Sie musste den Ball nur noch über die Linie schieben, doch dann pfiff der Schiri ab - Freistoß für die Gilchinger Damen. Die Trainer und Zuschauer tobten -  zu Recht - doch das Meckern von Trainer Sigl ging zu weit und wurde mit einer gelben Karte geahndet. Nachdem sowohl Schamberger als auch Sigl mittlerweile wegen Meckerns eine gelbe Karte bekommen haben, ist die Überlegung, ob man die beiden in den Strafenkatalog mit aufnimmt.

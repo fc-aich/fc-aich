@@ -20,4 +20,4 @@ Nach dem Schlusspfiff jubelten alle mitgereisten Eltern und die Mannschaft dreht
 
 Die Spieler Felix, Oskar, Timo, Rafael, Elias, Nico, Benjamin, Devnim. Oskar, Florian und Levy.
 
-![](/wp-content/uploads/2024/03/Bild1.jpg)
+![](/uploads/2024/03/Bild1.jpg)

@@ -11,7 +11,7 @@ title: 100 Spiele für Felix Kriechebauer
 url: /100-spiele-fuer-felix-kriechebauer/
 
 ---
-{{< figure src="/wp-content/uploads/2022/09/Felix-Kriechebauer.jpeg" alt="" caption="" >}}
+{{< figure src="/uploads/2022/09/Felix-Kriechebauer.jpeg" alt="" caption="" >}}
 
 100\. Spiel von Felix Kriechebauer beim Kreisligaspiel SC FFB gegen FC Aich 1:4.
 

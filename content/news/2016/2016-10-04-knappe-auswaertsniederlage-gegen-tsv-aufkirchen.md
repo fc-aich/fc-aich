@@ -6,7 +6,7 @@ categories:
   - 2.mannschaft
 cover:
   alt: Logo_FSV_Aufkirchen__
-  image: /wp-content/uploads/2016/08/Logo_FSV_Aufkirchen__.png
+  image: /uploads/2016/08/Logo_FSV_Aufkirchen__.png
 date: "2016-10-04T05:39:56+00:00"
 guid: http://www.fc-aich.de/?p=636
 parent_post_id: null

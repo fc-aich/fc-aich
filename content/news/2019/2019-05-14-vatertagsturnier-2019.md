@@ -5,7 +5,7 @@ categories:
   - allgemein
 cover:
   alt: Plakat
-  image: /wp-content/uploads/2019/05/Plakat.jpg
+  image: /uploads/2019/05/Plakat.jpg
 date: "2019-05-14T12:44:51+00:00"
 guid: http://www.fc-aich.de/?p=2563
 parent_post_id: null
@@ -23,4 +23,4 @@ Vatertagsturnier des FC Aich - Rahmenzeitplan
 \[table id=31 /\]
 
 Hier die Spielpläne
-[G1-Junioren](/wp-content/uploads/2019/05/G1-Junioren.pdf) [E1-Junioren](/wp-content/uploads/2019/05/E1-Junioren.pdf) [D-Junioren](/wp-content/uploads/2019/05/D-Junioren.pdf) [G1-Junioren](/wp-content/uploads/2019/05/G1-Junioren.pdf) [F1-Junioren](/wp-content/uploads/2019/05/F1-Junioren.pdf) [E2-Junioren](/wp-content/uploads/2019/05/E2-Junioren.pdf) [C2-Junioren](/wp-content/uploads/2019/05/C2-Junioren.pdf)
+[G1-Junioren](/uploads/2019/05/G1-Junioren.pdf) [E1-Junioren](/uploads/2019/05/E1-Junioren.pdf) [D-Junioren](/uploads/2019/05/D-Junioren.pdf) [G1-Junioren](/uploads/2019/05/G1-Junioren.pdf) [F1-Junioren](/uploads/2019/05/F1-Junioren.pdf) [E2-Junioren](/uploads/2019/05/E2-Junioren.pdf) [C2-Junioren](/uploads/2019/05/C2-Junioren.pdf)

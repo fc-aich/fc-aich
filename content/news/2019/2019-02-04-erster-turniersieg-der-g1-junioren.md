@@ -6,7 +6,7 @@ categories:
   - allgemein
 cover:
   alt: G1
-  image: /wp-content/uploads/2019/02/G1.jpg
+  image: /uploads/2019/02/G1.jpg
 date: "2019-02-04T16:35:47+00:00"
 guid: http://www.fc-aich.de/?p=2486
 parent_post_id: null

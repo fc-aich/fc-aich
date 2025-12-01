@@ -6,7 +6,7 @@ categories:
   - allgemein
 cover:
   alt: Fc_Aich_frei
-  image: /wp-content/uploads/2016/07/Fc_Aich_frei.png
+  image: /uploads/2016/07/Fc_Aich_frei.png
 date: "2018-04-18T19:33:30+00:00"
 guid: http://www.fc-aich.de/?p=2061
 parent_post_id: null
@@ -27,4 +27,4 @@ Wir freuen uns auf Euch!
 Mit sportlichen Grüßen
 Gez. die Vorstandschaft des FC Aich
 
-[Einladung Gedenkmesse Mitglieder](/wp-content/uploads/2018/04/Einladung-Gedenkmesse-Mitglieder.pdf)
+[Einladung Gedenkmesse Mitglieder](/uploads/2018/04/Einladung-Gedenkmesse-Mitglieder.pdf)

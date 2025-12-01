@@ -16,6 +16,6 @@ Das Spiel ging von beiden Seiten hitzig her. Dennoch ging es torlos in die Halbz
 
 Großes Lob an die ganze Mannschaft und Glückwunsch zum erfolgreichen Sieg.
 
-![](/wp-content/uploads/2025/04/image0.jpeg)
+![](/uploads/2025/04/image0.jpeg)
 
-![](/wp-content/uploads/2025/04/image1.jpeg)
+![](/uploads/2025/04/image1.jpeg)

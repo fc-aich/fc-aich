@@ -6,7 +6,7 @@ categories:
   - jugend
 cover:
   alt: KODAK Digital Still Camera
-  image: /wp-content/uploads/2017/10/A-Junioren.jpg
+  image: /uploads/2017/10/A-Junioren.jpg
 date: "2018-03-29T07:46:42+00:00"
 guid: http://www.fc-aich.de/?p=2015
 parent_post_id: null

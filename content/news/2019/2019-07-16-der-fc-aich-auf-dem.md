@@ -6,7 +6,7 @@ categories:
   - allgemein
 cover:
   alt: altstadtfest_b2_710_75
-  image: /wp-content/uploads/2018/07/altstadtfest_b2_710_75.jpg
+  image: /uploads/2018/07/altstadtfest_b2_710_75.jpg
 date: "2019-07-16T18:00:04+00:00"
 guid: http://www.fc-aich.de/?p=2181
 parent_post_id: null

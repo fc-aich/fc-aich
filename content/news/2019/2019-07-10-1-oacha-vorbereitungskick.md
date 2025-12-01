@@ -10,4 +10,4 @@ title: 1. Oacha Vorbereitungskick
 url: /1-oacha-vorbereitungskick/
 
 ---
-{{< figure src="/wp-content/uploads/2019/07/vorbereitungskick-1.jpg" alt="" caption="" >}}
+{{< figure src="/uploads/2019/07/vorbereitungskick-1.jpg" alt="" caption="" >}}

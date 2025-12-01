@@ -19,8 +19,8 @@ Im Laufe der zweiten Halbzeit ließ man dem Gegner mehr Freiheiten, was mit eine
 
 Lina Appelt erzielte in der Nachspielzeit das vierte Tor für unsere Damen und die Partie endete mit einem 1:4 Endstand.
 
-![](/wp-content/uploads/2024/06/WhatsApp-Image-2024-06-15-at-17.30.33.jpeg)
+![](/uploads/2024/06/WhatsApp-Image-2024-06-15-at-17.30.33.jpeg)
 
-![](/wp-content/uploads/2024/06/WhatsApp-Image-2024-06-15-at-17.30.46.jpeg)![](/wp-content/uploads/2024/06/WhatsApp-Image-2024-06-15-at-17.30.47.jpeg)
+![](/uploads/2024/06/WhatsApp-Image-2024-06-15-at-17.30.46.jpeg)![](/uploads/2024/06/WhatsApp-Image-2024-06-15-at-17.30.47.jpeg)
 
 Herzlichen Glückwunsch Mädels zu diesem tollen Spiel und vielen Dank an unseren Torwart, der wieder ein hervorragendes Spiel gemacht hat.

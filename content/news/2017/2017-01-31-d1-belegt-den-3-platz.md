@@ -6,7 +6,7 @@ categories:
   - jugend
 cover:
   alt: D1-Mammendorf
-  image: /wp-content/uploads/2017/01/D1-Mammendorf.jpg
+  image: /uploads/2017/01/D1-Mammendorf.jpg
 date: "2017-01-31T09:59:49+00:00"
 guid: http://www.fc-aich.de/?p=1052
 parent_post_id: null

@@ -20,6 +20,6 @@ Es ist sehr bitter, den Aufstieg vor Augen in den letzten Spielen herzugeben. Nu
 
 Jetzt heißt es abhaken und den vollen Fokus auf unser letztes Spiel am 17.06 in Peißenberg legen. Da zeigen wir nochmal was wir können und das wir zurecht so weit oben in der Tabelle stehen.
 
-![](/wp-content/uploads/2023/05/Bild2-1.jpg)
+![](/uploads/2023/05/Bild2-1.jpg)
 
-![](/wp-content/uploads/2023/05/Bild1-1.jpg)
+![](/uploads/2023/05/Bild1-1.jpg)

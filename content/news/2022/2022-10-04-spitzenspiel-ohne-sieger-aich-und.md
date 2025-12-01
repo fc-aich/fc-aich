@@ -11,7 +11,7 @@ title: 'Spitzenspiel ohne Sieger: Aich und Geiselbullach teilen sich die Punkte'
 url: /spitzenspiel-ohne-sieger-aich-und-geiselbullach-teilen-sich-die-punkte/
 
 ---
-{{< figure src="/wp-content/uploads/2022/10/gg-Geiselbullach.png" alt="" caption="" >}}
+{{< figure src="/uploads/2022/10/gg-Geiselbullach.png" alt="" caption="" >}}
 
 _Der FC Aich und der TSV Geiselbullach teilten sich nach einer umkämpften Partie die Punkte. Damit bleiben die Geiselbullacher Tabellenführer._
 

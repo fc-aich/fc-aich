@@ -10,9 +10,9 @@ post_id: "5870"
 title: Unentschieden vor beeindruckender Bergkulisse
 url: /unentschieden-vor-beeindruckender-bergkulisse/
 gallery:
-  - /wp-content/uploads/2024/10/Grainau-3.jpeg
-  - /wp-content/uploads/2024/10/Grainau-2.jpeg
-  - /wp-content/uploads/2024/10/Grainau-1.jpeg
+  - /uploads/2024/10/Grainau-3.jpeg
+  - /uploads/2024/10/Grainau-2.jpeg
+  - /uploads/2024/10/Grainau-1.jpeg
 
 ---
 Für ihr 3. Punktspiel sind unsere Damen am vergangenen Samstag, den 12.10.2024 bis nach Grainau am Eibsee gefahren.

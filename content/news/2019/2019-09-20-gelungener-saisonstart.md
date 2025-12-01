@@ -32,6 +32,6 @@ Das nächste Heimspiel findet am Mittwoch dem 09.10. um 19:30 Uhr gegen Höhenr
 In Erwartung zahlreicher Zuschauer   
 Robert Weikenstorfer
 
-{{< figure src="/wp-content/uploads/2019/09/Damen-A-1.jpg" alt="" caption="" >}}
+{{< figure src="/uploads/2019/09/Damen-A-1.jpg" alt="" caption="" >}}
 
 Text & Bilder: Robert Weikenstorfer

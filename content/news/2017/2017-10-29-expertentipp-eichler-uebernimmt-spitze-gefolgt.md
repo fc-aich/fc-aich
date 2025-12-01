@@ -17,4 +17,4 @@ Hier die neuen Ergebnisse:
 - FC Aich II : FC Landsberied 2:2
 - FC Bayern München : RB Leipzig 2:0
 
-Mehr Informationen auf: [http://tippspiel.fc-aich.de/](http://tippspiel.fc-aich.de/)![](/wp-content/uploads/2017/10/20171029_Expertentipp_Rangliste.png)
+Mehr Informationen auf: [http://tippspiel.fc-aich.de/](http://tippspiel.fc-aich.de/)![](/uploads/2017/10/20171029_Expertentipp_Rangliste.png)

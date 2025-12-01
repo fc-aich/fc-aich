@@ -11,7 +11,7 @@ title: 'SCM Trainer: „Zu leicht“ - Aichs Torjäger schenken Maisach sechs St
 url: /scm-trainer-zu-leicht-aichs-torjaeger-schenken-maisach-sechs-stueck-ein/
 
 ---
-{{< figure src="/wp-content/uploads/2022/10/1920x1280.jpg" alt="" caption="" >}}
+{{< figure src="/uploads/2022/10/1920x1280.jpg" alt="" caption="" >}}
 
 ## Florian Friedrich trifft drei Mal
 

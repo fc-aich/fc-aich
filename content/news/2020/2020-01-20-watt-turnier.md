@@ -15,4 +15,4 @@ Hier die Einladung zum alljährlichen Watt-Turnier im Oacher Vereinsheim.
 Kommt vorbei, verbringt einen gemütlichen Abend mit uns und gewinnt wieder viele Fleisch- und Sachpreise!  
 Wir sehen uns am 7. Februar!
 
-{{< figure src="/wp-content/uploads/2020/01/Watt-Turnier-2020.jpg" alt="" caption="" >}}
+{{< figure src="/uploads/2020/01/Watt-Turnier-2020.jpg" alt="" caption="" >}}

@@ -15,4 +15,4 @@ Nicht vergessen! Am 1. April spielen unsere Erste und die Zweite im Aicher Sport
 
 Wir freuen uns auf Euer Kommen!
 
-{{< figure src="/wp-content/uploads/2023/03/Heimspieltag-0104.png" alt="" caption="" >}}
+{{< figure src="/uploads/2023/03/Heimspieltag-0104.png" alt="" caption="" >}}

@@ -6,7 +6,7 @@ categories:
   - jugend
 cover:
   alt: DJ-SpkCup
-  image: /wp-content/uploads/2017/07/DJ-SpkCup.jpg
+  image: /uploads/2017/07/DJ-SpkCup.jpg
 date: "2017-07-25T10:03:34+00:00"
 guid: http://www.fc-aich.de/?p=1446
 parent_post_id: null

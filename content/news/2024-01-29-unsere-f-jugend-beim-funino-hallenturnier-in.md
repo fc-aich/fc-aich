@@ -16,4 +16,4 @@ Trainer und Betreuer sind stolz auf die Leistung beider Teams, die nicht nur spo
 
 Ein herzlicher Dank geht an alle Eltern und Unterstützer, die die Mannschaften bei diesem aufregenden Turnier tatkräftig unterstützt haben. Der FC Aich freut sich auf weitere erfolgreiche Turniere und spannende Spiele in der Zukunft.
 
-![](/wp-content/uploads/2024/01/F_Jugend.jpg)
+![](/uploads/2024/01/F_Jugend.jpg)

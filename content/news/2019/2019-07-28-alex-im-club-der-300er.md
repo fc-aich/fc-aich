@@ -5,7 +5,7 @@ categories:
   - allgemein
 cover:
   alt: _DSC0374
-  image: /wp-content/uploads/2016/08/DSC0374.jpg
+  image: /uploads/2016/08/DSC0374.jpg
 date: "2019-07-28T10:06:01+00:00"
 guid: http://www.fc-aich.de/?p=2726
 parent_post_id: null

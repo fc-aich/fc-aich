@@ -29,4 +29,4 @@ Hiasi – du wirst bei uns allen eine Lücke hinterlassen und wir werden Dir ste
 
 Lieber Hias – Ruhe in Frieden!
 
-{{< figure src="/wp-content/uploads/2023/02/Zeller-Hias-Sterbebild.jpg" alt="" caption="" >}}
+{{< figure src="/uploads/2023/02/Zeller-Hias-Sterbebild.jpg" alt="" caption="" >}}

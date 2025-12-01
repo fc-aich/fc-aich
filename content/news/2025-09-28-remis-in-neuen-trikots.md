@@ -19,4 +19,4 @@ Unsere Damen von der SG Wildenroth / Aich versuchten noch auf 2:1 zu erhöhen �
 
 Stark gekämpft, Mädels.
 
-![](/wp-content/uploads/2025/09/image1-1.jpeg)
+![](/uploads/2025/09/image1-1.jpeg)

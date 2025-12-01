@@ -6,7 +6,7 @@ categories:
   - allgemein
 cover:
   alt: FC Aich Logo
-  image: /wp-content/uploads/2016/07/cropped-Fc_Aich_frei-e1469996039712.png
+  image: /uploads/2016/07/cropped-Fc_Aich_frei-e1469996039712.png
 date: "2016-07-17T19:34:25+00:00"
 guid: http://test.fc-aich.de/?p=45
 parent_post_id: null

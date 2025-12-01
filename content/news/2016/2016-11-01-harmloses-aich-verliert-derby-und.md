@@ -6,7 +6,7 @@ categories:
   - 1.mannschaft
 cover:
   alt: gutq
-  image: /wp-content/uploads/2016/09/GutQ.jpg
+  image: /uploads/2016/09/GutQ.jpg
 date: "2016-11-01T17:01:50+00:00"
 guid: http://www.fc-aich.de/?p=815
 parent_post_id: null

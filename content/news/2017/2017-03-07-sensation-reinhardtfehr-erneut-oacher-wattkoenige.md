@@ -6,7 +6,7 @@ categories:
   - allgemein
 cover:
   alt: Wattkönige_2017
-  image: /wp-content/uploads/2017/03/Wattkönige_2017.jpg
+  image: /uploads/2017/03/Wattkönige_2017.jpg
 date: "2017-03-07T16:14:18+00:00"
 guid: http://www.fc-aich.de/?p=1090
 parent_post_id: null
@@ -24,4 +24,4 @@ Alles in allem ein überaus gelungener Abend in geselliger Atmosphäre mit spann
 
 Der FC Aich sagt Danke an alle Teilnehmer und hofft diese auch im nächsten Jahr begrüßen zu dürfen, wenn es wieder heißt: "Wer wird Oacher Wattkönig?"
 
-![](/wp-content/uploads/2017/03/Auswertung_Wattn_2017.jpg)
+![](/uploads/2017/03/Auswertung_Wattn_2017.jpg)

@@ -17,4 +17,4 @@ Auch der FC Aich wird ab sofort seinen Spiel- und Trainingsbetrieb einstellen. E
 Lest hierzu bitte das offizielle Schreiben des Vereins.   
 Bitte haltet euch an die Vorgaben der Behörden und bleibt gesund!
 
-{{< figure src="/wp-content/uploads/2020/03/Covid-19-Absage-Vereinsaktivitäten-FC-Aich.jpg" alt="" caption="" >}}
+{{< figure src="/uploads/2020/03/Covid-19-Absage-Vereinsaktivitäten-FC-Aich.jpg" alt="" caption="" >}}

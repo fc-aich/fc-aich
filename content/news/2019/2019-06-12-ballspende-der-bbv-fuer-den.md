@@ -5,7 +5,7 @@ categories:
   - allgemein
 cover:
   alt: danke
-  image: /wp-content/uploads/2019/06/danke.jpg
+  image: /uploads/2019/06/danke.jpg
 date: "2019-06-12T18:20:12+00:00"
 guid: http://www.fc-aich.de/?p=2584
 parent_post_id: null

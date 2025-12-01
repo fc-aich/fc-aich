@@ -17,7 +17,7 @@ _Der FC Aich darf nach dem 4:1 (1:1)-Auswärtssieg beim SC Fürstenfeldbruck wei
 
 _Fürstenfeldbruck_ – Für die Kreisstädter dürfte der Traum dagegen bereits frühzeitig ausgeträumt sein. Die Mannschaft von Coach Victor Medeleanu steht nach der insgesamt sechsten Saisonniederlage weiterhin abgeschlagen am Tabellenende.
 
-{{< figure src="/wp-content/uploads/2022/09/gg-FFB.png" alt="" caption="" >}}
+{{< figure src="/uploads/2022/09/gg-FFB.png" alt="" caption="" >}}
 
 Zu desaströs war das Auftreten des SCF. Negative Höhepunkte waren die beiden Zeitstrafen gegen Zurab Dadianidze (70.) und Lukas Blechinger (89.). Fast schon resignieren stand Brucks Manager Alfred Thurner nach der deutlichen Derbypleite. „In der ersten Halbzeit waren wir nicht schlecht, danach ging es bergab.“
 

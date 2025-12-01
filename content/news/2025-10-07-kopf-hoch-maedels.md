@@ -3,7 +3,7 @@ title: Kopf hoch Mädels...
 date: 2025-10-07T08:37:00
 categories:
   - damen
-featured_image: /wp-content/uploads/2025/10/image1.jpeg
+featured_image: /uploads/2025/10/image1.jpeg
 #summary: SG SpVgg Wildenroth / FC Aich – SC Pöcking 2:4 (1:3)
 author: lutz.goehricke
 ---
@@ -17,4 +17,4 @@ Unsere Damen von der SG Wildenroth / FC Aich konnten sich in der Halbzeitpause s
 
 Kopf hoch Mädels, das nächste Spiel wird besser!
 
-![Kopf hoch Mädels](/wp-content/uploads/2025/10/image1.jpeg)
+![Kopf hoch Mädels](/uploads/2025/10/image1.jpeg)

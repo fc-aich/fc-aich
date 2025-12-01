@@ -11,7 +11,7 @@ title: Unsere C - Mädels werden Meister!!!
 url: /unsere-c-maedels-werden-meister/
 
 ---
-{{< figure src="/wp-content/uploads/2021/07/IMG%5F5051.jpg" alt="" caption="" >}}
+{{< figure src="/uploads/2021/07/IMG%5F5051.jpg" alt="" caption="" >}}
 
 
 **Gratulation an unsere Mädels für diese tolle Leistung!**
@@ -20,4 +20,4 @@ Auch wenn Corona uns dazwischen kam und die Quoten Regel angewendet wurde haben 
 In der Torschützenliste steht unsere Erodita auf Platz 1, welchen Sie sich allerdings mit einer Spielerin aus Erpfting teilen muss.  
 Am Fairness Platz müssen wir allerdings noch Arbeiten. ;-)
 
-{{< figure src="/wp-content/uploads/2021/07/IMG%5F5048.jpg" alt="" caption="" >}}
+{{< figure src="/uploads/2021/07/IMG%5F5048.jpg" alt="" caption="" >}}

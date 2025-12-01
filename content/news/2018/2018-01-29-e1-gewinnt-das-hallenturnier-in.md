@@ -6,7 +6,7 @@ categories:
   - jugend
 cover:
   alt: E1-Mammendorf
-  image: /wp-content/uploads/2018/01/E1-Mammendorf.jpg
+  image: /uploads/2018/01/E1-Mammendorf.jpg
 date: "2018-01-29T09:57:57+00:00"
 guid: http://www.fc-aich.de/?p=1853
 parent_post_id: null
@@ -19,4 +19,4 @@ Zum dritten Mal in Folge Turniersieger in Mammendorf
 
 Ungeschlagen mit einem Torverhältnis von 22:2
 
-![](/wp-content/uploads/2018/01/E1-Pokal.jpg)
+![](/uploads/2018/01/E1-Pokal.jpg)

@@ -11,7 +11,7 @@ title: 'Eichenau vergibt sicher geglaubten Sieg: „Über die gesamte Spielzeit 
 url: /eichenau-vergibt-sicher-geglaubten-sieg-ueber-die-gesamte-spielzeit-die-bessere-mannschaft/
 
 ---
-{{< figure src="/wp-content/uploads/2022/10/Milde.png" alt="" caption="" >}}
+{{< figure src="/uploads/2022/10/Milde.png" alt="" caption="" >}}
 
 ## Kurioser Elfmeter in der Schlussminute
 

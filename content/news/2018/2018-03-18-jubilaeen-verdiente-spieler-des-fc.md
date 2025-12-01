@@ -7,7 +7,7 @@ categories:
   - 2.mannschaft
 cover:
   alt: Bildschirmfoto 2018-03-18 um 15.37.19
-  image: /wp-content/uploads/2018/03/Bildschirmfoto-2018-03-18-um-15.37.19.png
+  image: /uploads/2018/03/Bildschirmfoto-2018-03-18-um-15.37.19.png
 date: "2018-03-18T14:38:23+00:00"
 guid: http://www.fc-aich.de/?p=2003
 parent_post_id: null

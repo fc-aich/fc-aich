@@ -11,6 +11,6 @@ title: B-Jugend in neuen Trainingsshirts
 url: /b-jugend-in-neuen-trainingsshirts/
 
 ---
-{{< figure src="/wp-content/uploads/2022/11/20221106%5F162156.jpg" alt="" caption="" >}}
+{{< figure src="/uploads/2022/11/20221106%5F162156.jpg" alt="" caption="" >}}
 
 Vielen Dank Thomas!

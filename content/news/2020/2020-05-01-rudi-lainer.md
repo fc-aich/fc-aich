@@ -11,4 +11,4 @@ title: Rudi Lainer
 url: /rudi-lainer/
 
 ---
-{{< figure src="/wp-content/uploads/2020/05/Nachruf-Rudi.jpg" alt="" caption="" >}}
+{{< figure src="/uploads/2020/05/Nachruf-Rudi.jpg" alt="" caption="" >}}

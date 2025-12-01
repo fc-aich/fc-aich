@@ -6,7 +6,7 @@ categories:
   - allgemein
 cover:
   alt: IMG_3314
-  image: /wp-content/uploads/2017/12/IMG_3314-1.jpg
+  image: /uploads/2017/12/IMG_3314-1.jpg
 date: "2017-12-06T20:44:41+00:00"
 guid: http://www.fc-aich.de/?p=1732
 parent_post_id: null

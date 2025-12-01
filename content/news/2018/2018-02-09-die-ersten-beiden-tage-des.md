@@ -6,7 +6,7 @@ categories:
   - allgemein
 cover:
   alt: kuchen
-  image: /wp-content/uploads/2018/02/kuchen.jpg
+  image: /uploads/2018/02/kuchen.jpg
 date: "2018-02-09T13:15:21+00:00"
 guid: http://www.fc-aich.de/?p=1866
 parent_post_id: null
@@ -23,7 +23,7 @@ Am 3. Februar um 8:30 Uhr begannen die F1 Junioren mit ihrem Turnier. Es waren d
 
 Unsere eigene Mannschaft belegte am Schluss den zweiten Platz und gewann gegen den FC Landsberied
 
-![](/wp-content/uploads/2018/02/f1.jpg)
+![](/uploads/2018/02/f1.jpg)
 
 Danach fand das E Junioren Turnier statt mit den Mannschaften des TSV Alling, TSV Jesenwang, SC Maisach, Spvgg Thalkirchen,SV Lochhausen, TSV Schwabmünchen und dem TSV Fürstenfeldbruck-West.
 
@@ -37,11 +37,11 @@ Am Sonntag fanden dann die Turniere unserer F2 und G Junioren Mannschaften statt
 
 Unser F2 Junioren
 
-![](/wp-content/uploads/2018/02/f2.jpg)
+![](/uploads/2018/02/f2.jpg)
 
 Unsere jüngsten die G Junioren.
 
-![](/wp-content/uploads/2018/02/g.jpg)
+![](/uploads/2018/02/g.jpg)
 
 Bedanken möchte ich mich auch noch bei den Spielern unserer 2ten Herrenmannschaft, die als Schiedsrichter oder in der Turnieleitung tätig waren. Ohne Sie könnte so ein Turnier nicht stattfinden.
 

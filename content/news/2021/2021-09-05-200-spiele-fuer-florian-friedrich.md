@@ -11,7 +11,7 @@ title: 200 Spiele für Florian Friedrich
 url: /200-spiele-fuer-florian-friedrich/
 
 ---
-{{< figure src="/wp-content/uploads/2021/09/Florian-Friedrich.jpg" alt="" caption="" >}}
+{{< figure src="/uploads/2021/09/Florian-Friedrich.jpg" alt="" caption="" >}}
 
 Beim Kreisligaspiel TSV Utting - FC Aich 0:1 am 29.08. hat unser Goalgetter sein 200. Spiel für den FC Aich absolviert. Der Friede hat bereits im Kreißsaal beim FC Aich unterschrieben und von klein auf in vielen ungezählten Jugendspielen sämtliche Juniorenmannschaften der Aicher durchlaufen.
 

@@ -11,7 +11,7 @@ title: Peter Engelschall feiert seinen 80. Geburtstag
 url: /peter-engelschall-feiert-seinen-80-geburtstag/
 
 ---
-{{< figure src="/wp-content/uploads/2022/12/IMG%5F1915-rotated.jpg" alt="" caption="" >}}
+{{< figure src="/uploads/2022/12/IMG%5F1915-rotated.jpg" alt="" caption="" >}}
 
 Unser langjähriges Mitglied Peter Engelschall hat am Sonntag seinen 80. Geburtstag feiern dürfen und unser Vorstand Gerhard Schuster gratulierte mit einem Präsentkorb.
 

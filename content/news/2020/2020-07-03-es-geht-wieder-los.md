@@ -15,6 +15,6 @@ Unsere beiden Herrenmannschaften steigen wieder ins Training ein und werden dies
 
 Hier sind die Spiel- und Trainingspläne:
 
-[Erste Mannschaft](/wp-content/uploads/2020/07/Coronavorbereitung-FC-Aich-19_20_21.pdf)
+[Erste Mannschaft](/uploads/2020/07/Coronavorbereitung-FC-Aich-19_20_21.pdf)
 
-[Zweite Mannschaft](/wp-content/uploads/2020/07/FC-Aich-II-Vorbereitung-19-20.pdf)
+[Zweite Mannschaft](/uploads/2020/07/FC-Aich-II-Vorbereitung-19-20.pdf)

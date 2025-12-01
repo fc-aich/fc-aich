@@ -5,7 +5,7 @@ categories:
   - allgemein
 cover:
   alt: EEE25852-2969-488A-A28B-F9C94A3AD999
-  image: /wp-content/uploads/2019/07/EEE25852-2969-488A-A28B-F9C94A3AD999.png
+  image: /uploads/2019/07/EEE25852-2969-488A-A28B-F9C94A3AD999.png
 date: "2019-07-29T17:20:33+00:00"
 guid: http://www.fc-aich.de/?p=2728
 parent_post_id: null

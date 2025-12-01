@@ -18,4 +18,4 @@ Neue Ergebnisse:
 - FC Augsburg : FC Bayern München 1:4
 - Deutscher Meister: FC Bayern München
 
-Mehr Infos unter: [Zum Tippspiel](http://tippspiel.fc-aich.de/ranking)![](/wp-content/uploads/2018/04/20180409_Expertentipp.png)
+Mehr Infos unter: [Zum Tippspiel](http://tippspiel.fc-aich.de/ranking)![](/uploads/2018/04/20180409_Expertentipp.png)

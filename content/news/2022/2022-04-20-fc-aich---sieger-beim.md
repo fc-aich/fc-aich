@@ -13,6 +13,6 @@ url: /fc-aich-sieger-beim-vr-ortspreis/
 ---
 **Vielen Dank für Eure Unterstützung!!!**
 
-{{< figure src="/wp-content/uploads/2022/04/WhatsApp-Image-2022-03-29-at-14.37.59.jpeg" alt="" caption="" >}}
+{{< figure src="/uploads/2022/04/WhatsApp-Image-2022-03-29-at-14.37.59.jpeg" alt="" caption="" >}}
 
 Bereits Ende März konnte der FC Aich den Gewinn von 1.000 EUR für den VR Ortspreis entgegennehmen. Vielen Dank an Alle, die uns auch dieses Jahr wieder dabei geholfen haben! Danke!

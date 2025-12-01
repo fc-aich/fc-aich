@@ -11,4 +11,4 @@ title: Neue Wärmejacken für unsere Herrenmannschaften
 url: /neue-waermejacken-fuer-unsere-herrenmannschaften/
 
 ---
-{{< figure src="/wp-content/uploads/2023/03/IMG%5F0094.jpg" alt="" caption="" >}}
+{{< figure src="/uploads/2023/03/IMG%5F0094.jpg" alt="" caption="" >}}

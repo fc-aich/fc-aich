@@ -11,4 +11,4 @@ title: Auftakt in Peiting am 25.03.2023
 url: /auftakt-in-peiting-am-25-03-2023/
 
 ---
-{{< figure src="/wp-content/uploads/2023/02/WhatsApp-Image-2023-02-10-at-09.47.20.jpeg" alt="" caption="" >}}
+{{< figure src="/uploads/2023/02/WhatsApp-Image-2023-02-10-at-09.47.20.jpeg" alt="" caption="" >}}

@@ -21,4 +21,4 @@ Wir hoffen, dass alle Mädels trotz des Ergebnisses ihren Spaß hatten, und jede
 
 1, 2, 3, 4 - FC Aich, dass sind wir!
 
-{{< figure src="/wp-content/uploads/2022/09/WhatsApp-Image-2022-09-17-at-19.31.43.jpeg" alt="" caption="" >}}
+{{< figure src="/uploads/2022/09/WhatsApp-Image-2022-09-17-at-19.31.43.jpeg" alt="" caption="" >}}

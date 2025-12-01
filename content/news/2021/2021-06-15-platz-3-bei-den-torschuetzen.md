@@ -15,4 +15,4 @@ Die besten Torschützen der Kreisligen Zugspitze wurden gekürt und unser Floria
 
 Den gesamten Artikel könnt Ihr hier auf [Fupa.net](https://www.fupa.net/news/sv-strasslach-erdinger-weissbier-dengler-raeumt-in-den-kreis-2772100) lesen.
 
-{{< figure src="/wp-content/uploads/2021/06/Kreisligen-Zugspitze.png" alt="" caption="" >}}
+{{< figure src="/uploads/2021/06/Kreisligen-Zugspitze.png" alt="" caption="" >}}

@@ -6,7 +6,7 @@ categories:
   - allgemein
 cover:
   alt: football-2981095_1920
-  image: /wp-content/uploads/2017/12/football-2981095_1920.jpg
+  image: /uploads/2017/12/football-2981095_1920.jpg
 date: "2017-12-19T17:01:57+00:00"
 guid: http://www.fc-aich.de/?p=1767
 parent_post_id: null
@@ -36,4 +36,4 @@ Mit freundlichen Grüße
 
 Gerhard Schuster          Achim Huber         Martin Deufel
 
-[Weihnachtsbrief\_Sponsoren\_Homepage\_2017](/wp-content/uploads/2017/12/Weihnachtsbrief_Sponsoren_Homepage_2017.pdf)
+[Weihnachtsbrief\_Sponsoren\_Homepage\_2017](/uploads/2017/12/Weihnachtsbrief_Sponsoren_Homepage_2017.pdf)

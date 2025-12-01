@@ -13,6 +13,6 @@ url: /22-bei-den-loewinnen/
 ---
 Beim Testspiel unserer Damen gegen den TSV 1860 München konnte ein 2:0 Rückstand noch in ein 2:2 verwandelt werden. Lest dazu den kompletten Spielbericht hier: [Spielbericht TSV 1860](https://loewenmagazin.de/loewinnen-geben-20-fuehrung-gegen-sg-aich-aufkirchen-aus-der-hand/)
 
-{{< figure src="/wp-content/uploads/2022/03/WhatsApp-Image-2022-03-16-at-14.56.38.jpeg" alt="" caption="" >}}
+{{< figure src="/uploads/2022/03/WhatsApp-Image-2022-03-16-at-14.56.38.jpeg" alt="" caption="" >}}
 
-{{< figure src="/wp-content/uploads/2022/03/WhatsApp-Image-2022-03-16-at-14.56.46.jpeg" alt="" caption="" >}}
+{{< figure src="/uploads/2022/03/WhatsApp-Image-2022-03-16-at-14.56.46.jpeg" alt="" caption="" >}}

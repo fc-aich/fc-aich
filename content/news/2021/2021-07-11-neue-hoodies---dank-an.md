@@ -11,7 +11,7 @@ title: Neue Hoodies - Dank an Rainer Strauß
 url: /neue-hoodies-dank-an-rainer-strauss/
 
 ---
-{{< figure src="/wp-content/uploads/2021/07/Hoodies-Strauss-edited-1-scaled.jpg" alt="" caption="" >}}
+{{< figure src="/uploads/2021/07/Hoodies-Strauss-edited-1-scaled.jpg" alt="" caption="" >}}
 
 Vielen Dank an unseren Sponsor Rainer Strauß, der unsere Damen und B-Mädels mit neuen Hoodies ausgestattet hat.
 

@@ -16,4 +16,4 @@ Hier ist ein Artikel im Merkur über Rudi:
 
 [https://www.merkur.de/sport/amateur-fussball/landkreis-fuerstenfeldbruck/rudi-lainer-vom-fc-aich-tot-13751894.html](https://www.merkur.de/sport/amateur-fussball/landkreis-fuerstenfeldbruck/rudi-lainer-vom-fc-aich-tot-13751894.html)
 
-{{< figure src="/wp-content/uploads/2020/05/Rudi-Lainer-FC-Aich-Tod-%5F-Landkreis-Fürstenfeldbruck.png" alt="" caption="" >}}
+{{< figure src="/uploads/2020/05/Rudi-Lainer-FC-Aich-Tod-%5F-Landkreis-Fürstenfeldbruck.png" alt="" caption="" >}}

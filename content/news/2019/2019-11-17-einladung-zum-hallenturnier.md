@@ -12,4 +12,4 @@ title: Einladung zum Hallenturnier
 url: /einladung-zum-hallenturnier/
 
 ---
-{{< figure src="/wp-content/uploads/2019/11/Einladung-Hallenturnier-2020.jpg" alt="" caption="" >}}
+{{< figure src="/uploads/2019/11/Einladung-Hallenturnier-2020.jpg" alt="" caption="" >}}

@@ -6,7 +6,7 @@ categories:
   - 1.mannschaft
 cover:
   alt: franco
-  image: /wp-content/uploads/1986/10/Franco-e1474317460288.jpg
+  image: /uploads/1986/10/Franco-e1474317460288.jpg
 date: "2016-09-19T20:38:04+00:00"
 guid: http://www.fc-aich.de/?p=614
 parent_post_id: null

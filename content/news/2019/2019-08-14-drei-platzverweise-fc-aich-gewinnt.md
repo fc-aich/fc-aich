@@ -5,7 +5,7 @@ categories:
   - allgemein
 cover:
   alt: K8wfuwlCItvoO7GXcK4bnws6Cv2PUSpnGiJ3iRSl
-  image: /wp-content/uploads/2019/08/K8wfuwlCItvoO7GXcK4bnws6Cv2PUSpnGiJ3iRSl.jpeg
+  image: /uploads/2019/08/K8wfuwlCItvoO7GXcK4bnws6Cv2PUSpnGiJ3iRSl.jpeg
 date: "2019-08-14T13:19:11+00:00"
 guid: http://www.fc-aich.de/?p=2769
 parent_post_id: null

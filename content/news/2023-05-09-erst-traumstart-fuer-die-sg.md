@@ -16,4 +16,4 @@ Somit wurde die lange Anreise nach Grainau nicht belohnt. Dennoch verteidigt die
 
 Anschließend fuhren wir wieder in unsere Lieblingspizzeria nach Garmisch und trösteten uns mit kostenlosem Pizzabrot, Tiramisu und Limoncello.
 
-![](/wp-content/uploads/2023/05/Bild1.jpg)
+![](/uploads/2023/05/Bild1.jpg)

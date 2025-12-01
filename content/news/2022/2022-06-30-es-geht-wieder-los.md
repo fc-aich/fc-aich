@@ -20,6 +20,6 @@ Neben den "üblichen" Vorbereitungsspielen zum Beispiel gegen Türkenfeld, Plane
 
 Die vollständigen Pläne für beide Herrenmannschaften findet ihr hier:
 
-[Sommervorbereitung 2022/ 2023 - 1. Mannschaft](/wp-content/uploads/2022/06/220519_Sommervorbereitung-FC-Aich-22_23.pdf)
+[Sommervorbereitung 2022/ 2023 - 1. Mannschaft](/uploads/2022/06/220519_Sommervorbereitung-FC-Aich-22_23.pdf)
 
-[Sommervorbereitung 2022/ 2023 - 2. Mannschaft](/wp-content/uploads/2022/06/FC-Aich-II-Vorbereitung-Juni-Juli-2022.pdf)
+[Sommervorbereitung 2022/ 2023 - 2. Mannschaft](/uploads/2022/06/FC-Aich-II-Vorbereitung-Juni-Juli-2022.pdf)

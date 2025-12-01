@@ -6,7 +6,7 @@ categories:
   - 1.mannschaft
 cover:
   alt: sv-mammendorf
-  image: /wp-content/uploads/2016/08/sv-mammendorf.gif
+  image: /uploads/2016/08/sv-mammendorf.gif
 date: "2016-11-07T10:41:09+00:00"
 guid: http://www.fc-aich.de/?p=844
 parent_post_id: null

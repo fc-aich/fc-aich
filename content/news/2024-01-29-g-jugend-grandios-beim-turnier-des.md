@@ -20,4 +20,4 @@ Das Trainerteam zeigte sich stolz über die Leistung ihrer Schützlinge, die Fai
 
 Dieser Triumph unterstreicht nicht nur die Qualität der Jugendarbeit in unserem Verein, sondern bietet auch einen vielversprechenden Ausblick auf die Zukunft des Fußballs in unserer Gemeinschaft. Herzlichen Glückwunsch an die G-Jugend zu diesem herausragenden Erfolg!
 
-![](/wp-content/uploads/2024/01/G%5FJugend%5FGreifenberg.jpg)
+![](/uploads/2024/01/G%5FJugend%5FGreifenberg.jpg)

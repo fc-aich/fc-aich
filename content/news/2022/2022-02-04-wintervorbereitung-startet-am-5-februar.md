@@ -11,6 +11,6 @@ title: Wintervorbereitung startet am 5. Februar
 url: /wintervorbereitung-startet-am-5-februar/
 
 ---
-Das 1. Punktspiel nach der Winterpause ist nicht mehr allzuweit entfernt. Am 26. März geht es gegen Moorenweis wieder los und bereits jetzt am Wochenende starten unsere Herren mit der Wintervorbereitung. Auf dem Plan stehen sowohl Vorbereitungsspiele gegen Olching, Wildenroth, Planegg und Weil, als auch wieder ein Trainingslager. Den kompletten Plan findet ihr [hier](/wp-content/uploads/2022/02/220119_Wintervorbereitung-FC-Aich-21_2267.pdf).
+Das 1. Punktspiel nach der Winterpause ist nicht mehr allzuweit entfernt. Am 26. März geht es gegen Moorenweis wieder los und bereits jetzt am Wochenende starten unsere Herren mit der Wintervorbereitung. Auf dem Plan stehen sowohl Vorbereitungsspiele gegen Olching, Wildenroth, Planegg und Weil, als auch wieder ein Trainingslager. Den kompletten Plan findet ihr [hier](/uploads/2022/02/220119_Wintervorbereitung-FC-Aich-21_2267.pdf).
 
 Auf eine verletzungsfreie Vorbereitung und eine gelungene Rückrunde!

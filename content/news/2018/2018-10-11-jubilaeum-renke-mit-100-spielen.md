@@ -6,7 +6,7 @@ categories:
   - 2.mannschaft
 cover:
   alt: _DSC0384
-  image: /wp-content/uploads/2016/08/DSC0384.jpg
+  image: /uploads/2016/08/DSC0384.jpg
 date: "2018-10-11T20:06:03+00:00"
 guid: http://www.fc-aich.de/?p=2314
 parent_post_id: null

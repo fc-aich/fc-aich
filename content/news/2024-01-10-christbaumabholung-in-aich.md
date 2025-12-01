@@ -12,4 +12,4 @@ title: Christbaumabholung in Aich
 
 Wir hoffen Ihr alle hattet eine besinnliche Weihnachtszeit mit eurer Familie und seid auch gut in das neue Jahr gerutscht. Doch nun wird es langsam Zeit den Weihnachtsbaum abzubauen und sich voller Tatendrang in unser **Jubiläumsjahr** zu stürzen. Deshalb bieten wir auch dieses Jahr wieder für alle Bewohner in Aich die Abholung der alten Christbäume an. Stellt die abgeschmückten Bäume am **Samstag, den 13.01.24** vor eure Haustür und wir sammeln sie ein.
 
-![](/wp-content/uploads/2024/01/Flyer-Christbaumabholung%5F2024.png)
+![](/uploads/2024/01/Flyer-Christbaumabholung%5F2024.png)

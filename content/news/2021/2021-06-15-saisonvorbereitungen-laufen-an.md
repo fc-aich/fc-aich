@@ -14,6 +14,6 @@ url: /saisonvorbereitungen-laufen-an/
 ---
 Auf gehts in eine neue Saison, die hoffentlich weniger von Corona Einschränkungen geprägt sein wird. Einige Spieler starteten bereits mit einem ersten freiwilligen Training, doch der offizielle Trainingsstart ist der 29. Juni, gefolgt von einem kleinen Vorbereitungsturnier ma 3. Juli. Mehr Details findet Ihr in den Vorbereitungsplänen für unsere 1. und 2. Mannschaft.
 
-{{< figure src="/wp-content/uploads/2021/06/Vorbereitung-1.%5FSommer21.jpg" alt="" caption="" >}}
+{{< figure src="/uploads/2021/06/Vorbereitung-1.%5FSommer21.jpg" alt="" caption="" >}}
 
-{{< figure src="/wp-content/uploads/2021/06/Vorbereitung-2.%5FSommer21.jpeg" alt="" caption="" >}}
+{{< figure src="/uploads/2021/06/Vorbereitung-2.%5FSommer21.jpeg" alt="" caption="" >}}

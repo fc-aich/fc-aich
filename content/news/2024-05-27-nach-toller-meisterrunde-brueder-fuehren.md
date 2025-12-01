@@ -10,7 +10,7 @@ title: 'Nach „toller Meisterrunde“: Brüder führen Aich zur Meisterschaft'
 ---
 _Sieg gegen Gilching – Doppeltorschütze und Elfmeterheld aus einer Familie_
 
-![](/wp-content/uploads/2024/05/1920x1280.webp)
+![](/uploads/2024/05/1920x1280.webp)
 
 **Der FC Aich ist aufgestiegen. Mit einem Sieg gegen Gilching sicherte der FC die Meisterschaft und geht nach einer guten Meisterrunde in die Bezirksliga.**
 

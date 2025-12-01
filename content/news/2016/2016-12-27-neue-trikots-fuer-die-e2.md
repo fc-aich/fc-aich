@@ -6,7 +6,7 @@ categories:
   - allgemein
 cover:
   alt: e2
-  image: /wp-content/uploads/2016/10/E2.jpg
+  image: /uploads/2016/10/E2.jpg
 date: "2016-12-27T12:53:18+00:00"
 guid: http://www.fc-aich.de/?p=1023
 parent_post_id: null

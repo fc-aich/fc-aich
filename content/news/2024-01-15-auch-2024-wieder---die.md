@@ -12,8 +12,8 @@ Noch ist es frostig draußen und an Fußball draußen kaum zu denken. Doch auch 
 
 Vom **29.07.-02.08.2024** erwarten euch wieder geniale Tricks und Techniken, coole Turniere und Spiele, neue Freunde, Top-Trainingsausstattung von adidas, qualifizierte und geschulte Trainer und vieles mehr!
 
-Für mehr Details was euch erwartet und wie ihr euch anmelden könnt, klickt einfach auf den BFV Flyer [hier](/wp-content/uploads/2024/01/BFV_Ferien_Flyer_Aich_2024.pdf) und die offizielle Pressemitteilung des BFV [hier](/wp-content/uploads/2024/01/Pressemitteilung-FFSCH-Aich_2024.doc)!
+Für mehr Details was euch erwartet und wie ihr euch anmelden könnt, klickt einfach auf den BFV Flyer [hier](/uploads/2024/01/BFV_Ferien_Flyer_Aich_2024.pdf) und die offizielle Pressemitteilung des BFV [hier](/uploads/2024/01/Pressemitteilung-FFSCH-Aich_2024.doc)!
 
 Also meldet euch gleich an - wir freuen uns auf euch!
 
-![](/wp-content/uploads/2024/01/BFV_Ferien_Plakat_online_Aich_2024.jpg)
+![](/uploads/2024/01/BFV_Ferien_Plakat_online_Aich_2024.jpg)

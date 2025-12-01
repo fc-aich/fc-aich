@@ -5,7 +5,7 @@ categories:
   - 1.mannschaft
 cover:
   alt: _DSC1669
-  image: /wp-content/uploads/2016/08/DSC1669.jpg
+  image: /uploads/2016/08/DSC1669.jpg
 date: "2019-04-22T18:44:19+00:00"
 guid: http://www.fc-aich.de/?p=2538
 parent_post_id: null

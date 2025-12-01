@@ -6,7 +6,7 @@ categories:
   - 2.mannschaft
 cover:
   alt: TSV_Tuerkenfeld
-  image: /wp-content/uploads/2016/08/TSV_Tuerkenfeld.png
+  image: /uploads/2016/08/TSV_Tuerkenfeld.png
 date: "2016-09-26T14:26:00+00:00"
 guid: http://www.fc-aich.de/?p=626
 parent_post_id: null

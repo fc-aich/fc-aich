@@ -13,6 +13,6 @@ url: /unsere-u19-mit-neuen-poloshirts/
 ---
 Herzlichen Dank an die Firma SAFETECH für die Ausstattung unserer A-Jungend.
 
-{{< figure src="/wp-content/uploads/2022/11/Team.jpg" alt="" caption="" >}}
+{{< figure src="/uploads/2022/11/Team.jpg" alt="" caption="" >}}
 
-{{< figure src="/wp-content/uploads/2022/11/Sponsor3.jpg" alt="" caption="" >}}
+{{< figure src="/uploads/2022/11/Sponsor3.jpg" alt="" caption="" >}}

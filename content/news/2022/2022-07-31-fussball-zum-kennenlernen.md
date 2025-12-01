@@ -13,7 +13,7 @@ url: /fussball-zum-kennenlernen/
 ---
 **Ferienprogramm FFB beim FC Aich**
 
-{{< figure src="/wp-content/uploads/2022/07/Sommer-2022-DinA5-Vorderseite.png" alt="" caption="" >}}
+{{< figure src="/uploads/2022/07/Sommer-2022-DinA5-Vorderseite.png" alt="" caption="" >}}
 
 Am 13. und am 27. August findet bei uns im Aicher Sportpark der Kurs "Fußball zum Kennenlernen" im Rahmen des diesjährigen Ferienprogramms der Stadt Fürstenfeldbruck statt.
 

@@ -6,7 +6,7 @@ categories:
   - allgemein
 cover:
   alt: Sterbebild Ludwig Sepp
-  image: /wp-content/uploads/2018/04/Sterbebild-Ludwig-Sepp.jpg
+  image: /uploads/2018/04/Sterbebild-Ludwig-Sepp.jpg
 date: "2018-04-12T17:38:58+00:00"
 guid: http://fc-aich.de/?p=2049
 parent_post_id: null

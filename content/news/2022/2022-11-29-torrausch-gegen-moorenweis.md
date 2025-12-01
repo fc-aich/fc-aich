@@ -27,4 +27,4 @@ Die Vorrunde ist abgeschlossen und es geht im Dezember nach kurzer Pause, nahtlo
 
 Text: Andreas Steiner
 
-{{< figure src="/wp-content/uploads/2022/11/Torschuetzen2.png" alt="" caption="" >}}
+{{< figure src="/uploads/2022/11/Torschuetzen2.png" alt="" caption="" >}}

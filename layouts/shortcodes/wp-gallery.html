@@ -1,11 +1,11 @@
 {{/*
-  Shortcode für WordPress-Galerien aus static/wp-content/gallery/
+  Shortcode für WordPress-Galerien aus static/gallery/
 
   Verwendung:
   {{< wp-gallery "aufstieg-2024" >}}
 
   Erwartet Struktur:
-  static/wp-content/gallery/aufstieg-2024/
+  static/gallery/aufstieg-2024/
     ├── image1.jpg
     ├── image2.jpg
     └── thumbs/
@@ -14,7 +14,7 @@
 */}}
 
 {{ $galleryPath := .Get 0 }}
-{{ $fullPath := printf "wp-content/gallery/%s" $galleryPath }}
+{{ $fullPath := printf "gallery/%s" $galleryPath }}
 
 <div class="wp-gallery-grid gallery-grid">
   {{ range (readDir (printf "static/%s" $fullPath)) }}

@@ -6,7 +6,7 @@ categories:
   - allgemein
 cover:
   alt: schrall
-  image: /wp-content/uploads/1979/04/schrall.jpg
+  image: /uploads/1979/04/schrall.jpg
 date: "2018-09-01T09:18:57+00:00"
 guid: http://www.fc-aich.de/?p=2257
 parent_post_id: null

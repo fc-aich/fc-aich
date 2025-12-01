@@ -14,4 +14,4 @@ url: /sommerturnier-unserer-d-und-e-maedchen/
 ---
 **Unsere Mädchen wollen am 17.07. ein kleines Sommerturnier im Aicher Sportpark veranstalten und hier ist die Einladung dazu.**
 
-{{< figure src="/wp-content/uploads/2022/06/Sommerturnier-16722.pdf-1.png" alt="" caption="" >}}
+{{< figure src="/uploads/2022/06/Sommerturnier-16722.pdf-1.png" alt="" caption="" >}}

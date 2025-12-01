@@ -7,7 +7,7 @@ categories:
   - 2.mannschaft
 cover:
   alt: FCA_Rasen_Logo
-  image: /wp-content/uploads/2016/07/FCA_Rasen_Logo.jpg
+  image: /uploads/2016/07/FCA_Rasen_Logo.jpg
 date: "2016-07-17T19:33:28+00:00"
 guid: http://test.fc-aich.de/?p=43
 parent_post_id: null

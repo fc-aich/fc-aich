@@ -11,7 +11,7 @@ title: Erfolgreicher Ausflug zum Spitzenspiel ins Garmischer Land
 url: /erfolgreicher-ausflug-zum-spitzenspiel-ins-garmischer-land/
 
 ---
-{{< figure src="/wp-content/uploads/2023/04/Spielstand.png" alt="" caption="" >}}
+{{< figure src="/uploads/2023/04/Spielstand.png" alt="" caption="" >}}
 
 Mit SG TSV Farchant/1. FC Garmisch-Partenkirchen und SG FC Aich/FSV Aufkirchen /SpVgg Wildenroth trafen sich am Samstag zwei Topteams. Für SG TSV Farchant/1. FC Garmisch-Partenkirchen schien SG FC Aich/FSV Aufkirchen /SpVgg Wildenroth aber eine Nummer zu groß, sodass am Ende eine 1:4-Niederlage stand.
 
@@ -33,7 +33,7 @@ SG FC Aich/FSV Aufkirchen /SpVgg Wildenroth ist nach dem Erfolg weiter der Primu
 
 1:4 - (90') Franziska Merkl
 
-{{< figure src="/wp-content/uploads/2023/04/Damen-in-Farchant.jpg" alt="" caption="" >}}
+{{< figure src="/uploads/2023/04/Damen-in-Farchant.jpg" alt="" caption="" >}}
 
 * * *
 

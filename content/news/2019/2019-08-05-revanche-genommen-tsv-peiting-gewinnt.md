@@ -5,7 +5,7 @@ categories:
   - allgemein
 cover:
   alt: image
-  image: /wp-content/uploads/2019/08/image.png
+  image: /uploads/2019/08/image.png
 date: "2019-08-05T20:23:12+00:00"
 guid: http://www.fc-aich.de/?p=2734
 parent_post_id: null

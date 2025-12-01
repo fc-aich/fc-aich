@@ -23,4 +23,4 @@ Folgende Mannschaften nahmen am Turnier teil: Post SV München, Vsst Günzlhofen
 
 An grosser Dank an die Jugendspieler Luis, Lukas und Denny und Chiara die den ganzen Tag als Schiedsrichter und Turnieleiter tätig waren. Ein besonderer Dank an Hans Renke der an allen drei Tagen als Schiedsrichter zur Verfügung stand.
 
-![](/wp-content/uploads/2018/02/D3.jpg)
+![](/uploads/2018/02/D3.jpg)

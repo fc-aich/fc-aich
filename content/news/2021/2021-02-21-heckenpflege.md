@@ -11,7 +11,7 @@ title: Heckenpflege
 url: /heckenpflege/
 
 ---
-{{< figure src="/wp-content/uploads/2021/02/Hecke-2.jpg" alt="" caption="" >}}
+{{< figure src="/uploads/2021/02/Hecke-2.jpg" alt="" caption="" >}}
 
 Wie Ihr wisst, ist unser Sportgelände durch Bäume und Hecken eingegrenzt.  
 So schön das auch ist, genauso wie es jeder aus seinem Garten kennt, haben aber solche Sträucher die Angewohnheit schnell zu wachsen.  
@@ -20,4 +20,4 @@ Die komplette Hecke auf der Nordseite unseres Geländes und die Buchenhecke vor 
 
 **Vielen Dank noch einmal für die Hilfe an Andreas Link.**
 
-{{< figure src="/wp-content/uploads/2021/02/Hecke-1.jpg" alt="" caption="" >}}
+{{< figure src="/uploads/2021/02/Hecke-1.jpg" alt="" caption="" >}}

@@ -15,6 +15,6 @@ Ihr wollt beim Online Shopping auf Amazon euren Lieblingsverein unterstützen? D
 
 Meldet Euch bei Smile an ( [https://smile.amazon.de/](https://smile.amazon.de/)) und setzt dann als Organisation eurer Wahl den FC Aich ein. So bekommen wir einen kleinen Kickback für jeden eurer Einkäufe, der Euch nicht mehr kostet.
 
-{{< figure src="/wp-content/uploads/2021/04/Bildschirmfoto-2021-04-08-um-22.05.54.png" alt="" caption="" >}}
+{{< figure src="/uploads/2021/04/Bildschirmfoto-2021-04-08-um-22.05.54.png" alt="" caption="" >}}
 
 Vielen Dank an alle Unterstützer!

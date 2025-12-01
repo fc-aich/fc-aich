@@ -6,7 +6,7 @@ categories:
   - jugend
 cover:
   alt: E1-Halle
-  image: /wp-content/uploads/2017/11/E1-Halle.jpg
+  image: /uploads/2017/11/E1-Halle.jpg
 date: "2017-11-28T16:15:41+00:00"
 guid: http://www.fc-aich.de/?p=1705
 parent_post_id: null

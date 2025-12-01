@@ -19,10 +19,10 @@ Autor: Dirk Schiffner
 
 Quelle: https://www.fupa.net/news/kreisliga-kompakt-geiselbullach-wird-meister-maisach-wahrt-aufstiegschance-2906106
 
-{{< figure src="/wp-content/uploads/2022/11/1920x1080.webp" alt="" caption="" >}}
+{{< figure src="/uploads/2022/11/1920x1080.webp" alt="" caption="" >}}
 
-{{< figure src="/wp-content/uploads/2022/11/1920x1080-2.webp" alt="" caption="" >}}
+{{< figure src="/uploads/2022/11/1920x1080-2.webp" alt="" caption="" >}}
 
-{{< figure src="/wp-content/uploads/2022/11/1920x1080-3.webp" alt="" caption="" >}}
+{{< figure src="/uploads/2022/11/1920x1080-3.webp" alt="" caption="" >}}
 
-{{< figure src="/wp-content/uploads/2022/11/1920x1080-4.webp" alt="" caption="" >}}
+{{< figure src="/uploads/2022/11/1920x1080-4.webp" alt="" caption="" >}}

@@ -15,13 +15,13 @@ Einstieg ins neue Jahr. Da heißt es wieder, die Knochen sortieren, die Sportkla
 
 Das erste sportliche Event stand am Wochenende an – ein Hallenturnier in Eching am Ammersee. Im U19 Team standen Niklas Hauft (TW), Elias Janele (C), Sami Alrajjo, Niklas Rüdiger, Julius Vath, Daniel Urbach, Philipp Schranner, Joni Schilling und David Schuster. Unsere Spielpartner waren Mannschaften der SG Ammerssee; DJK Schwabhausen, Landschulheim Ammersee, SG 5-Seen, SG Landsberied
 
-{{< figure src="/wp-content/uploads/2023/01/WhatsApp-Image-2023-01-23-at-20.44.08.jpeg" alt="" caption="" >}}
+{{< figure src="/uploads/2023/01/WhatsApp-Image-2023-01-23-at-20.44.08.jpeg" alt="" caption="" >}}
 
 Ungewohnt waren für uns die kurzfristig erstellten, vereinsinternen Hallenregeln mit Lederfußball und Seitenbande. Genau auf die Regeln/Situationen ausgerichtet, hatten wir nicht trainiert. Egal, unser Ziel war das Ganze mit viel Spaß ohne Erfolgsdruck, als lockeren Hallenkick anzugehen.
 
 Von Start weg zeigten wir abermals unsere Qualitäten im Umgang mit dem Spielgerät – und leider, dem Auslassen von Torchancen. Denn den Führungstreffer im Spiel gegen das Landschulheim Ammersee, erzielte erstmal der Gegner. Wachgerüttelt durch den Rückstand,  war nun auch der Wille und Ehrgeiz geweckt, Leistung zu zeigen und Tore zu erzielen. Und wir spielten richtig auf. Mit Treffern u.a. von David Schuster waren wir final 4:1 erfolgreich. Ein sehr guter Einstieg ins Turnier.
 
-{{< figure src="/wp-content/uploads/2023/01/WhatsApp-Image-2023-01-23-at-20.44.06.jpeg" alt="" caption="" >}}
+{{< figure src="/uploads/2023/01/WhatsApp-Image-2023-01-23-at-20.44.06.jpeg" alt="" caption="" >}}
 
 In den folgenden Kicks gegen die SG Ammersee und SG Landsberied / Adelshofen / Jesenwang schleichten sich zunehmend Leichtsinnsfehler ein. Das führte zu einem Unentschieden, einem Misserfolg. Besonderes Manko im Spiel gegen die SGL, bestand in der fehlenden Körpersprache, der Zunahme an individuellen Fehlern, dem trägen Aufbauspiel und fehlendem Spieltempo. All das war uns in dem Spiel abhandengekommen. Der Jubel über den Erfolg war zwar bei der SGL groß – aber es sollte bekannt sein, „das am Ende abgerechnet wird“ .. und “wer zuletzt lacht, jubelt immer noch am besten.“
 
@@ -29,7 +29,7 @@ Nun war das Team gefordert - dass wollte man so nicht stehen lassen. Die Kabinen
 
 Das Resultat – der 1. Platz im Hallenturnier in Eching. Klasse Team – toller Fußball.
 
-{{< figure src="/wp-content/uploads/2023/01/WhatsApp-Image-2023-01-23-at-20.44.05.jpeg" alt="" caption="" >}}
+{{< figure src="/uploads/2023/01/WhatsApp-Image-2023-01-23-at-20.44.05.jpeg" alt="" caption="" >}}
 
 Peter Januschke / Andreas Steiner (Trainer):
 

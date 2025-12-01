@@ -6,7 +6,7 @@ categories:
   - jugend
 cover:
   alt: F2-West
-  image: /wp-content/uploads/2017/03/F2-West.jpg
+  image: /uploads/2017/03/F2-West.jpg
 date: "2017-03-07T15:21:07+00:00"
 guid: http://www.fc-aich.de/?p=1087
 parent_post_id: null

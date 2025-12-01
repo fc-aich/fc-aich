@@ -6,7 +6,7 @@ categories:
   - jugend
 cover:
   alt: pokal
-  image: /wp-content/uploads/2016/08/pokal-e1470040233890.jpg
+  image: /uploads/2016/08/pokal-e1470040233890.jpg
 date: "2016-08-01T08:32:19+00:00"
 guid: http://test.fc-aich.de/?p=199
 parent_post_id: null

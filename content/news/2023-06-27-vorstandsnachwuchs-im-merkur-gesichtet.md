@@ -11,7 +11,7 @@ title: Vorstandsnachwuchs im Merkur gesichtet...
 url: /vorstandsnachwuchs-im-merkur-gesichtet/
 
 ---
-{{< figure src="/wp-content/uploads/2023/06/Artikel-Kind-Robin.jpeg" alt="" caption="" >}}
+{{< figure src="/uploads/2023/06/Artikel-Kind-Robin.jpeg" alt="" caption="" >}}
 
 * * *
 

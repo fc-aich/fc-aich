@@ -11,6 +11,6 @@ title: Vorbereitung Zweite Mannschaft
 url: /vorbereitung-zweite-mannschaft/
 
 ---
-Der Vorbereitungsplan für die Winterpause unserer Zweiten ist nun online. Schaut [hier](/wp-content/uploads/2020/01/Fc-Aich-II.pdf)!
+Der Vorbereitungsplan für die Winterpause unserer Zweiten ist nun online. Schaut [hier](/uploads/2020/01/Fc-Aich-II.pdf)!
 
 Die Freundschaftspiele findet Ihr auch in unserem [Vereinskalender](/events/).

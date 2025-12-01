@@ -7,7 +7,7 @@ categories:
   - 2.mannschaft
 cover:
   alt: FC Aich Logo
-  image: /wp-content/uploads/2016/07/cropped-Fc_Aich_frei-e1469996039712.png
+  image: /uploads/2016/07/cropped-Fc_Aich_frei-e1469996039712.png
 date: "2018-03-25T20:27:28+00:00"
 guid: http://www.fc-aich.de/?p=2008
 parent_post_id: null

@@ -14,4 +14,4 @@ url: /fc-aich-corona-krise-hat-uns-nicht-aus-der-bahn-geworfen/
 Trotz Corona Beschränkungen lief es beim FC Aich recht gut.
 Lest mehr hierzu im Interview von Gerhard mit dem Merkur.
 
-{{< figure src="/wp-content/uploads/2020/07/Artikel-Merkur-270720.jpeg" alt="" caption="" >}}
+{{< figure src="/uploads/2020/07/Artikel-Merkur-270720.jpeg" alt="" caption="" >}}

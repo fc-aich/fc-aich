@@ -29,4 +29,4 @@ Alles in Allem - ein voller Erfolg!
 
 Text: Melina Schön
 
-{{< figure src="/wp-content/uploads/2022/11/20221105%5F101734-edited-scaled.jpg" alt="" caption="" >}}
+{{< figure src="/uploads/2022/11/20221105%5F101734-edited-scaled.jpg" alt="" caption="" >}}

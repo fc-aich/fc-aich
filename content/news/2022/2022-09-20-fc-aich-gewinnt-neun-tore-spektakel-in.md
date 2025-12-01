@@ -13,13 +13,13 @@ url: /fc-aich-gewinnt-neun-tore-spektakel-in-wessling/
 ---
 **Sieg nie in Gefahr**
 
-{{< figure src="/wp-content/uploads/2022/09/Foto-1%5FDieter-Metzler.jpg" alt="" caption="" >}}
+{{< figure src="/uploads/2022/09/Foto-1%5FDieter-Metzler.jpg" alt="" caption="" >}}
 
 _Dank eines Viererpacks von Manuel Milde startet der FC Aich als erster Verfolger des TSV Geiselbullach in die Rückrunde._
 
 Aich – Zum Abschluss der Hinrunde siegten die Aicher beim SC Weßling mit 5:4 (1:0) – das bisher torreichste Spiel der Saison.
 
-{{< figure src="/wp-content/uploads/2022/09/gg-Wessling.png" alt="" caption="" >}}
+{{< figure src="/uploads/2022/09/gg-Wessling.png" alt="" caption="" >}}
 
 FC-Coach Bastian Jaschke hätte gerne einen entspannteren Nachmittag an der Seitenlinie verlebt, doch die Weßlinger Standards funktionierten. „Das haben wir nicht gut verteidigt“, ärgerte sich Jaschke. Nach acht Minuten schoss Manuel Milde den FCA in Führung. In der Folge entwickelte sich ein Spiel zwischen den beiden Strafräumen.
 

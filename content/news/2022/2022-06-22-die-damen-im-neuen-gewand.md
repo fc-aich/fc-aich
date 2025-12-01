@@ -13,6 +13,6 @@ url: /die-damen-im-neuen-gewand/
 ---
 Die Damen wurden mit neuen Trikots von der Bäckerei Drexler aus Jesenwang ausgestattet.
 
-{{< figure src="/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-22-at-15.21.31.jpeg" alt="" caption="" >}}
+{{< figure src="/uploads/2022/06/WhatsApp-Image-2022-06-22-at-15.21.31.jpeg" alt="" caption="" >}}
 
 Die SG Aich/ Aufkirchen bedankt sich recht herzlich dafür!

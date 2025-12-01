@@ -5,7 +5,7 @@ categories:
   - allgemein
 date: "2024-03-05T22:21:46+00:00"
 enclosure: |-
-  http://www.fc-aich.de/wp-content/uploads/2024/03/WhatsApp-Video-2024-02-27-at-19.45.26.mp4
+  http://www.fc-aich.de/uploads/2024/03/WhatsApp-Video-2024-02-27-at-19.45.26.mp4
   3173068
   video/mp4
 title: Die Nacht wird fast zum Tag...
@@ -21,7 +21,7 @@ Mit unserem Partner LED Sports wurde die Anlage am 27. Februar aufgebaut und ins
 Vielen Dank an alle, die uns bei diesem Projekt unterstützt haben!
 
 <video controls width="100%" style="max-width: 800px; border-radius: 0.5rem;">
-  <source src="/wp-content/uploads/2024/03/WhatsApp-Video-2024-02-27-at-19.45.26.mp4" type="video/mp4">
+  <source src="/uploads/2024/03/WhatsApp-Video-2024-02-27-at-19.45.26.mp4" type="video/mp4">
   Dein Browser unterstützt das Video-Tag nicht.
 </video>
 

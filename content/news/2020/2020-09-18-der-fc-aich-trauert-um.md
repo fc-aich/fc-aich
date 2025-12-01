@@ -23,4 +23,4 @@ Unsere Gedanken und unser Mitgefühl gelten seiner Frau Resi, seiner Familie und
 
 Lieber Harti - Wir werden dir stets ein ehrendes Andenken bewahren
 
-{{< figure src="/wp-content/uploads/2020/09/Kandler-Leonhard-Sterbebild-Innenseite.jpg" alt="" caption="" >}}
+{{< figure src="/uploads/2020/09/Kandler-Leonhard-Sterbebild-Innenseite.jpg" alt="" caption="" >}}

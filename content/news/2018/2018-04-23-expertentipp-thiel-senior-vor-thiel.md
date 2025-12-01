@@ -22,4 +22,4 @@ Neue Ergebnisse:
 - FC Aich II : SC Maisach II 1:1
 - Kreisliga-Meister: SC Unterpfaffenhofen
 
-Weitere Informationen auf [http://tippspiel.www.www.fc-aich.de](http://tippspiel.www.www.fc-aich.de)![](http://www.www.www.fc-aich.de/wp-content/uploads/2018/04/20180423_Expertentipp.png)
+Weitere Informationen auf [http://tippspiel.www.www.fc-aich.de](http://tippspiel.www.www.fc-aich.de)![](http://www.www.www.fc-aich.de/uploads/2018/04/20180423_Expertentipp.png)

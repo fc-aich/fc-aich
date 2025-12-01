@@ -17,4 +17,4 @@ Doch das konnte Adelaide Throm nicht auf sich sitzen lassen und verwandelte mit 
 
 Großes Lob an die ganze Mannschaft und Glückwunsch zum erfolgreichen Sieg. Das nächste Heimspiel ist am 18. Mai um 17:00 Uhr in Aich.
 
-![](/wp-content/uploads/2025/05/image0.jpeg)
+![](/uploads/2025/05/image0.jpeg)

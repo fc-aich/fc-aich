@@ -12,4 +12,4 @@ title: ""
 url: /2463/
 
 ---
-![](/wp-content/uploads/2019/01/FC_Aich_Silvester.jpg)
+![](/uploads/2019/01/FC_Aich_Silvester.jpg)

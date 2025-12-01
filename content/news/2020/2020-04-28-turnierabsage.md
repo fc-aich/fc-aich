@@ -11,4 +11,4 @@ title: Turnierabsage
 url: /absage-unseres-vatertagsturnieres/
 
 ---
-{{< figure src="/wp-content/uploads/2020/04/Absage-Vatertagsturnier-2020.png" alt="" caption="" >}}
+{{< figure src="/uploads/2020/04/Absage-Vatertagsturnier-2020.png" alt="" caption="" >}}

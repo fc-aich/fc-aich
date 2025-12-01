@@ -11,7 +11,7 @@ title: FC Aich bringt Kinderaugen zum Leuchten
 url: /fc-aich-bringt-kinderaugen-zum-leuchten/
 
 ---
-![](/wp-content/uploads/2018/12/Waisenhaus.jpg)
+![](/uploads/2018/12/Waisenhaus.jpg)
 
 **Sandra Kattler vom FC Aich bei der Übergabe an eine Mitarbeiterin**
 

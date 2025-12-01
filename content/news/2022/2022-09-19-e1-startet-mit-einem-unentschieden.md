@@ -41,4 +41,4 @@ Weiter so Jungs!
 
 Bericht: Melina Schön
 
-{{< figure src="/wp-content/uploads/2022/09/Mannschaft-E1-22-23.jpg" alt="" caption="" >}}
+{{< figure src="/uploads/2022/09/Mannschaft-E1-22-23.jpg" alt="" caption="" >}}

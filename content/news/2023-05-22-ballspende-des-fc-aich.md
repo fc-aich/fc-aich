@@ -14,4 +14,4 @@ Schon beim Betreten des Hauses erlangte der Ballsack große Aufmerksamkeit und k
 
 Schön, wenn man mit so kleinen Gesten so viel Freude bereiten kann.
 
-![](/wp-content/uploads/2023/05/Ballspende.jpg)
+![](/uploads/2023/05/Ballspende.jpg)

@@ -28,4 +28,4 @@ In den letzten Minuten vor dem Abpfiff kämpften die Mädels noch für das 3:4, 
 
 Stark gekämpft, Mädels!
 
-![](/wp-content/uploads/2025/09/image1.jpeg)
+![](/uploads/2025/09/image1.jpeg)

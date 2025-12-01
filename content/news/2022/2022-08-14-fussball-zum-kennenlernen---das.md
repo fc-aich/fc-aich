@@ -13,7 +13,7 @@ url: /fussball-zum-kennenlernen-das-ferienprogramm-der-stadt-fuerstenfeldbruck-b
 ---
 **Sommerferien - Pause - nicht bei uns!**
 
-{{< figure src="/wp-content/uploads/2022/08/WhatsApp-Image-2022-08-13-at-12.56.54-1.jpeg" alt="" caption="" >}}
+{{< figure src="/uploads/2022/08/WhatsApp-Image-2022-08-13-at-12.56.54-1.jpeg" alt="" caption="" >}}
 
 Ohne Fußball geht's halt nicht! Darum durften Marian und Jan gemeinsam mit dem Ferienprogramm der Stadt Fürstenfeldbruck, nur eine Woche nach unserer erfolgreichen Fußballschule, interessierten Fußballer\*Innen das Kicken etwas näherbringen und den Teamsport schmackhaft machen.
 
@@ -23,6 +23,6 @@ Egal ob Anfänger oder Fortgeschrittener, ob Mädchen oder Junge, beim FC Aich "
 
 Einmal wird das Ferienprogramm der Stadt in diesen Sommerferien noch bei uns Halt machen. Am 27. August gibt es den 2. Kurs "Fußball zum Kennenlernen".
 
-{{< figure src="/wp-content/uploads/2022/08/WhatsApp-Image-2022-08-13-at-12.56.542.jpeg" alt="" caption="" >}}
+{{< figure src="/uploads/2022/08/WhatsApp-Image-2022-08-13-at-12.56.542.jpeg" alt="" caption="" >}}
 
-{{< figure src="/wp-content/uploads/2022/08/WhatsApp-Image-2022-08-13-at-12.56.543.jpeg" alt="" caption="" >}}
+{{< figure src="/uploads/2022/08/WhatsApp-Image-2022-08-13-at-12.56.543.jpeg" alt="" caption="" >}}

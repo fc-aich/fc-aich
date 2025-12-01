@@ -15,7 +15,7 @@ Das neu formierte Team der U17 (B-Jugend), aus der neu gestalteten
 Spielgemeinschaft der Vereine SV Mammendorf und FC Aich, startete bereits Ende
 Juli mit zwei Testspielen in die Vorbereitungsphase der neuen Saison 2019\_2020.
 
-{{< figure src="/wp-content/uploads/2019/09/U17%5FTeamfoto%5F25.7.2019.jpeg" alt="" caption="" >}}
+{{< figure src="/uploads/2019/09/U17%5FTeamfoto%5F25.7.2019.jpeg" alt="" caption="" >}}
 
 Nach dem Informationsabend mit Trainern-Eltern-Spielern, erfolgten
 einige Tage darauf schon die ersten Freundschaftsspiele gegen die JFG
@@ -66,14 +66,14 @@ Eckstoß den 1:0 Führungstreffer. Dem schloss sich in der 38.Spielminute der
 Centerspieler Omid Jafari an, als er zum 2:0 Zwischenergebnis – nach einem
 Freistoß von Paul Meyer – einköpfte.
 
-{{< figure src="/wp-content/uploads/2019/09/2019-07-28%5F17%5FU17%5FSV%5FMammendorf-TSV%5FKoenigsbrunn%5F5-0%5FTF.04.jpg" alt="" caption="" >}}
+{{< figure src="/uploads/2019/09/2019-07-28%5F17%5FU17%5FSV%5FMammendorf-TSV%5FKoenigsbrunn%5F5-0%5FTF.04.jpg" alt="" caption="" >}}
 
 In der zweiten Halbzeit rundeten Daniel Albertshofer (2) und Felix
 Hallmaier das Ergebnis zum Endstand von 5:0 auf. Königsbrunn hatte dem bis zum
 Spielende nichts entgegen zu setzen. Zu eindeutig verlief das Spielgeschehen in
 eine Richtung.
 
-{{< figure src="/wp-content/uploads/2019/09/2019-07-28%5F23%5FU17%5FSV%5FMammendorf-TSV%5FKoenigsbrunn%5F5-0%5FTF.06.jpg" alt="" caption="" >}}
+{{< figure src="/uploads/2019/09/2019-07-28%5F23%5FU17%5FSV%5FMammendorf-TSV%5FKoenigsbrunn%5F5-0%5FTF.06.jpg" alt="" caption="" >}}
 
 Natürlich ist man erfreut, wenn die ersten Spiele eines neu
 formierten Teams erfolgreich verlaufen. Die Freude ist aber umso größer, dass

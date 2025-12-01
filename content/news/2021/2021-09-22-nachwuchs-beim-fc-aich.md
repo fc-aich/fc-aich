@@ -13,9 +13,9 @@ url: /nachwuchs-beim-fc-aich/
 ---
 Schon vor einiger Zeit gab es Nachwuchs beim FC Aich, doch nun liefern wir auch die Bilder dazu. :-)
 
-{{< figure src="/wp-content/uploads/2021/09/Baby-1.jpeg" alt="" caption="" >}}
+{{< figure src="/uploads/2021/09/Baby-1.jpeg" alt="" caption="" >}}
 
-{{< figure src="/wp-content/uploads/2021/09/Baby-2-e1632341195497.jpeg" alt="" caption="" >}}
+{{< figure src="/uploads/2021/09/Baby-2-e1632341195497.jpeg" alt="" caption="" >}}
 
 **Alles erdenklich Gute für die Kleinen und Gratulation & herzliche Glückwünsche an die stolzen Eltern!**
 

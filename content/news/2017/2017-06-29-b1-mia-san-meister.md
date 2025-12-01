@@ -6,7 +6,7 @@ categories:
   - jugend
 cover:
   alt: B1-Meister
-  image: /wp-content/uploads/2017/06/B1-Meister.jpg
+  image: /uploads/2017/06/B1-Meister.jpg
 date: "2017-06-29T07:58:50+00:00"
 guid: http://www.fc-aich.de/?p=1322
 parent_post_id: null

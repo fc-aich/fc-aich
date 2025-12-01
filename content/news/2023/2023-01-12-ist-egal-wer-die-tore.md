@@ -34,4 +34,4 @@ _Interview: Dieter Metzler_
 
 Quelle: https://www.fupa.net/news/ist-egal-wer-die-tore-erzielt-aichs-torjaeger-traeumt-von-aufstieg-2919419
 
-![](/wp-content/uploads/2022/10/Milde.png)
+![](/uploads/2022/10/Milde.png)

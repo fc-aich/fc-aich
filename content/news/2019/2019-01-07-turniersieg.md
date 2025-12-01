@@ -6,7 +6,7 @@ categories:
   - jugend
 cover:
   alt: Sieg_C-Juniorinnen
-  image: /wp-content/uploads/2019/01/Sieg_C-Juniorinnen.jpg
+  image: /uploads/2019/01/Sieg_C-Juniorinnen.jpg
 date: "2019-01-07T10:43:03+00:00"
 guid: http://www.fc-aich.de/?p=2469
 parent_post_id: null

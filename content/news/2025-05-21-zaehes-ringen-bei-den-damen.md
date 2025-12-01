@@ -5,8 +5,8 @@ categories:
 date: "2025-05-21T07:20:34+00:00"
 title: Zähes Ringen bei den Damen
 gallery:
-  - /wp-content/uploads/2025/05/image0-1-768x1024.jpeg
-  - /wp-content/uploads/2025/05/image1-768x1024.jpeg
+  - /uploads/2025/05/image0-1-768x1024.jpeg
+  - /uploads/2025/05/image1-768x1024.jpeg
 
 ---
 **SG Wildenroth / Aich / Aufkrichen - SC Eibsee Grainau 0:0**

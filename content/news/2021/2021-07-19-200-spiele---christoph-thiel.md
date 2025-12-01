@@ -11,6 +11,6 @@ title: 200 Spiele - Christoph Thiel
 url: /200-spiele-christoph-thiel/
 
 ---
-{{< figure src="/wp-content/uploads/2021/07/Thiel.jpg" alt="" caption="" >}}
+{{< figure src="/uploads/2021/07/Thiel.jpg" alt="" caption="" >}}
 
 Bereits am 8. Juli, beim Verbandspokalspiel SC Fürstenfeldbruck - FC Aich 2:3 hat Christoph sein 200. Spiel für den FC Aich absolviert. Christoph spielt seit er 5 Jahre alt war für den FC Aich. Er hat bei den Oachern sämtliche Juniorenmannschaften durchlaufen und uns also in vielen ungezählten Jugendspielen unterstützt. **Danke Christoph!**

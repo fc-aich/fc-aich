@@ -20,4 +20,4 @@ Neue Ergebnisse:
 - Deutschland : Spanien 1:1
 - Brasilien : Deutschland 0:1
 
-Mehr unter: [http://tippspiel.fc-aich.de/ranking](http://tippspiel.fc-aich.de/ranking)![](/wp-content/uploads/2018/04/20180405_Expertentipp.png)
+Mehr unter: [http://tippspiel.fc-aich.de/ranking](http://tippspiel.fc-aich.de/ranking)![](/uploads/2018/04/20180405_Expertentipp.png)

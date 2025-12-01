@@ -11,6 +11,6 @@ title: 100 Spiele für Tobias Bosch
 url: /100-spiele-fuer-tobias-bosch/
 
 ---
-{{< figure src="/wp-content/uploads/2021/07/20210728%5F192235.jpg" alt="" caption="" >}}
+{{< figure src="/uploads/2021/07/20210728%5F192235.jpg" alt="" caption="" >}}
 
 Beim Vorbereitungsspiel FC Aich II - FC Puchheim 2:6 hat der Boschi sein hunderstes Spiel für uns gemacht. Er spielt seit er 7 Jahre alt war für den FC Aich. Von der F-Jugend bis zur A-Jugend hat er auch ungezählte Spiele für unsere Juniorenmannschaften gemacht. Danke Boschi!

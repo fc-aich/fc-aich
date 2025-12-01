@@ -6,7 +6,7 @@ categories:
   - allgemein
 cover:
   alt: img_4316
-  image: /wp-content/uploads/2016/12/img_4316.jpg
+  image: /uploads/2016/12/img_4316.jpg
 date: "2016-12-20T12:29:38+00:00"
 guid: http://www.fc-aich.de/?p=1015
 parent_post_id: null

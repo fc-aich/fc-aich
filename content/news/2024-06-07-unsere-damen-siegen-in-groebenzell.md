@@ -21,8 +21,8 @@ In der letzten Minute erhöhte Lina Appelt auf den 1 zu 3 Endstand.
 
 Herzlichen Glückwunsch zum Sieg, Mädels, weiter so!
 
-![](/wp-content/uploads/2024/06/IMG-20240606-WA0009.jpg)
+![](/uploads/2024/06/IMG-20240606-WA0009.jpg)
 
-![](/wp-content/uploads/2024/06/IMG-20240606-WA0010.jpg)
+![](/uploads/2024/06/IMG-20240606-WA0010.jpg)
 
-![](/wp-content/uploads/2024/06/IMG-20240606-WA0015.jpg)
+![](/uploads/2024/06/IMG-20240606-WA0015.jpg)

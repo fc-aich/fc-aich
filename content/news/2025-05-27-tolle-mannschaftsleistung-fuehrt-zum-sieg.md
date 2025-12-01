@@ -17,4 +17,4 @@ Das Spiel endet mit einem Ergebnis von 0:1.
 Großes Lob für die hervorragende Mannschaftsleistung.
 
 
-![Sieg](/wp-content/uploads/2025/05/image1-1-1024x768.jpeg)
+![Sieg](/uploads/2025/05/image1-1-1024x768.jpeg)

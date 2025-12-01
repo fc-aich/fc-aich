@@ -13,4 +13,4 @@ url: /startschwierigkeiten-koennen-wir-uns-nicht-leisten/
 ---
 Interview der Milde Brüder im Merkur
 
-{{< figure src="/wp-content/uploads/2021/02/Bericht-Milde-Brueder.jpg" alt="" caption="" >}}
+{{< figure src="/uploads/2021/02/Bericht-Milde-Brueder.jpg" alt="" caption="" >}}

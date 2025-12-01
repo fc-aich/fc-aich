@@ -18,4 +18,4 @@ Also lasst Euch das nicht entgehen und schaut vorbei!
 
 Wir freuen uns auf Euch!
 
-![](/wp-content/uploads/2023/05/20220526%5F143235.jpg)
+![](/uploads/2023/05/20220526%5F143235.jpg)

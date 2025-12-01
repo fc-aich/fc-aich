@@ -19,4 +19,4 @@ Weiteres in Kürze
 
 Anmeldungen an reiner.jahnel@fc-aich.de
 
-[Rahmenzeitplan](/wp-content/uploads/2017/02/Rahmenzeitplan.pdf)
+[Rahmenzeitplan](/uploads/2017/02/Rahmenzeitplan.pdf)

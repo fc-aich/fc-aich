@@ -5,7 +5,7 @@ categories:
   - allgemein
 cover:
   alt: merkur
-  image: /wp-content/uploads/2019/05/merkur.jpg
+  image: /uploads/2019/05/merkur.jpg
 date: "2019-05-04T14:31:37+00:00"
 guid: http://www.fc-aich.de/?p=2555
 parent_post_id: null

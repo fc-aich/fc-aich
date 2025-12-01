@@ -36,4 +36,4 @@ Mit sportlichen Grüßen
 Martin Deufel
 Schatzmeister FC Aich e.V. im Namen der Vorstandschaft
 
-[Infobrief Beitragserhöhung Jugend](/wp-content/uploads/2017/12/Infobrief-Beitragserhöhung-Jugend.pdf)
+[Infobrief Beitragserhöhung Jugend](/uploads/2017/12/Infobrief-Beitragserhöhung-Jugend.pdf)

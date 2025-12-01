@@ -6,7 +6,7 @@ categories:
   - allgemein
 cover:
   alt: 2018_FCA_Spende_1
-  image: /wp-content/uploads/2018/01/2018_FCA_Spende_1.jpg
+  image: /uploads/2018/01/2018_FCA_Spende_1.jpg
 date: "2018-01-27T07:19:30+00:00"
 guid: http://www.fc-aich.de/?p=1839
 parent_post_id: null

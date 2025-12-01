@@ -11,8 +11,8 @@ title: FC Aich Newsletter
 url: /fc-aich-newsletter/
 
 ---
-Der erste FC Aich Newsletter ist fertig. Schaut [hier](/wp-content/uploads/2020/04/Newsletter-042020-v03.pdf)!
+Der erste FC Aich Newsletter ist fertig. Schaut [hier](/uploads/2020/04/Newsletter-042020-v03.pdf)!
 
 Bleibt gesund und Frohe Ostern!
 
-{{< figure src="/wp-content/uploads/2020/04/2020-04-11-12%5F29%5F16-Window.png" alt="" caption="" >}}
+{{< figure src="/uploads/2020/04/2020-04-11-12%5F29%5F16-Window.png" alt="" caption="" >}}

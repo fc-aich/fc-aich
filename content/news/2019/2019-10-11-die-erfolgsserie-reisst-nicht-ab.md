@@ -27,6 +27,6 @@ Wir freuen uns auf euer zahlreiches Erscheinen!
 
 Sportliche Grüße Robert W.
 
-{{< figure src="/wp-content/uploads/2019/10/Damen-091019.jpg" alt="" caption="" >}}
+{{< figure src="/uploads/2019/10/Damen-091019.jpg" alt="" caption="" >}}
 
 Text und Bilder: Robert Weikenstorfer

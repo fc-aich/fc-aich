@@ -11,6 +11,6 @@ title: Frohe Ostern!
 url: /frohe-ostern/
 
 ---
-{{< figure src="/wp-content/uploads/2022/04/easter-eggs-g415cdf9cd%5F640.jpg" alt="" caption="" >}}
+{{< figure src="/uploads/2022/04/easter-eggs-g415cdf9cd%5F640.jpg" alt="" caption="" >}}
 
 Der FC Aich wünscht Euch allen ein paar schöne Osterfeiertage! Lasst es Euch gut gehen und viel Spaß beim Eier suchen!

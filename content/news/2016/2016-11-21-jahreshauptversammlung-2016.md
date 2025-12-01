@@ -6,7 +6,7 @@ categories:
   - allgemein
 cover:
   alt: FC Aich Logo
-  image: /wp-content/uploads/2016/07/cropped-Fc_Aich_frei-e1469996039712.png
+  image: /uploads/2016/07/cropped-Fc_Aich_frei-e1469996039712.png
 date: "2016-11-21T09:41:53+00:00"
 guid: http://www.fc-aich.de/?p=764
 parent_post_id: null
@@ -39,4 +39,4 @@ Über Ihr Erscheinen freut sich die Vorstandschaft des FC Aich. Mit sportlichen
 
 Gez. die Vorstandschaft des FC Aich
 
-Die Einladung zum Download: [einladung-jhv-2016\_homepage](/wp-content/uploads/2016/10/Einladung-JHV-2016_Homepage.pdf)
+Die Einladung zum Download: [einladung-jhv-2016\_homepage](/uploads/2016/10/Einladung-JHV-2016_Homepage.pdf)

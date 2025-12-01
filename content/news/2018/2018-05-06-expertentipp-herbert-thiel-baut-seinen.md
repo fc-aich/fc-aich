@@ -21,4 +21,4 @@ Neue Ergebnisse:
 - Meister in Frankreich: PSG
 - Wie weit kommt Bayern in der CL: Halbfinale
 
-Details unter: [Zum Tippspiel](http://tippspiel.fc-aich.de/ranking)![](/wp-content/uploads/2018/05/20180505_Expertentipp.png)
+Details unter: [Zum Tippspiel](http://tippspiel.fc-aich.de/ranking)![](/uploads/2018/05/20180505_Expertentipp.png)

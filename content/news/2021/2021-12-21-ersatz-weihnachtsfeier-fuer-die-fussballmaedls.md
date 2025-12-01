@@ -25,4 +25,4 @@ Anschließend klang der wunderbare Abend gemütlich sitzend an der Feuerschale a
 
 In diesem Sinne, eine besinnliche Weihnachtszeit und ein Hoch aufs neue Jahr, in dem wir endlich zeigen können, was fußballerisch (und auch sonst) in uns steckt 🎄⚽️
 
-{{< figure src="/wp-content/uploads/2021/12/Damen%5FXmas.jpg" alt="" caption="" >}}
+{{< figure src="/uploads/2021/12/Damen%5FXmas.jpg" alt="" caption="" >}}

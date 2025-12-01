@@ -13,4 +13,4 @@ Vielen Dank an alle Teilnehmer für einen tollen Abend voller spannender Spiele 
 
 Das Siegerfoto findet ihr unten – nochmal Glückwunsch an die Champions! 📸🏆
 
-![](/wp-content/uploads/2025/03/Gewinner-edited.jpeg)
+![](/uploads/2025/03/Gewinner-edited.jpeg)

@@ -18,10 +18,10 @@ Eine Minute nach Wiederanpfiff traf Adelaide Throm für die Spielgemeinschaft un
 
 Wie man am Ergebnis sehen kann war das ein super erstes Testspiel mit gutem Zusammenspiel – die Mannschaft hat gezeigt was in ihr steckt. Hoffentlich bringen sie solche Leistungen dann auch bei den Punktspielen. Die Chance eine weitere Glanzleistung zu sehen haben unsere Fans am Sonntag, den 24.03. um 15 Uhr in Wildenroth.
 
-![](/wp-content/uploads/2024/03/IMG_4777.jpg)
+![](/uploads/2024/03/IMG_4777.jpg)
 
-![](/wp-content/uploads/2024/03/IMG_4820.jpg)
+![](/uploads/2024/03/IMG_4820.jpg)
 
-![](/wp-content/uploads/2024/03/IMG_4867.jpg)
+![](/uploads/2024/03/IMG_4867.jpg)
 
-![](/wp-content/uploads/2024/03/IMG_4927.jpg)
+![](/uploads/2024/03/IMG_4927.jpg)

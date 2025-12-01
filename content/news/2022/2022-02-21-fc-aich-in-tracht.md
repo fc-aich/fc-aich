@@ -11,8 +11,8 @@ title: FC Aich in Tracht
 url: /fc-aich-in-tracht/
 
 ---
-In Zusammenarbeit mit Sedlmeir's Trachtenhof können wir Euch eine FC Aich Trachtenkollektion anbieten. Mehr Details dazu auf unserem [Flyer](/wp-content/uploads/2022/02/Flyer-Tracht.pdf).
+In Zusammenarbeit mit Sedlmeir's Trachtenhof können wir Euch eine FC Aich Trachtenkollektion anbieten. Mehr Details dazu auf unserem [Flyer](/uploads/2022/02/Flyer-Tracht.pdf).
 
 Da wir den Schürzenstoff schnellstmöglich bestellen müssen, meldet Euch bei Interesse bitte direkt bei Gerhard oder unter [tracht@fc-aich.de](mailto:tracht@fc-aich.de) !
 
-{{< figure src="/wp-content/uploads/2022/02/Bild-Flyer-Tracht.png" alt="" caption="" >}}
+{{< figure src="/uploads/2022/02/Bild-Flyer-Tracht.png" alt="" caption="" >}}

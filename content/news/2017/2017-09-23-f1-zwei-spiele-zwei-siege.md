@@ -6,7 +6,7 @@ categories:
   - allgemein
 cover:
   alt: F2-2
-  image: /wp-content/uploads/2017/09/F2-2.jpg
+  image: /uploads/2017/09/F2-2.jpg
 date: "2017-09-23T16:20:59+00:00"
 guid: http://www.fc-aich.de/?p=1573
 parent_post_id: null
@@ -21,4 +21,4 @@ Im Samstagsspiel gegen den TSV Alling war bereits nach 10 Minuten alles entschie
 
 Am Ende waren dann alle Spieler k.o
 
-![](/wp-content/uploads/2017/09/F2-3.jpg)
+![](/uploads/2017/09/F2-3.jpg)

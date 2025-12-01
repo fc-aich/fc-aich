@@ -6,7 +6,7 @@ categories:
   - 2.mannschaft
 cover:
   alt: _DSC0020
-  image: /wp-content/uploads/2017/07/DSC0020.jpg
+  image: /uploads/2017/07/DSC0020.jpg
 date: "2020-09-29T11:45:14+00:00"
 guid: http://fc-aich.de/?p=3613
 parent_post_id: null

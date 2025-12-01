@@ -25,6 +25,6 @@ Beim Spiel um Platz 3 mussten wieder gegen Gernlinden antreten. Doch diesmal hat
 
 Alles in allen ein tolles Turnierergebnis unserer F-Jugend! Herzlichen Glückwunsch zum 4. Platz!
 
-{{< figure src="/wp-content/uploads/2023/01/WhatsApp-Image-2023-01-28-at-20.17.31-edited.jpeg" alt="" caption="" >}}
+{{< figure src="/uploads/2023/01/WhatsApp-Image-2023-01-28-at-20.17.31-edited.jpeg" alt="" caption="" >}}
 
 Text: Marian Smyrak

@@ -17,4 +17,4 @@ url: /trainingsplatzbelegung/
 ---
 Die Belegung der Trainingsplätze für die Saison 2020 / 2021 wurde überarbeitet. Bitte werft einen Blick darauf, schaut Euch auch das Thema Kabinenplan an.
 
-{{< figure src="/wp-content/uploads/2020/09/FC-Aich-Platzbelegung-2020-2021.jpg" alt="" caption="" >}}
+{{< figure src="/uploads/2020/09/FC-Aich-Platzbelegung-2020-2021.jpg" alt="" caption="" >}}

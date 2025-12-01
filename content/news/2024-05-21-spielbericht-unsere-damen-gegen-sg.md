@@ -15,4 +15,4 @@ Nach der Halbzeitpause baute Johanna Paulus den Vorsprung weiter aus und erzielt
 
 Herzlichen Glückwunsch Mädels zu einem verdienten Sieg, weiter so!
 
-![](/wp-content/uploads/2024/05/IMG-20240512-WA0002.jpg)
+![](/uploads/2024/05/IMG-20240512-WA0002.jpg)

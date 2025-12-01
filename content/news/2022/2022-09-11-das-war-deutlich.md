@@ -21,6 +21,6 @@ Den kompletten Spielbericht könnt Ihr hier auf FuPa lesen:
 
 [https://www.fupa.net/news/aichs-blitzstart-schockt-mammendorf-das-war-einfach-nur-peinlich-2891323](https://www.fupa.net/news/aichs-blitzstart-schockt-mammendorf-das-war-einfach-nur-peinlich-2891323)
 
-{{< figure src="/wp-content/uploads/2022/09/IMG%5F0083.jpg" alt="" caption="" >}}
+{{< figure src="/uploads/2022/09/IMG%5F0083.jpg" alt="" caption="" >}}
 
-{{< figure src="/wp-content/uploads/2022/09/IMG%5F0102.jpg" alt="" caption="" >}}
+{{< figure src="/uploads/2022/09/IMG%5F0102.jpg" alt="" caption="" >}}

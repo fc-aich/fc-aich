@@ -11,4 +11,4 @@ title: Weihnachtsgrüße
 url: /weihnachtsgruesse/
 
 ---
-{{< figure src="/wp-content/uploads/2019/12/Weihnachten-2019.jpg" alt="" caption="" >}}
+{{< figure src="/uploads/2019/12/Weihnachten-2019.jpg" alt="" caption="" >}}

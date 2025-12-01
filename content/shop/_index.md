@@ -12,13 +12,13 @@ In Zusammenarbeit mit Jako und Sport Haas können wir Euch hier die FC Aich Koll
 1\. Erstellt ein Konto bei Sport Haas mit dem Registrierungscode **23721.**  
 **WICHTIG:** Unsere Kollektion wird nur angezeigt, wenn ihr im Shop eingeloggt seid!  
 
-_Eine detaillierte Anleitung dazu findet ihr hier: [Shop Anleitung](/wp-content/uploads/2020/04/Anleitung_Shop_FC-Aich.pdf)_
+_Eine detaillierte Anleitung dazu findet ihr hier: [Shop Anleitung](/uploads/2020/04/Anleitung_Shop_FC-Aich.pdf)_
 
 ![](/img/shop/FC-Aich_4219_04_w_200x200-black.png)
 
 2\. Sucht Euch etwas aus der Vereinskollektion des FC Aich aus.
 
-3\. Jetzt noch die richtige Größe auswählen: [Größentabelle](/wp-content/uploads/2020/05/Größentabelle..pdf)
+3\. Jetzt noch die richtige Größe auswählen: [Größentabelle](/uploads/2020/05/Größentabelle..pdf)
 
 ![](/img/shop/FC-Aich_7604_99_w_200x200-1-black.png)
 

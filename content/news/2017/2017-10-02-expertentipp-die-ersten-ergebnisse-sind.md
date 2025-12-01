@@ -20,4 +20,4 @@ Bisher gab es folgende Ergebnisse:
 - FC Aich II : SpVgg Wildenroth II 1:1
 - FC Aich II : TSV Geltendorf 2:2
 
-Mehr unter: [http://tippspiel.fc-aich.de/ranking](http://tippspiel.fc-aich.de/ranking)![](/wp-content/uploads/2017/10/20171002_Expertentipp.png)
+Mehr unter: [http://tippspiel.fc-aich.de/ranking](http://tippspiel.fc-aich.de/ranking)![](/uploads/2017/10/20171002_Expertentipp.png)

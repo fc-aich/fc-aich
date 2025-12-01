@@ -37,6 +37,6 @@ Das Finalspiel. Hier konnten wir im Spiel wenig Akzente setzen. Die fehlende Fit
 
 Geschlagen, abgekämpft und müde gratulierten wir sportlich fair, mit einem Handschlag, den Spielern/Trainer aus 5-Seen zu ihrem Erfolg.
 
-{{< figure src="/wp-content/uploads/2023/01/WhatsApp-Image-2023-01-29-at-22.32.57-1.jpeg" alt="" caption="" >}}
+{{< figure src="/uploads/2023/01/WhatsApp-Image-2023-01-29-at-22.32.57-1.jpeg" alt="" caption="" >}}
 
 Bericht: Andreas Steiner

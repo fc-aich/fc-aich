@@ -5,7 +5,7 @@ categories:
   - allgemein
 cover:
   alt: _DSC0404
-  image: /wp-content/uploads/2016/08/DSC0404.jpg
+  image: /uploads/2016/08/DSC0404.jpg
 date: "2019-07-14T19:04:26+00:00"
 guid: http://www.fc-aich.de/?p=2679
 parent_post_id: null

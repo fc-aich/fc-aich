@@ -52,4 +52,4 @@ Aufgrund technischer Probleme müssen leider die folgenden beiden Fragen aus der
 - Pokalsieger
 - Champions League Sieger
 
-![](/wp-content/uploads/2018/05/20180520_Expertentipp.png)
+![](/uploads/2018/05/20180520_Expertentipp.png)

@@ -23,4 +23,4 @@ Mit sportlichen Grüßen
 
 die Vorstandschaft
 
-{{< figure src="/wp-content/uploads/2023/03/Bildschirmfoto-2023-03-05-um-20.11.02.png" alt="" caption="" >}}
+{{< figure src="/uploads/2023/03/Bildschirmfoto-2023-03-05-um-20.11.02.png" alt="" caption="" >}}

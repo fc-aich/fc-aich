@@ -4,7 +4,7 @@ categories:
   - jugend
 date: "2025-05-14T08:02:36+00:00"
 title: Erster Merkur CUP beim FC Aich
-featured_image: /wp-content/uploads/2025/05/MercurCup-300x300.png
+featured_image: /uploads/2025/05/MercurCup-300x300.png
 
 ---
 
@@ -14,7 +14,7 @@ Bei der Zwischenrunde am Samstag, 24. Mai, in Mammendorf treffen diese Teams auf
 
 In den beiden Vormittagsgruppen auf dem Aicher Gelände konnte jede Mannschaft zumindest ein kleines Erfolgserlebnis in Form von erzielten Toren mit nach Hause nehmen. Doch der SV Germering und der FC Puchheim stellten mit einer souveränen Qualifikation ihre Merkur-CUP-Erfahrung einmal mehr unter Beweis. Am Nachmittag setzte sich GW Gröbenzell überraschend klar und mit einer beeindruckenden Bilanz von 20:1 Toren aus zwei Spielen durch. Ebenfalls ohne Probleme und mit einem zweistelligen Ergebnis kam der FC Eichenau durch. Bemerkenswert war außerdem, dass RW Überacker mit einem gemischten Kader aus Mädchen und Jungen antrat.
 
-![MerkurCup](/wp-content/uploads/2025/05/MercurCup-768x274.png)
+![MerkurCup](/uploads/2025/05/MercurCup-768x274.png)
 
 
 Spielleiter Andreas Tretschok bescheinigte dem FC Aich ein guter Organisator gewesen zu sein. „Da hat man gemerkt, dass die ganze Abteilung dahinter steht.“ Es habe ihn sehr beeindruckt, dass sowohl aus dem Junioren- wie aus dem Seniorenbereich sich Mitglieder des FC Aich engagiert hätten. „Gut gemacht“, lobte Tretschok. _  

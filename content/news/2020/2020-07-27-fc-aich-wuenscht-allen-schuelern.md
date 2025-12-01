@@ -13,7 +13,7 @@ url: /fc-aich-wuenscht-allen-schuelern-schoene-ferien/
 ---
 Auch wenn es sich in den letzten Wochen vielleicht schon so angefühlt hat, sind nun tatsächlich die großen Sommerferien da!
 
-{{< figure src="/wp-content/uploads/2020/07/Ferien.jpg" alt="" caption="" >}}
+{{< figure src="/uploads/2020/07/Ferien.jpg" alt="" caption="" >}}
 
 Wir vom FC Aich wünschen Euch eine schöne Ferienzeit. Macht das Beste draus und bleibt gesund!
 

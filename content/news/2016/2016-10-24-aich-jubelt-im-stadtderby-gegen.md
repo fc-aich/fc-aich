@@ -6,7 +6,7 @@ categories:
   - 1.mannschaft
 cover:
   alt: viel-kampf-viel-krampf-zumindest-in-der-ersten-spielhaelfte-bot-das-stadtderby-zwischen-west-weisse-trikots-und-aich-keine-fussballerischen-leckerbissen
-  image: /wp-content/uploads/2016/10/viel-kampf-viel-krampf-zumindest-in-der-ersten-spielhaelfte-bot-das-stadtderby-zwischen-west-weisse-trikots-und-aich-keine-fussballerischen-leckerbissen.jpg
+  image: /uploads/2016/10/viel-kampf-viel-krampf-zumindest-in-der-ersten-spielhaelfte-bot-das-stadtderby-zwischen-west-weisse-trikots-und-aich-keine-fussballerischen-leckerbissen.jpg
 date: "2016-10-24T13:17:50+00:00"
 guid: http://www.fc-aich.de/?p=784
 parent_post_id: null

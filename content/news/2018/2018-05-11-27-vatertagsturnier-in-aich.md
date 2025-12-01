@@ -15,8 +15,8 @@ Bereits zum 27. Mal fand in Aich das legendäre Vatertagsturnier der Jugendmanns
 
 Danke an die vielen Helfer, beim Verkauf, Grillen und Kuchenbacken. Den Schiedsrichtern aus unserer 1ten Mannschaft, sowie Denny, Luis, Quirin, Weiki und Alex. Aber ein besonderer Dank an das Organisationstalent Chiara.
 
-![](/wp-content/uploads/2018/05/Vatertag-F2.jpg)![](/wp-content/uploads/2018/05/Vatertag-F1.jpg)
+![](/uploads/2018/05/Vatertag-F2.jpg)![](/uploads/2018/05/Vatertag-F1.jpg)
 
   Hier noch die Ergebnispläne der einzelnen Turniere:
 
-[F2](/wp-content/uploads/2018/05/Ergebnisse-F2.pdf) [F1](/wp-content/uploads/2018/05/Ergebnisse-F1.pdf) [D2](/wp-content/uploads/2018/05/Ergebnisse-D2.pdf) [E](/wp-content/uploads/2018/05/Ergebnisse-E.pdf) [G](/wp-content/uploads/2018/05/Ergebnisse-G.pdf)
+[F2](/uploads/2018/05/Ergebnisse-F2.pdf) [F1](/uploads/2018/05/Ergebnisse-F1.pdf) [D2](/uploads/2018/05/Ergebnisse-D2.pdf) [E](/uploads/2018/05/Ergebnisse-E.pdf) [G](/uploads/2018/05/Ergebnisse-G.pdf)

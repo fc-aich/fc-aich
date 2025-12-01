@@ -11,7 +11,7 @@ title: FC Aich gewinnt VR Ortspreis FFB
 url: /fc-aich-gewinnt-vr-ortspreis-ffb/
 
 ---
-{{< figure src="/wp-content/uploads/2020/03/VR-Ortspreis.jpg" alt="" caption="" >}}
+{{< figure src="/uploads/2020/03/VR-Ortspreis.jpg" alt="" caption="" >}}
 
 Anfang Februar erhielt der FC Aich den Preis des diesjährigen VR Ortspreises. Ein Mitglied des Vereins nahm die 1000€ von einem VR Mitarbeiter entgegen.
 

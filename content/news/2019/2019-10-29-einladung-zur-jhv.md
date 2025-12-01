@@ -12,4 +12,4 @@ type: bild
 url: /einladung-zur-jhv/
 
 ---
-{{< figure src="/wp-content/uploads/2019/10/Einladung-JHV-2019.jpg" alt="" caption="" >}}
+{{< figure src="/uploads/2019/10/Einladung-JHV-2019.jpg" alt="" caption="" >}}

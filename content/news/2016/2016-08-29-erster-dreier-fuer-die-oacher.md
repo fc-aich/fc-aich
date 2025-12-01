@@ -6,7 +6,7 @@ categories:
   - 2.mannschaft
 cover:
   alt: Herren 2
-  image: /wp-content/uploads/2016/08/Herren-2.jpg
+  image: /uploads/2016/08/Herren-2.jpg
 date: "2016-08-29T10:22:44+00:00"
 guid: http://test.fc-aich.de/?p=442
 parent_post_id: null

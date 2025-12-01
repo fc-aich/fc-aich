@@ -15,4 +15,4 @@ Pünktlich zu Weihnachten kann sich unsere Mädchenmannschaft über ihre neuen T
 
 Wir sagen herzlichen Dank an die Handwerkskammer für München und Oberbayern!
 
-![](/wp-content/uploads/2018/12/C-Juniorinnen.jpg)
+![](/uploads/2018/12/C-Juniorinnen.jpg)

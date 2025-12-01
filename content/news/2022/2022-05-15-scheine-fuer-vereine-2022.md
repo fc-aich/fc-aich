@@ -12,7 +12,7 @@ title: Scheine für Vereine 2022
 url: /scheine-fuer-vereine-2022/
 
 ---
-{{< figure src="/wp-content/uploads/2022/05/REWE%5FScheine%5Ffuer%5FVereine-Logo%5FWeb.png" alt="" caption="" >}}
+{{< figure src="/uploads/2022/05/REWE%5FScheine%5Ffuer%5FVereine-Logo%5FWeb.png" alt="" caption="" >}}
 
 Auch dieses Jahr gibt es bei Rewe wieder die Aktion „Scheine für Vereine“.
 
@@ -22,4 +22,4 @@ Mach mit! Sammle die Scheine und lass sie deinem FC Aich zugutekommen. Dabei kan
 
 Vielen Dank für deine Unterstützung und nun ran an die Scheine!!!
 
-{{< figure src="/wp-content/uploads/2022/05/REWE%5FScheine-fuer-Vereine.gif" alt="" caption="" >}}
+{{< figure src="/uploads/2022/05/REWE%5FScheine-fuer-Vereine.gif" alt="" caption="" >}}

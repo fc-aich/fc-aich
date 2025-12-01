@@ -6,7 +6,7 @@ categories:
   - jugend
 cover:
   alt: b1-herbstmeister
-  image: /wp-content/uploads/2016/11/B1-Herbstmeister.jpg
+  image: /uploads/2016/11/B1-Herbstmeister.jpg
 date: "2017-04-10T17:23:34+00:00"
 guid: http://www.fc-aich.de/?p=1158
 parent_post_id: null

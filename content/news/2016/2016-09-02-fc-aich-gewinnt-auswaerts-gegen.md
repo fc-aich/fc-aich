@@ -6,7 +6,7 @@ categories:
   - 1.mannschaft
 cover:
   alt: FCA_Rasen_Logo
-  image: /wp-content/uploads/2016/07/FCA_Rasen_Logo.jpg
+  image: /uploads/2016/07/FCA_Rasen_Logo.jpg
 date: "2016-09-02T19:08:28+00:00"
 guid: http://www.fc-aich.de/?p=517
 parent_post_id: null

@@ -17,4 +17,4 @@ Fußball ohne Kontakt konnten sich viele zu Beginn nicht vorstellen. Daher musst
 
 Ein Dank geht an alle Spieler, Eltern und besonders Trainer, die das Hygiene-Konzept des FC Aich  in dieser außergewöhnlichen Zeit sehr sorgsam und verantwortungsbewusst umsetzen.
 
-{{< figure src="/wp-content/uploads/2020/07/IMG%5F5520.jpg" alt="" caption="" >}}
+{{< figure src="/uploads/2020/07/IMG%5F5520.jpg" alt="" caption="" >}}

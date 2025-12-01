@@ -23,4 +23,4 @@ Der FC Aich bedankt sich für diesen super Abend. Wir freuen uns, euch hoffentli
 1. Platz: Siglinde Heggmair & Edith Schützinger - 172 Punkte
 1. Platz: Florian Schmid & Andreas Schmid - 168 Punkte
 
-[Gesamtwertung](/wp-content/uploads/2022/12/Gesamtwertung_Wattturnier22.xlsx)
+[Gesamtwertung](/uploads/2022/12/Gesamtwertung_Wattturnier22.xlsx)

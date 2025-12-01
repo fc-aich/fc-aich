@@ -32,4 +32,4 @@ Wie weit kommen die deutschen Vereine im Europapokal
 - TSG Hoffenheim 1899 (EL): Gruppenphase
 - Hertha BSC Berlin (EL): Gruppenphase
 
-![](/wp-content/uploads/2017/12/Expertentipp_FCA_20171217.png)
+![](/uploads/2017/12/Expertentipp_FCA_20171217.png)

@@ -6,7 +6,7 @@ categories:
   - 1.mannschaft
 cover:
   alt: Fc_Aich_frei
-  image: /wp-content/uploads/2016/07/Fc_Aich_frei.png
+  image: /uploads/2016/07/Fc_Aich_frei.png
 date: "2018-04-22T19:37:23+00:00"
 guid: http://www.fc-aich.de/?p=2079
 parent_post_id: null

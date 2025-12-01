@@ -33,8 +33,8 @@ Viel Erfolg und vorallem Spaß am Fußball wünscht, mit sportlichen Grüßen, d
 
 Text und Fotos: Melina Schön
 
-{{< figure src="/wp-content/uploads/2023/09/WhatsApp-Image-2023-09-12-at-21.18.50.jpeg" alt="" caption="" >}}
+{{< figure src="/uploads/2023/09/WhatsApp-Image-2023-09-12-at-21.18.50.jpeg" alt="" caption="" >}}
 
-{{< figure src="/wp-content/uploads/2023/09/WhatsApp-Image-2023-09-12-at-21.18.50-3.jpeg" alt="" caption="" >}}
+{{< figure src="/uploads/2023/09/WhatsApp-Image-2023-09-12-at-21.18.50-3.jpeg" alt="" caption="" >}}
 
-{{< figure src="/wp-content/uploads/2023/09/WhatsApp-Image-2023-09-12-at-21.18.50-1.jpeg" alt="" caption="" >}}
+{{< figure src="/uploads/2023/09/WhatsApp-Image-2023-09-12-at-21.18.50-1.jpeg" alt="" caption="" >}}

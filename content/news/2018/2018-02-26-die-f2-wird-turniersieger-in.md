@@ -6,7 +6,7 @@ categories:
   - jugend
 cover:
   alt: Pokal-f2
-  image: /wp-content/uploads/2018/02/Pokal-f2.jpg
+  image: /uploads/2018/02/Pokal-f2.jpg
 date: "2018-02-26T16:32:29+00:00"
 guid: http://www.fc-aich.de/?p=1923
 parent_post_id: null
@@ -21,4 +21,4 @@ Weiter so Jungs
 
 Es spielten: Lucas Alexa, Michael Engelschall, Muhammed Atalar, Sebastian Kellerer, Vinzent Glotz, Paul Graf, Conner Rösch, Lucas Schwarz, Niklas Herber, Blerton Dulaj, Abdallah Hassan, Luca Breitkopf
 
-![](/wp-content/uploads/2018/02/F2-Moorenweis.jpg)
+![](/uploads/2018/02/F2-Moorenweis.jpg)

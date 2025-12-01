@@ -11,7 +11,7 @@ title: BFV-Ferien-Fußballschule findet statt!
 url: /bfv-ferien-fussballschule-findet-statt/
 
 ---
-{{< figure src="/wp-content/uploads/2020/07/Fussball-Ferien-2020.png" alt="" caption="" >}}
+{{< figure src="/uploads/2020/07/Fussball-Ferien-2020.png" alt="" caption="" >}}
 
 **Achtung!**
 

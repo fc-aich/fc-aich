@@ -5,7 +5,7 @@ categories:
   - allgemein
 cover:
   alt: Maxi Milde
-  image: /wp-content/uploads/2019/05/Maxi-Milde.jpg
+  image: /uploads/2019/05/Maxi-Milde.jpg
 date: "2019-05-04T14:29:33+00:00"
 guid: http://www.fc-aich.de/?p=2553
 parent_post_id: null

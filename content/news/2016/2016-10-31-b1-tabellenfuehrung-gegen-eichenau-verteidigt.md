@@ -6,7 +6,7 @@ categories:
   - jugend
 cover:
   alt: b1-4
-  image: /wp-content/uploads/2016/10/B1-4.jpg
+  image: /uploads/2016/10/B1-4.jpg
 date: "2016-10-31T08:41:04+00:00"
 guid: http://www.fc-aich.de/?p=811
 parent_post_id: null

@@ -6,7 +6,7 @@ categories:
   - jugend
 cover:
   alt: f2
-  image: /wp-content/uploads/2016/10/F2.jpg
+  image: /uploads/2016/10/F2.jpg
 date: "2016-10-29T17:44:25+00:00"
 guid: http://www.fc-aich.de/?p=806
 parent_post_id: null

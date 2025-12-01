@@ -6,7 +6,7 @@ categories:
   - allgemein
 cover:
   alt: _DSC0031
-  image: /wp-content/uploads/2017/08/DSC0031.jpg
+  image: /uploads/2017/08/DSC0031.jpg
 date: "2019-09-11T20:24:28+00:00"
 guid: http://www.fc-aich.de/?p=2763
 parent_post_id: null

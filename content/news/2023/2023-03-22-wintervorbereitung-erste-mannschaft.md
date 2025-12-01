@@ -15,7 +15,7 @@ Die knapp 7-wöchige Wintervorbereitung unserer „Ersten“ befindet sich aktue
 
 Nachdem es zu Beginn der Vorbereitung speziell darum ging, die Grundlagenausdauer nach der langen Winterpause wieder herzustellen, wurden zügig neue Schwerpunkte im Bereich Stabilität und Kraft gesetzt.
 
-{{< figure src="/wp-content/uploads/2023/03/SV-Esting.jpeg" alt="" caption="" >}}
+{{< figure src="/uploads/2023/03/SV-Esting.jpeg" alt="" caption="" >}}
 
 In diesem Zuge bat sich der Mannschaft zum wiederholten Male die Möglichkeit über den SV Esting an verschiedenen Kursen teilzunehmen und auch tendenziell vernachlässigte Körperregionen zu trainieren.
 

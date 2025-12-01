@@ -19,4 +19,4 @@ Er bastelte selbst eine FC Aich Schultüte und es wird bestimmt am ersten Schult
 
 Wir hoffen dass er bald zum Fußballspielen anfangen darf, denn solche Fan\`s brauchen wir.
 
-![](/wp-content/uploads/2018/06/Schultuete.jpg)
+![](/uploads/2018/06/Schultuete.jpg)

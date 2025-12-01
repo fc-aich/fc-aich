@@ -17,13 +17,13 @@ auch in diesem Jahr fand die BFV-Ferienfußballschule wieder beim FC Aich statt.
 
 Nach einem gemeinsamen Aufwärmen erfolgte ein Stationstraining, bei dem technische und koordinative Aspekte im Vordergrund standen. Nach der Mittagspause spielten wir täglich ein Turnier und konnten dabei spannende und hochklassige Spiele verfolgen. Der Wettbewerb „Dribbelkönig“ am Mittwoch bot den Spielerinnen und Spielern zudem die Möglichkeit ihre technischen Fähigkeiten unter Beweis zu stellen und sich gegenseitig zu messen.
 
-{{< figure src="/wp-content/uploads/2023/08/P1020365.jpg" alt="" caption="" >}}
+{{< figure src="/uploads/2023/08/P1020365.jpg" alt="" caption="" >}}
 
 Besonders erfreulich war die Disziplin der Teilnehmer, so konnten wir alle ohne besondere Zwischenfälle eine Woche mit der schönsten Nebensache der Welt verbringen. Dem Fußball.
 
 Außerdem freut es uns sehr, dass wir eine verletzungsfreie BFV-Ferienfußballschule 2023 hinter uns haben.
 
-{{< figure src="/wp-content/uploads/2023/08/P1020381.jpg" alt="" caption="" >}}
+{{< figure src="/uploads/2023/08/P1020381.jpg" alt="" caption="" >}}
 
 Besonders bedanken möchte ich mich an dieser Stelle bei allen Helferinnen und Helfern, ohne die das Feriencamp nicht möglich gewesen wäre.
 

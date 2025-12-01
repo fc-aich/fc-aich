@@ -11,7 +11,7 @@ title: FC Aich angelt sich Emmeringer Quartett – Paluca spielender Co-Trainer
 url: /fc-aich-angelt-sich-emmeringer-quartett-paluca-spielender-co-trainer/
 
 ---
-{{< figure src="/wp-content/uploads/2023/06/Paluca.webp" alt="" caption="" >}}
+{{< figure src="/uploads/2023/06/Paluca.webp" alt="" caption="" >}}
 
 Aich – Für gleich vier Akteure geht es nun aber doch eine Liga nach oben. Sebastian Wilhelm (25), Michael Huber (25), Nilcon Grabanica (21) und Kristjan Paluca (29) wechseln aus dem Emmeringer Hölzlstadion in den Aicher Sportpark.
 

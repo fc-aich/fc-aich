@@ -13,6 +13,6 @@ url: /jvh-am-8-april/
 ---
 Nicht vergessen - an diesem Freitag findet unsere diesjährige Jahreshauptversammlung statt. Wir starten um 19:30 Uhr. Hier ist noch einmal die Einladung!
 
-[Einladung JHV 2022](/wp-content/uploads/2022/04/Einladung-JHV-2022.pdf) [Herunterladen](/wp-content/uploads/2022/04/Einladung-JHV-2022.pdf)
+[Einladung JHV 2022](/uploads/2022/04/Einladung-JHV-2022.pdf) [Herunterladen](/uploads/2022/04/Einladung-JHV-2022.pdf)
 
 Bis Freitag!

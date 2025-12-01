@@ -20,4 +20,4 @@ Neue Ergebnisse:
 - Platzierung Aich: 6. Platz
 - Platzierung Aich II: 5. Platz
 
-![](/wp-content/uploads/2018/06/20180708_Expertentipp_Endstand.png)
+![](/uploads/2018/06/20180708_Expertentipp_Endstand.png)

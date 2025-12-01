@@ -27,4 +27,4 @@ Danke auch an den Sponsor unserer neuen Trikots der „Tugbs Özdemir Beauty Lou
 
 Wir blicken mit mit der Verfestigung der Softskills Moral und Zusammenhalt und der stark positiven Entwicklung im Sportlichen positiv in die Zukunft und glauben fest daran, dies bald im Ergebnis umsetzen zu können.
 
-{{< figure src="/wp-content/uploads/2022/10/WhatsApp-Image-2022-10-11-at-20.50.03.jpeg" alt="" caption="" >}}
+{{< figure src="/uploads/2022/10/WhatsApp-Image-2022-10-11-at-20.50.03.jpeg" alt="" caption="" >}}

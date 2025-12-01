@@ -16,4 +16,4 @@ Pünktlich zum Rückrundenstart der Ersten am **14.03. um 15 Uhr** wollen wir Eu
 Kommt alle zu uns in den Sportpark Aich.   
 Wir freuen uns auf Euch!
 
-{{< figure src="/wp-content/uploads/2020/03/Frühlingsmarkt-v05.jpg" alt="" caption="" >}}
+{{< figure src="/uploads/2020/03/Frühlingsmarkt-v05.jpg" alt="" caption="" >}}

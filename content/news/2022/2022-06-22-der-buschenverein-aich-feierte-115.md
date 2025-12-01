@@ -5,7 +5,7 @@ categories:
   - allgemein
 date: "2022-06-22T10:34:12+00:00"
 enclosure: |-
-  http://www.fc-aich.de/wp-content/uploads/2022/06/WhatsApp-Video-2022-06-20-at-22.19.30.mp4
+  http://www.fc-aich.de/uploads/2022/06/WhatsApp-Video-2022-06-20-at-22.19.30.mp4
   2761131
   video/mp4
 guid: http://www.fc-aich.de/?p=4443
@@ -15,7 +15,7 @@ title: Der Buschenverein Aich feierte 115 Jähriges!
 url: /der-buschenverein-aich-feierte-115-jaehriges/
 
 ---
-{{< figure src="/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-20-at-22.19.312.jpeg" alt="" caption="" >}}
+{{< figure src="/uploads/2022/06/WhatsApp-Image-2022-06-20-at-22.19.312.jpeg" alt="" caption="" >}}
 
 **115 Jahre Burschenverein Aich!**
 

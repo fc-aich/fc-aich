@@ -20,4 +20,4 @@ Kommt alle in den Aicher Sportpark und unterstützt unsere Mannschaft.
 
 Wir freuen uns auf Euch
 
-{{< figure src="/wp-content/uploads/2019/07/Slide1.jpg" alt="" caption="" >}}
+{{< figure src="/uploads/2019/07/Slide1.jpg" alt="" caption="" >}}

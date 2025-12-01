@@ -10,4 +10,4 @@ title: Jahreshauptversammlung 2024
 ---
 Dieses Jahr laden wir alle stimmberechtigten Mitglieder des FC Aich am 22. März um 19 Uhr zur Jahreshauptversammlung in unser Vereinsheim ein.
 
-![](/wp-content/uploads/2024/03/Einladung-JHV-2024%5FE-Mail-001.jpg)
+![](/uploads/2024/03/Einladung-JHV-2024%5FE-Mail-001.jpg)

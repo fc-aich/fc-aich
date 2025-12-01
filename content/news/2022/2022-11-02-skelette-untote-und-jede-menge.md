@@ -13,7 +13,7 @@ url: /skelette-untote-und-jede-menge-suesses/
 ---
 _Das FC Aich Vereinsheim verwandelt sich zum Ort des Gruselns_
 
-{{< figure src="/wp-content/uploads/2022/11/WhatsApp-Image-2022-11-02-at-12.19.38.jpeg" alt="" caption="" >}}
+{{< figure src="/uploads/2022/11/WhatsApp-Image-2022-11-02-at-12.19.38.jpeg" alt="" caption="" >}}
 
 Eine furchteinflößende Hexe vor der Eingangstür wies die großen und kleinen Gäste an, das Vereinsheim zu betreten, während innen unzählige Skelette von der Decke hingen.
 

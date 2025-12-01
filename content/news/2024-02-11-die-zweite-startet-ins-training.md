@@ -12,8 +12,8 @@ Ganz nach dem Motto des FC Aich – Spaß am Fußball – starteten die Spieler 
 
 Toi toi toi Jungs!
 
-![](/wp-content/uploads/2024/02/IMG%5FE6425.jpg)
-![](/wp-content/uploads/2024/02/IMG%5FE6492.jpg)
-![](/wp-content/uploads/2024/02/IMG%5FE6496.jpg)
+![](/uploads/2024/02/IMG%5FE6425.jpg)
+![](/uploads/2024/02/IMG%5FE6492.jpg)
+![](/uploads/2024/02/IMG%5FE6496.jpg)
 ![](wp-content/uploads/2024/02/IMG%5FE6493.jpg)
 ![](wp-content/uploads/2024/02/JOISE4657.jpg)

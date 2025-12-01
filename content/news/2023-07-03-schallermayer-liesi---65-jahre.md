@@ -11,7 +11,7 @@ title: Schallermayer Liesi - 65 Jahre Mitgliedschaft !
 url: /schallermayer-liesi-65-jahre-mitgliedschaft/
 
 ---
-{{< figure src="/wp-content/uploads/2023/07/Ehrung-Schallermayer-Liesi-1.jpg" alt="" caption="" >}}
+{{< figure src="/uploads/2023/07/Ehrung-Schallermayer-Liesi-1.jpg" alt="" caption="" >}}
 
 Man kann es gar nicht glauben – wir haben ein Mitglied, welches seit 65 Jahren dem FC Aich die Treue hält.
 

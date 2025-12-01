@@ -6,7 +6,7 @@ categories:
   - allgemein
 cover:
   alt: altkleidercontainer
-  image: /wp-content/uploads/2018/08/altkleidercontainer.jpg
+  image: /uploads/2018/08/altkleidercontainer.jpg
 date: "2018-08-04T17:38:46+00:00"
 guid: http://www.fc-aich.de/?p=2238
 parent_post_id: null

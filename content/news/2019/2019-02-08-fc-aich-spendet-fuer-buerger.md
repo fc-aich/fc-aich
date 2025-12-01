@@ -6,7 +6,7 @@ categories:
   - allgemein
 cover:
   alt: 2019_Spende FC Aich
-  image: /wp-content/uploads/2019/02/2019_Spende-FC-Aich.jpg
+  image: /uploads/2019/02/2019_Spende-FC-Aich.jpg
 date: "2019-02-08T07:50:29+00:00"
 guid: http://fc-aich.de/?p=2489
 parent_post_id: null

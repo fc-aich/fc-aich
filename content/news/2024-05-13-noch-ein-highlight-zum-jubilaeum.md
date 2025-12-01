@@ -13,4 +13,4 @@ Am Samstag, dem 13.07. um 15:00 Uhr wird es ein **Benefizspiel gegen die FC Baye
 
 Wir freuen uns riesig, dass das geklappt hat!
 
-![](/wp-content/uploads/2024/05/Flyer-Benefizspiel.jpeg)
+![](/uploads/2024/05/Flyer-Benefizspiel.jpeg)

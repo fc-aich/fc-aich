@@ -11,4 +11,4 @@ title: Der FC Aich lädt zum Watt-Turnier am 22.Februar
 url: /der-fc-aich-laedt-zum-watt-turnier-am-22-februar/
 
 ---
-![](/wp-content/uploads/2019/01/Wattturnier_2019.png)
+![](/uploads/2019/01/Wattturnier_2019.png)

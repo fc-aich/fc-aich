@@ -6,7 +6,7 @@ categories:
   - 2.mannschaft
 cover:
   alt: schrall
-  image: /wp-content/uploads/1979/04/schrall.jpg
+  image: /uploads/1979/04/schrall.jpg
 date: "2018-09-17T08:39:05+00:00"
 guid: http://fc-aich.de/?p=2275
 parent_post_id: null

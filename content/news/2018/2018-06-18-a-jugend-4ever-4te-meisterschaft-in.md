@@ -11,7 +11,7 @@ title: A-Jugend – 4EVER – 4te Meisterschaft in Folge
 url: /a-jugend-4ever-4te-meisterschaft-in-folge/
 
 ---
-![](/wp-content/uploads/2018/06/A-Meister.jpg)
+![](/uploads/2018/06/A-Meister.jpg)
 
 Obwohl die Meisterschaft bereits gesichert war, ließ sich die A-Jugend nicht hängen und gewann die beiden letzten Heimspiele gegen Weil und Maisach souverän mit 8:0 bzw. 8:1.
 Am Ende war der Abstand in der Tabelle riesig und die Gegner brauchten schon fast das berühmte Fernglas von Uli Hoeneß, um den FC Aich an der Tabellenspitze zu sehen. Trotzdem muss man sagen, dass die Konkurrenten aus Gauting und Gröbenzell auf Augenhöhe waren, aber in sämtlichen Topspielen hat Aich die 3 Punkte geholt und somit kontinuierlich den Abstand in der Tabelle vergrößert.

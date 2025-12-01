@@ -6,7 +6,7 @@ categories:
   - allgemein
 cover:
   alt: Volksfesteinzug
-  image: /wp-content/uploads/2018/05/Volksfesteinzug.jpg
+  image: /uploads/2018/05/Volksfesteinzug.jpg
 date: "2018-05-05T18:21:20+00:00"
 guid: http://www.fc-aich.de/?p=2101
 parent_post_id: null

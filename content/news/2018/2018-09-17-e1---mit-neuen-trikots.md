@@ -6,7 +6,7 @@ categories:
   - allgemein
 cover:
   alt: E1 - Mannschaftsfoto 2018-2019
-  image: /wp-content/uploads/2018/09/E1-Mannschaftsfoto-2018-2019.jpg
+  image: /uploads/2018/09/E1-Mannschaftsfoto-2018-2019.jpg
 date: "2018-09-17T20:29:05+00:00"
 guid: http://www.fc-aich.de/?p=2278
 parent_post_id: null

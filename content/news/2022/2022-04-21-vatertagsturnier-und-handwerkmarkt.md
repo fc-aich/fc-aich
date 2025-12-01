@@ -12,6 +12,6 @@ title: Vatertagsturnier und Handwerkmarkt
 url: /vatertagsturnier-und-handwerkmarkt/
 
 ---
-{{< figure src="/wp-content/uploads/2022/04/Vatertag%5F22.png" alt="" caption="" >}}
+{{< figure src="/uploads/2022/04/Vatertag%5F22.png" alt="" caption="" >}}
 
 Dieses Jahr können wir wieder unser Vatertagsturnier ausrichten. Dazu laden wir Euch ganz herzlich ein. Kommt am 26. Mai in den Aicher Sportpark und genießt von 9 - 16 Uhr Fußballaction und Kunsthandwerk. Details hier auf unserem Flyer!

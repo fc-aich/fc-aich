@@ -7,7 +7,7 @@ categories:
   - 2.mannschaft
 cover:
   alt: _DSC0368
-  image: /wp-content/uploads/2016/08/DSC0368.jpg
+  image: /uploads/2016/08/DSC0368.jpg
 date: "2018-05-13T16:08:14+00:00"
 guid: http://www.fc-aich.de/?p=2124
 parent_post_id: null
@@ -24,4 +24,4 @@ Beim FC Aich ist die Trainerentscheidung für nächste Saison gefallen. Wolfgang
 
 Das Fürstenfeldbrucker Tagblatt schreibt:
 
-![](/wp-content/uploads/2018/05/25b6e824-cd5f-4ce7-abaa-3ef347a1aae7.jpg)
+![](/uploads/2018/05/25b6e824-cd5f-4ce7-abaa-3ef347a1aae7.jpg)

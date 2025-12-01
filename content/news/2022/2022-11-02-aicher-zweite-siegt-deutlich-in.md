@@ -18,12 +18,12 @@ Beim Auswärtsderby konnte ein ungefährdeter Sieg verbucht werden.
 Unsere Torschützen beim 6:0 Sieg:  
 Nikolas Januschke, Alexander Thiel, Omid Jafari, Sidy Dembele, Julius Vath und Benjamin Sadikaj
 
-{{< figure src="/wp-content/uploads/2022/11/1920x1080-1.webp" alt="" caption="" >}}
+{{< figure src="/uploads/2022/11/1920x1080-1.webp" alt="" caption="" >}}
 
-{{< figure src="/wp-content/uploads/2022/11/1920x1080-2-1.webp" alt="" caption="" >}}
+{{< figure src="/uploads/2022/11/1920x1080-2-1.webp" alt="" caption="" >}}
 
-{{< figure src="/wp-content/uploads/2022/11/1920x1080-3-1.webp" alt="" caption="" >}}
+{{< figure src="/uploads/2022/11/1920x1080-3-1.webp" alt="" caption="" >}}
 
-{{< figure src="/wp-content/uploads/2022/11/1920x1080-5.webp" alt="" caption="" >}}
+{{< figure src="/uploads/2022/11/1920x1080-5.webp" alt="" caption="" >}}
 
-{{< figure src="/wp-content/uploads/2022/11/1920x1080-6.webp" alt="" caption="" >}}
+{{< figure src="/uploads/2022/11/1920x1080-6.webp" alt="" caption="" >}}

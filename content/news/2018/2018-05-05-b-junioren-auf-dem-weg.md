@@ -6,7 +6,7 @@ categories:
   - allgemein
 cover:
   alt: KODAK Digital Still Camera
-  image: /wp-content/uploads/2017/10/B-junioren.jpg
+  image: /uploads/2017/10/B-junioren.jpg
 date: "2018-05-05T18:08:15+00:00"
 guid: http://www.fc-aich.de/?p=2096
 parent_post_id: null

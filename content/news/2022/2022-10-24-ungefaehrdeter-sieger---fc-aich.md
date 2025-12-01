@@ -11,7 +11,7 @@ title: „Ungefährdeter Sieger“ - FC Aich übersteht Schwächephasen und spri
 url: /ungefaehrdeter-sieger-fc-aich-uebersteht-schwaechephasen-und-springt-an-tabellenspitze/
 
 ---
-{{< figure src="/wp-content/uploads/2022/10/Dom-Zimmermann.jpg" alt="" caption="" >}}
+{{< figure src="/uploads/2022/10/Dom-Zimmermann.jpg" alt="" caption="" >}}
 
 ## SC Oberweikertshofen II kann Vorteile nicht nutzen
 

@@ -13,4 +13,4 @@ Wir bedanken uns recht herzlich bei unserem langjährigen Mitglied Hermann Engel
 In vielen Arbeitsstunden ist das Taferl von den beiden gestaltet worden.  
 **Ein herzliches Vergellt\`s Gott an die beiden Stifter.**
 
-![](/wp-content/uploads/2024/04/neues-Vereinstaferl.jpg)
+![](/uploads/2024/04/neues-Vereinstaferl.jpg)

@@ -6,7 +6,7 @@ categories:
   - allgemein
 cover:
   alt: Watt-turnier-fcaich-flyer
-  image: /wp-content/uploads/2017/01/Watt-turnier-fcaich-flyer.jpg
+  image: /uploads/2017/01/Watt-turnier-fcaich-flyer.jpg
 date: "2017-03-03T09:31:42+00:00"
 guid: http://www.fc-aich.de/?p=1033
 parent_post_id: null

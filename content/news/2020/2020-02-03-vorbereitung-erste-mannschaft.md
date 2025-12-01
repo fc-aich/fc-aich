@@ -11,6 +11,6 @@ title: Vorbereitung Erste Mannschaft
 url: /vorbereitung-erste-mannschaft/
 
 ---
-Der Vorbereitungsplan für die Winterpause unserer ersten Mannschaft ist nun auch online. Schaut [hier](/wp-content/uploads/2020/02/Vorbereitung-Erste.pdf)!
+Der Vorbereitungsplan für die Winterpause unserer ersten Mannschaft ist nun auch online. Schaut [hier](/uploads/2020/02/Vorbereitung-Erste.pdf)!
 
 Die Freundschaftspiele findet Ihr ebenfalls in unserem [Vereinskalender](http://fc-aich.de/events/).
