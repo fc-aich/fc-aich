@@ -1170,13 +1170,26 @@ body.mobile-menu-open {
   transition: background-color 0.2s ease;
 }
 
-.fc-list-event:hover {
+/* FullCalendar List Event Hover Fix - Spezifischere Selektoren */
+.fc-list-event:hover,
+.fc-list-event:hover td,
+.fc-list-event.fc-event:hover,
+tr.fc-list-event:hover {
   background: rgba(255, 255, 255, 0.08) !important;
 }
 
+/* Alle Text-Elemente im Hover-State */
 .fc-list-event:hover .fc-list-event-title a,
-.fc-list-event:hover .fc-list-event-time {
+.fc-list-event:hover .fc-list-event-time,
+.fc-list-event:hover td,
+.fc-list-event:hover .fc-list-event-title {
   color: var(--text-color-alt) !important;
+}
+
+/* Link-Styles im Hover */
+.fc-list-event:hover a {
+  color: inherit !important;
+  text-decoration: none !important;
 }
 
 .fc-list-event-time,
