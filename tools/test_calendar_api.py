@@ -67,8 +67,13 @@ def test_calendar_api(api_key: str, calendar_id: str) -> None:
     print(f"   URL: {calendar_url}")
     print()
 
+    # Add referer header to match API key restrictions
+    headers = {
+        'Referer': 'https://fc-aich.de'
+    }
+
     try:
-        response = requests.get(calendar_url, params=params, timeout=10)
+        response = requests.get(calendar_url, params=params, headers=headers, timeout=10)
 
         # Check response status
         if response.status_code == 200:

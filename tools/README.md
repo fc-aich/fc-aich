@@ -109,6 +109,8 @@ python3 tools/test_calendar_api.py
    - Gehe zu [Google Cloud Console](https://console.cloud.google.com/)
    - Navigiere zu "APIs & Services" → "Credentials"
    - Stelle sicher, dass der API Key die Google Calendar API verwenden darf
+   - **Wichtig:** Wenn du HTTP-Referrer-Einschränkungen verwendest, stelle sicher, dass `https://fc-aich.de` zu den erlaubten Referrern gehört
+   - Das Test-Script sendet `https://fc-aich.de` als Referer-Header
 
 2. **Calendar ID finden:**
    - Öffne [Google Calendar](https://calendar.google.com)
@@ -120,3 +122,7 @@ python3 tools/test_calendar_api.py
    - Kalender-Einstellungen → "Zugriffsberechtigungen"
    - Aktiviere "Öffentlich verfügbar machen"
    - Wähle "Alle Termindetails anzeigen"
+
+### Hinweis zum Referer-Header
+
+Das Test-Script sendet automatisch `https://fc-aich.de` als Referer-Header, um mit API Keys zu funktionieren, die HTTP-Referrer-Einschränkungen haben. Dies simuliert, als würde die Anfrage von der FC Aich Website kommen.
