@@ -1,0 +1,34 @@
+{{ define "main" }}
+<article class="pa3 pa4-ns nested-copy-line-height">
+  <section class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy nested-links near-white">
+    {{ .Content }}
+
+    {{/* Calendar Container with proper data attributes */}}
+    <div id="fc-calendar-container"
+         data-api-key="{{ .Site.Params.calendar.google_api_key }}"
+         data-calendar-id="{{ .Site.Params.calendar.calendar_id }}">
+      <div id="fc-calendar" class="fc-calendar-loading"></div>
+      <div id="fc-agenda" class="fc-calendar-loading"></div>
+    </div>
+
+    <h2 id="kalender-abonnieren">Kalender abonnieren</h2>
+    <p>Sie können unseren Kalender auch in Ihre eigene Kalender-App integrieren.</p>
+    <p><strong>Für Google Calendar, Apple Calendar, Outlook:</strong></p>
+    {{if .Site.Params.calendar.calendar_id}}
+    <p>
+      <a href="https://calendar.google.com/calendar/ical/{{ .Site.Params.calendar.calendar_id }}/public/basic.ics">
+        FC Aich öffentlicher Kalender
+      </a>
+    </p>
+    {{else}}
+    <p>
+      <code>iCal URL wird nach Kalender-Konfiguration angezeigt</code>
+    </p>
+    {{end}}
+  </section>
+
+  <section class="flex-ns mt5 flex-wrap justify-around">
+    {{/* Hier könnten später weitere Inhalte */}}
+  </section>
+</article>
+{{ end }}
