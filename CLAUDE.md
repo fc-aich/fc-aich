@@ -98,7 +98,6 @@ gallery:
 - **static/img/** - Club logos, team photos
 - **static/uploads/** - User-uploaded images (match photos, news images)
 - **static/downloads/** - PDFs, documents for download
-- **static/wp-content/** - Assets from old WordPress site
 
 ### BFV Widget Integration
 

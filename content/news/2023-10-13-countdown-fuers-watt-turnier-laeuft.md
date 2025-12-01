@@ -8,7 +8,7 @@ title: Countdown fürs Watt-Turnier läuft ...
 
 
 ---
-![](wp-content/uploads/2023/10/Wattturnier%5F17.11.23%5FHomepage-etc.png)
+![](/uploads/2023/10/Wattturnier%5F17.11.23%5FHomepage-etc.png)
 
 Am 17. November ist es wieder soweit! Unser Watt-Turnier steht an - 19:30 Uhr gehts los!
 

@@ -15,5 +15,5 @@ Toi toi toi Jungs!
 ![](/uploads/2024/02/IMG%5FE6425.jpg)
 ![](/uploads/2024/02/IMG%5FE6492.jpg)
 ![](/uploads/2024/02/IMG%5FE6496.jpg)
-![](wp-content/uploads/2024/02/IMG%5FE6493.jpg)
-![](wp-content/uploads/2024/02/JOISE4657.jpg)
+![](/uploads/2024/02/IMG%5FE6493.jpg)
+![](/uploads/2024/02/JOISE4657.jpg)

@@ -1,7 +1,7 @@
 ---
 title: "Termine"
 featured_image: "/img/fc-aich-logo.svg"
-description: "Alle Termine des FC Aich - Spiele, Training und Veranstaltungen"
+description: "Alle wichtigen Termine des FC Aich"
 layout: "termine"
 ---
 

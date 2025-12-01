@@ -10,4 +10,4 @@ title: Frohe Ostern
 ---
 Der FC Aich wünscht allen seinen großen und kleinen Mitgliedern ein frohes Osterfest und einen fleißigen Osterhasen!
 
-![](wp-content/uploads/2024/03/shell-2152029%5F1280.jpg)
+![](/uploads/2024/03/shell-2152029%5F1280.jpg)

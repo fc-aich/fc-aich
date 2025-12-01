@@ -332,7 +332,7 @@ Die Website wurde von WordPress migriert, wobei:
 
 ### Migrierte Inhalte:
 - ✅ **484 News-Artikel** (2016-2025)
-- ✅ Bilder und Medien (`static/wp-content/`)
+- ✅ Bilder und Medien (`static/`)
 - ✅ Seiten (Vorstand, Sportgelände, Sponsoren)
 - ✅ Metadaten (Datum, Kategorien, Autor)
 
