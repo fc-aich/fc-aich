@@ -117,7 +117,8 @@
         googleCalendarId: calendarId,
         failure: handleEventLoadError
       },
-      eventClick: handleEventClick
+      eventClick: handleEventClick,
+      loading: handleAgendaLoading
     });
 
     agendaCalendar.render();
@@ -279,6 +280,20 @@
       calendarEl.classList.add('fc-calendar-loading');
     } else {
       calendarEl.classList.remove('fc-calendar-loading');
+    }
+  }
+
+  /**
+   * Agenda Loading-State Handler
+   */
+  function handleAgendaLoading(isLoading) {
+    const agendaEl = document.querySelector(CONFIG.agendaEl);
+    if (!agendaEl) return;
+
+    if (isLoading) {
+      agendaEl.classList.add('fc-calendar-loading');
+    } else {
+      agendaEl.classList.remove('fc-calendar-loading');
     }
   }
 

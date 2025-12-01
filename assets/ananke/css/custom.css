@@ -1174,10 +1174,20 @@ body.mobile-menu-open {
   background: rgba(255, 255, 255, 0.08) !important;
 }
 
+.fc-list-event:hover .fc-list-event-title a,
+.fc-list-event:hover .fc-list-event-time {
+  color: var(--text-color-alt) !important;
+}
+
 .fc-list-event-time,
 .fc-list-event-title {
   color: var(--text-color-alt) !important;
   padding: 0.75rem 1rem !important;
+}
+
+.fc-list-event-title a {
+  color: inherit !important;
+  text-decoration: none !important;
 }
 
 .fc-list-event-time {
