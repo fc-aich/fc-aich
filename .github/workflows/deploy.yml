@@ -53,7 +53,21 @@ jobs:
           fi
 
       - name: Build
+        env:
+          HUGO_PARAMS_CALENDAR_GOOGLE_API_KEY: ${{ secrets.GOOGLE_CALENDAR_API_KEY }}
+          HUGO_PARAMS_CALENDAR_CALENDAR_ID: ${{ secrets.GOOGLE_CALENDAR_ID }}
         run: hugo --minify
+
+      - name: Debug - Verify generated HTML
+        run: |
+          echo "Checking generated HTML for calendar configuration..."
+          if grep -q 'data-api-key=""' public/verein/termine/index.html; then
+            echo "❌ API key is empty in generated HTML"
+          else
+            echo "✅ API key appears to be set in HTML"
+          fi
+          echo "HTML snippet:"
+          grep -A 2 "fc-calendar-container" public/verein/termine/index.html || echo "Container not found in HTML"
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
