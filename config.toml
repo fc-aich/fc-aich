@@ -28,6 +28,12 @@ post_content_classes="avenir bg-near-black"
 background_color_class="bg-near-black"
 text_color="near-white"
 
+
+# Calendar configuration
+[params.calendar]
+  google_api_key = ""  # Add your Google Calendar API Key
+  calendar_id = ""  # Add your Google Calendar ID
+
 [[menu.main]]
     name = "Home"
     url  = "/"
@@ -114,6 +120,11 @@ text_color="near-white"
     parent = "Verein"
     url  = "/verein/sponsoren/"
     weight = 3
+  [[menu.main]]
+    name = "Termine"
+    parent = "Verein"
+    url  = "/verein/termine/"
+    weight = 4
 
 [[menu.main]]
     name = "Downloads"
