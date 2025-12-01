@@ -1,10 +1,6 @@
 
 name: Deploy Hugo site to Pages
 
-env:
-  HUGO_PARAMS_CALENDAR_GOOGLE_API_KEY: ${{ secrets.GOOGLE_CALENDAR_API_KEY }}
-  HUGO_PARAMS_CALENDAR_CALENDAR_ID: ${{ secrets.GOOGLE_CALENDAR_ID }}
-
 on:
   push:
     branches: ["main"]
@@ -26,6 +22,9 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      HUGO_PARAMS_CALENDAR_GOOGLE_API_KEY: ${{ secrets.GOOGLE_CALENDAR_API_KEY }}
+      HUGO_PARAMS_CALENDAR_CALENDAR_ID: ${{ secrets.GOOGLE_CALENDAR_ID }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -38,6 +37,20 @@ jobs:
         with:
           hugo-version: '0.152.2'
           extended: true
+
+      - name: Debug - Verify environment variables
+        run: |
+          echo "Checking calendar configuration..."
+          if [ -z "$HUGO_PARAMS_CALENDAR_GOOGLE_API_KEY" ]; then
+            echo "❌ GOOGLE_CALENDAR_API_KEY is not set"
+          else
+            echo "✅ GOOGLE_CALENDAR_API_KEY is set (length: ${#HUGO_PARAMS_CALENDAR_GOOGLE_API_KEY})"
+          fi
+          if [ -z "$HUGO_PARAMS_CALENDAR_CALENDAR_ID" ]; then
+            echo "❌ GOOGLE_CALENDAR_ID is not set"
+          else
+            echo "✅ GOOGLE_CALENDAR_ID is set (length: ${#HUGO_PARAMS_CALENDAR_CALENDAR_ID})"
+          fi
 
       - name: Build
         run: hugo --minify
