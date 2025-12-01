@@ -10,8 +10,8 @@ Hier finden Mitglieder und Interessierte wichtige Dokumente zum Herunterladen.
 ### Formulare
 
 
-- [Beitrittserklaerung (PDF)](/downloads/FC-Aich-Beitrittserklaerung-Datenschutzerklaerung.pdf)
+- [Beitrittserklärung (PDF)](/downloads/FC-Aich-Beitrittserklaerung-Datenschutzerklaerung.pdf)
 - [Passantrag Erwachsene (PDF)](/downloads/Passantrag_Erwachsene_online_stand_15.01.19.pdf)
 - [Passantrag Jugend (PDF)](/downloads/Passantrag-Jugend-Online-Stand-15.01.19-Passantrag_Jugend.pdf)
-- [Trainingszeiten und Heimspiele 2024/ 2025](/downloads/Trainingszeiten-Heimspiele-2024-2025.pdf)
-- [Hallentrainingszeiten 2024 / 2025](/downloads/FC-Aich-Hallentrainingszeiten-2024-2025.pdf)
+- [Platzbelegung (PDF)](/downloads/FC-Aich-Platzbelegung-2025-2026.pdf)
+- [Hallentrainingszeiten (PDF)](/downloads/FC-Aich-Hallentrainingszeiten-2025-2026.pdf)
