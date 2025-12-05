@@ -14,4 +14,4 @@ Hier finden Mitglieder und Interessierte wichtige Dokumente zum Herunterladen.
 - [Passantrag Erwachsene (PDF)](/downloads/Passantrag_Erwachsene_online_stand_15.01.19.pdf)
 - [Passantrag Jugend (PDF)](/downloads/Passantrag-Jugend-Online-Stand-15.01.19-Passantrag_Jugend.pdf)
 - [Platzbelegung (PDF)](/downloads/FC-Aich-Platzbelegung-2025-2026.pdf)
-- [Hallentrainingszeiten (PDF)](/downloads/FC-Aich-Hallentrainingszeiten-2025-2026.pdf)
+- [Hallentrainingszeiten (PDF)](/downloads/Hallentrainingszeiten.pdf)
