@@ -884,6 +884,15 @@ body.mobile-menu-open {
   }
 }
 
+/* Logo Gallery - nicht abschneiden */
+.wp-gallery-grid.wp-gallery-logos img {
+  height: 120px !important;
+  object-fit: contain !important;
+  background: white;
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+}
+
 /* ===== Snowflakes Animation ===== */
 .snowflakes {
   position: absolute;

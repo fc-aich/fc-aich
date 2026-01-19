@@ -3,6 +3,7 @@
 
   Verwendung:
   {{< wp-gallery "aufstieg-2024" >}}
+  {{< wp-gallery "sponsoren" logos >}}  (für Logos ohne Abschneiden)
 
   Erwartet Struktur:
   static/gallery/aufstieg-2024/
@@ -14,13 +15,18 @@
 */}}
 
 {{ $galleryPath := .Get 0 }}
+{{ $isLogos := .Get 1 }}
 {{ $fullPath := printf "gallery/%s" $galleryPath }}
 
-<div class="wp-gallery-grid gallery-grid">
+<div class="wp-gallery-grid gallery-grid{{ if $isLogos }} wp-gallery-logos{{ end }}">
   {{ range (readDir (printf "static/%s" $fullPath)) }}
     {{ if and (not .IsDir) (or (strings.HasSuffix .Name ".jpg") (strings.HasSuffix .Name ".jpeg") (strings.HasSuffix .Name ".png") (strings.HasSuffix .Name ".JPG") (strings.HasSuffix .Name ".JPEG")) }}
       {{ $imagePath := printf "/%s/%s" $fullPath .Name }}
-      {{ $thumbPath := printf "/%s/thumbs/thumbs_%s" $fullPath .Name }}
+      {{/* Für Logos: Originalbild verwenden, sonst Thumbnail */}}
+      {{ $thumbPath := $imagePath }}
+      {{ if not $isLogos }}
+        {{ $thumbPath = printf "/%s/thumbs/thumbs_%s" $fullPath .Name }}
+      {{ end }}
 
       <a href="{{ $imagePath }}" class="glightbox" data-gallery="wp-gallery">
         <img src="{{ $thumbPath }}" alt="{{ .Name }}" loading="lazy" />
