@@ -12,4 +12,4 @@ Unser Sportgelände liegt in Aich (Landkreis Fürstenfeldbruck) und umfasst:
 - Vereinsheim mit Umkleiden und Duschen
 - Parkplätze und Fahrradstellplätze sind vorhanden
 
-**Adresse:** Nannhofer Str. 12, 82256 Fürstenfeldbruck  
+**Adresse:** Nannhofer Str. 16, 82256 Fürstenfeldbruck  

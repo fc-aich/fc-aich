@@ -3,7 +3,7 @@
 title: "Kontakt"
 ---
 
-**FC Aich**  
+**FC Aich e.V.**  
 Nannhofer Str. 16
 
 82256 Fürstenfeldbruck
