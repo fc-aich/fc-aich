@@ -1,0 +1,44 @@
+{{/*
+  Shortcode für Google Drive Bildergalerien
+
+  Verwendung:
+  {{< google-drive-gallery "FOLDER_ID" >}}
+  {{< google-drive-gallery "FOLDER_ID" logos >}}  (für Logos ohne Abschneiden)
+
+  Der FOLDER_ID ist die ID des Google Drive Ordners.
+  Diese findet man in der URL: https://drive.google.com/drive/folders/FOLDER_ID
+
+  WICHTIG: Der Ordner muss öffentlich freigegeben sein!
+  ("Jeder mit dem Link kann ansehen")
+*/}}
+
+{{ $folderId := .Get 0 }}
+{{ $isLogos := .Get 1 }}
+{{ $galleryId := printf "gallery-%s" (substr $folderId 0 8) }}
+
+{{/* API Key aus Umgebungsvariable */}}
+{{ $apiKey := getenv "HUGO_PARAMS_DRIVE_API_KEY" }}
+
+{{/* API Key Config (nur einmal pro Seite) */}}
+{{ if not ($.Page.Scratch.Get "drive-api-loaded") }}
+  {{ $.Page.Scratch.Set "drive-api-loaded" true }}
+  <div data-drive-api-key="{{ $apiKey }}" style="display:none;"></div>
+{{ end }}
+
+{{/* Galerie Container */}}
+{{ if $folderId }}
+  <div class="drive-gallery-container"
+       data-drive-gallery="{{ $folderId }}"
+       data-gallery-id="{{ $galleryId }}"
+       {{ if $isLogos }}data-logos{{ end }}>
+    <div class="drive-loading">
+      <div class="drive-loading-spinner"></div>
+      <p>Bilder werden geladen...</p>
+    </div>
+  </div>
+{{ else }}
+  <div class="drive-error">
+    <span class="drive-error-icon">⚠️</span>
+    <p>Keine Ordner-ID angegeben</p>
+  </div>
+{{ end }}

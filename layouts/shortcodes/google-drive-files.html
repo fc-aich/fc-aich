@@ -1,0 +1,44 @@
+{{/*
+  Shortcode für Google Drive Dateilisten (PDFs, Dokumente)
+
+  Verwendung:
+  {{< google-drive-files "FOLDER_ID" >}}
+
+  Der FOLDER_ID ist die ID des Google Drive Ordners.
+  Diese findet man in der URL: https://drive.google.com/drive/folders/FOLDER_ID
+
+  WICHTIG: Der Ordner muss öffentlich freigegeben sein!
+  ("Jeder mit dem Link kann ansehen")
+
+  Unterstützte Dateitypen:
+  - PDF
+  - Word-Dokumente (.doc, .docx)
+  - Excel-Tabellen (.xls, .xlsx)
+*/}}
+
+{{ $folderId := .Get 0 }}
+
+{{/* API Key aus Umgebungsvariable */}}
+{{ $apiKey := getenv "HUGO_PARAMS_DRIVE_API_KEY" }}
+
+{{/* API Key Config (nur einmal pro Seite) */}}
+{{ if not ($.Page.Scratch.Get "drive-api-loaded") }}
+  {{ $.Page.Scratch.Set "drive-api-loaded" true }}
+  <div data-drive-api-key="{{ $apiKey }}" style="display:none;"></div>
+{{ end }}
+
+{{/* Dateiliste Container */}}
+{{ if $folderId }}
+  <div class="drive-files-container"
+       data-drive-files="{{ $folderId }}">
+    <div class="drive-loading">
+      <div class="drive-loading-spinner"></div>
+      <p>Dateien werden geladen...</p>
+    </div>
+  </div>
+{{ else }}
+  <div class="drive-error">
+    <span class="drive-error-icon">⚠️</span>
+    <p>Keine Ordner-ID angegeben</p>
+  </div>
+{{ end }}

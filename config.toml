@@ -34,6 +34,12 @@ text_color="near-white"
   google_api_key = ""  # Add your Google Calendar API Key
   calendar_id = ""  # Add your Google Calendar ID
 
+# Google Drive configuration
+# Note: The API key is set via environment variable HUGO_PARAMS_DRIVE_API_KEY
+# This can be the same API key as for Google Calendar if Drive API is enabled
+[params.drive]
+  # api_key = ""  # Set via HUGO_PARAMS_DRIVE_API_KEY environment variable
+
 [[menu.main]]
     name = "Home"
     url  = "/"

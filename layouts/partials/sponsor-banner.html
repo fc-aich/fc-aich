@@ -1,0 +1,31 @@
+{{/*
+  Sponsor Banner - Horizontal scrolling sponsor logos in footer
+*/}}
+
+{{ $galleryPath := "gallery/sponsoren" }}
+{{ $images := slice }}
+
+{{ range (readDir (printf "static/%s" $galleryPath)) }}
+  {{ if and (not .IsDir) (or (strings.HasSuffix .Name ".jpg") (strings.HasSuffix .Name ".jpeg") (strings.HasSuffix .Name ".png") (strings.HasSuffix .Name ".JPG") (strings.HasSuffix .Name ".JPEG")) }}
+    {{ $images = $images | append .Name }}
+  {{ end }}
+{{ end }}
+
+{{ if gt (len $images) 0 }}
+<div class="sponsor-banner">
+  <div class="sponsor-banner-track">
+    {{ range $images }}
+      {{ $imagePath := printf "/%s/%s" $galleryPath . }}
+      <div class="sponsor-banner-item">
+        <img src="{{ $imagePath }}" alt="{{ . }}" loading="lazy" />
+      </div>
+    {{ end }}
+    {{ range $images }}
+      {{ $imagePath := printf "/%s/%s" $galleryPath . }}
+      <div class="sponsor-banner-item">
+        <img src="{{ $imagePath }}" alt="{{ . }}" loading="lazy" />
+      </div>
+    {{ end }}
+  </div>
+</div>
+{{ end }}
