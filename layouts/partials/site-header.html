@@ -9,18 +9,22 @@
   {{/* Featured Image mit Titel-Overlay */}}
   <header class="hero-header">
     <div class="hero-bg-color"></div>
-    <div class="snowflakes" aria-hidden="true">
-      <div class="snowflake">❄</div>
-      <div class="snowflake">❅</div>
-      <div class="snowflake">❆</div>
-      <div class="snowflake">❄</div>
-      <div class="snowflake">❅</div>
-      <div class="snowflake">❆</div>
-      <div class="snowflake">❄</div>
-      <div class="snowflake">❅</div>
-      <div class="snowflake">❆</div>
-      <div class="snowflake">❄</div>
-    </div>
+    {{/* Schneeflocken nur in der Wintersaison (Dezember–Februar) */}}
+    {{ $month := int now.Month }}
+    {{ if or (eq $month 12) (le $month 2) }}
+      <div class="snowflakes" aria-hidden="true">
+        <div class="snowflake">❄</div>
+        <div class="snowflake">❅</div>
+        <div class="snowflake">❆</div>
+        <div class="snowflake">❄</div>
+        <div class="snowflake">❅</div>
+        <div class="snowflake">❆</div>
+        <div class="snowflake">❄</div>
+        <div class="snowflake">❅</div>
+        <div class="snowflake">❆</div>
+        <div class="snowflake">❄</div>
+      </div>
+    {{ end }}
     <img src="/img/fc-aich-logo.svg" alt="" class="hero-bg-logo">
     <img src="{{ $featured_image | absURL }}" alt="" class="hero-bg-image">
     <div class="hero-overlay">
