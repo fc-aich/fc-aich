@@ -8,8 +8,7 @@ featured_image: ""
 Hier findet ihr Infos, Kader und Spieltermine der **E-Jugend**.
 
 ## Trainer:
-- **Jakob Sterr** (0176/20125565)
-- Stefan Wieland (0179/6809075)
+- **Franziska Biefel** (0160 97720711)
 - Franz Stadler (0177/1963833)
 - Philipp Golenia (0173/7190555)
 

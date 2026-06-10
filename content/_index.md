@@ -9,20 +9,6 @@ featured_image: "img/zweikampf.png"
 
 ## Spaß am Fußball
 
-
-## **ZUKUNFT GESTALTEN**
-** JEDER BEITRAG ZÄHLT - SEI DABEI **  
-
-Wir haben ein Crowdfunding Projekt zur Anschaffung eines  
-Linierroboters ins Leben gerufen und würden uns über eine  
-finanzielle Unterstützung freuen!  
-
-Hier findet ihr alle Informationen:    
-
-[FC-AICH Crowdfunding Linienroboter
-](https://www.viele-schaffen-mehr.de/projekte/fcaich-linierroboter)  
-
-
     
 **FC Aich e.V.** Gegründet 1924, ist der FC Aich seit nunmehr über 100 Jahren im Fußballsport aktiv. Heute bieten wir Interessierten Spaß am Fußball in allen [Jugendbereichen](/jugend/), den [Damen](/damen) und [Herren](/herren1) bis hin zu den [Aktiven Herren](/ah/).
 

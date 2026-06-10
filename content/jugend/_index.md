@@ -39,22 +39,19 @@ Beim FC Aich spielt der Nachwuchs die Hauptrolle. Wir bieten Teams von der **G�
 
 **E‑Jugend (U11):**
 
-- **Jakob Sterr** (0176/20125565)
-- Stefan Wieland (0179/6809075)
+- **Franziska Biefel** (0160 97720711)
 - Franz Stadler (0177/1963833)
 - Philipp Golenia (0173/7190555)
 
 **C-Jugend (U15):**
 
-- **Sebastian Stangenberg** (0172/7976897)
-- Dennis Mayer (0151/40141604)
-- Louis Mayer
+- **Ingo Bader** (0176 20742960)
 
 **A-Jugend (U18):**
 
-- **Lukas Neumaier** (0176/21468932)
+- **Maximilian Milde** (01573 4439649)
 
 
-Allgemeiner Jugend Kontakt: **jugendleitung@fc-aich.de**  
+Allgemeiner Jugend Kontakt: **michael.eberlein@fc-aich.de**  
 
 **Ihr wollt reinschnuppern? Kommt einfach zum Training – wir freuen uns!**
