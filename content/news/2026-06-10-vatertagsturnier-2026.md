@@ -16,4 +16,10 @@ Insgesamt 65 Teams traten in den Altersklassen G-, F- und E-Jugend gegeneinander
 
 Wir bedanken uns recht herzlich bei allen teilnehmenden Vereinen, Besuchern und vor allen Dingen bei den ehrenamtlichen Helfern aus dem Elternkreis und vom FC Aich.
 
-Es war wieder ein wunderschönes und erfolgreiches Heimturnier für unseren Verein!
+Es war wieder ein wunderschönes und erfolgreiches Heimturnier für unseren Verein!![](/uploads/vatertagsturnier-2026-1.jpg)
+
+![](/uploads/vatertagsturnier-2026-2.jpg)
+
+![](/uploads/vatertagsturnier-2026-3.jpg)
+
+![](/uploads/vatertagsturnier-2026-6.jpg)
