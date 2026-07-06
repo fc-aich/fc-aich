@@ -37,7 +37,7 @@ E-Mail: johannes.schwarz@fc-aich.de
 
 E-Mail: martin.deufel@fc-aich.de
 
-### Schriftfuehrerin – Theresa Lachermeier
+### Schriftführerin – Theresa Lachermeier
 <img src="/img/people/theresa-lachermeier.jpg" alt="Theresa Lachermeier" class="fc-hover-gray" width="250">
 
 E-Mail: theresa.lachermeier@fc-aich.de
@@ -56,11 +56,6 @@ E-Mail: samuel.daenzer@fc-aich.de
 <img src="/img/people/michael-eberlein.jpg" alt="Michi Eberlein" class="fc-hover-gray" width="250">
 
 E-Mail: michael.eberlein@fc-aich.de
-
-### 2. Jugendleiter – Maximilian Pfister
-<img src="/img/people/maximilian-pfister.jpg" alt="Max Pfister" class="fc-hover-gray" width="250">
-
-E-Mail: max.pfister@fc-aich.de
 
 ### Beisitzer Veranstaltungen – Marcel Lorenz
 <img src="/img/people/marcel-lorenz.jpg" alt="Marcel Lorenz" class="fc-hover-gray" width="250">
