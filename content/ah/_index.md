@@ -22,4 +22,6 @@ Daneben engagieren sich eine ganze Reihe unserer AH’ler als Jugendtrainer, im 
 
 Da die die Personaldecke stets sehr dünn ist, freuen sich die Alten Herren über jeden, der in ihrer Mannschaft mitspielen will. Einfach beim nächsten Training vorbeikommen und mitspielen!
 
-![Alte Herren FC Aich](/img/fotos/ah-mannschaft.png)
+<a href="/img/fotos/ah-mannschaft.png" class="glightbox fc-team-photo-link" data-gallery="team-photos" data-title="Alte Herren FC Aich">
+  <img src="/img/fotos/ah-mannschaft.png" alt="Alte Herren FC Aich" class="fc-team-photo" loading="lazy" />
+</a>

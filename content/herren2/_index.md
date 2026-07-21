@@ -6,7 +6,9 @@ featured_image: "img/fotos/herren2-title.png"
 
 Hier findet ihr Infos, Kader und Spieltermine der **Zweiten**.
 
-![2. Mannchaft FC Aich](/img/fotos/2-mannschaft.jpg)
+<a href="/img/fotos/2-mannschaft.jpg" class="glightbox fc-team-photo-link" data-gallery="team-photos" data-title="2. Mannschaft FC Aich">
+  <img src="/img/fotos/2-mannschaft.jpg" alt="2. Mannschaft FC Aich" class="fc-team-photo" loading="lazy" />
+</a>
 
 **hintere Reihe von links nach rechts:**
 

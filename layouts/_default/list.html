@@ -3,9 +3,9 @@
     <section class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy nested-links {{ $.Param "text_color" | compare.Default "mid-gray" }}">
       {{- .Content -}}
     </section>
-    <section class="flex-ns mt5 flex-wrap justify-around">
+    <section class="fc-news-grid pa3 pa4-ns">
       {{ range .Paginator.Pages }}
-        <div class="w-100 w-30-l mb4 relative bg-black ba b--gray br3">
+        <div class="fc-news-grid-item">
           {{ .Render "summary" }}
         </div>
       {{ end }}

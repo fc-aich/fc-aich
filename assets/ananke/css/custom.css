@@ -1,17 +1,71 @@
 :root {
-  --primary: #999999;
+  /* ===== FC Aich Design Tokens ===== */
+  /* Surfaces — deep navy progression (replaces saturated #1f1f64 indigo) */
+  --bg-color: #0a1428;            /* page */
+  --bg-color-alt: #102043;        /* nav, sections */
+  --bg-elevated: #14254a;         /* dropdowns, modals */
+  --bg-card: rgba(255, 255, 255, 0.04);
+  --bg-card-hover: rgba(255, 255, 255, 0.07);
+
+  /* Accent — emerald (sporty, fits football pitch association) */
+  --primary: #10b981;
+  --primary-hover: #34d399;
+  --primary-dim: rgba(16, 185, 129, 0.12);
+  --primary-glow: rgba(16, 185, 129, 0.25);
+
+  /* Text */
+  --text-color: #94a3b8;          /* muted slate */
+  --text-color-alt: #f1f5f9;      /* near-white */
+  --text-heading: #ffffff;
   --nav-hover: #ffffff;
   --nav-text: rgba(255, 255, 255, 0.85);
-  --bg-color: #130f0f;
-  --bg-color-alt: #1f1f64;
-  --text-color: #555555;
-  --text-color-alt: #f1f1f1;
+
+  /* Borders */
+  --border-color: rgba(255, 255, 255, 0.1);
+  --border-color-strong: rgba(255, 255, 255, 0.18);
+  --border-accent: rgba(16, 185, 129, 0.4);
+
+  /* Shadows — layered, soft */
+  --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.2);
+  --shadow-md: 0 8px 24px rgba(0, 0, 0, 0.3);
+  --shadow-lg: 0 16px 48px rgba(0, 0, 0, 0.45);
+  --shadow-accent: 0 8px 32px rgba(16, 185, 129, 0.25);
+
+  /* Radii */
+  --radius-sm: 0.5rem;
+  --radius-md: 0.75rem;
+  --radius-lg: 1.25rem;
+  --radius-xl: 1.75rem;
+
+  /* Motion */
+  --transition: 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-fast: 0.2s ease;
+  --transition-slow: 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+
+  /* Typography */
+  --font-display: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --font-body: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+
+  /* Layout */
+  --container-max: 1200px;
+  --container-pad: 1.5rem;
 }
 
 /* Globale Hintergrund- und Schriftfarbe */
-body {
+body,
+body.bg-near-black {
   background-color: var(--bg-color);
   color: var(--text-color);
+  font-family: var(--font-body);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-display);
+  color: var(--text-heading);
+  letter-spacing: -0.02em;
+  line-height: 1.15;
 }
 
 /* Haupt-Content-Bereich dunkel mit heller Schrift
@@ -45,8 +99,9 @@ a, .link, .bg-primary, .text-primary {
 
 /* ===== Navigation Styling ===== */
 nav[role="navigation"] {
-  background: #1f1f64;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  background: var(--bg-color-alt);
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.35);
+  border-bottom: 1px solid var(--border-color);
 }
 
 /* Logo Styling */
@@ -149,16 +204,17 @@ nav[role="navigation"] ul li a.active::after {
   position: absolute;
   top: 100%;
   left: 0;
-  background: #181852;
+  background: var(--bg-elevated);
   min-width: 200px;
   padding: 0.5rem 0;
   margin: 0;
-  border-radius: 0 0 0.5rem 0.5rem;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+  border-radius: 0 0 var(--radius-md) var(--radius-md);
+  box-shadow: var(--shadow-md);
+  border: 1px solid var(--border-color);
   opacity: 0;
   visibility: hidden;
   transform: translateY(-10px);
-  transition: opacity 0.3s ease, transform 0.3s ease, visibility 0.3s;
+  transition: opacity var(--transition), transform var(--transition), visibility var(--transition);
   z-index: 1000;
   list-style: none;
 }
@@ -191,7 +247,7 @@ nav[role="navigation"] ul li a.active::after {
 }
 
 .dropdown-item a:hover {
-  background-color: rgba(255, 255, 255, 0.1);
+  background-color: var(--bg-card-hover);
   color: var(--nav-hover) !important;
 }
 
@@ -299,7 +355,7 @@ nav[role="navigation"] ul li a.active::after {
   left: 0;
   width: 100%;
   height: 100%;
-  background: linear-gradient(135deg, #1f1f64 0%, #181852 100%);
+  background: linear-gradient(135deg, var(--bg-color-alt) 0%, var(--bg-color) 100%);
   z-index: 1999;
   overflow-y: auto;
   overflow-x: hidden;
@@ -587,7 +643,7 @@ body.mobile-menu-open {
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: #323296;
+  background: linear-gradient(135deg, var(--bg-color-alt) 0%, var(--bg-color) 100%);
   z-index: 1;
 }
 
@@ -632,8 +688,9 @@ body.mobile-menu-open {
   min-height: 30vh;
   background: linear-gradient(
     to bottom,
-    rgba(0, 0, 0, 0.3) 0%,
-    rgba(0, 0, 0, 0.5) 100%
+    rgba(10, 20, 40, 0.55) 0%,
+    rgba(10, 20, 40, 0.75) 60%,
+    rgba(10, 20, 40, 0.92) 100%
   );
   display: flex;
   align-items: center;
@@ -1070,7 +1127,7 @@ body.mobile-menu-open {
 }
 
 .fc-button:hover {
-  background: #2a2a7d !important;
+  background: var(--bg-elevated) !important;
   transform: translateY(-2px);
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
 }
@@ -1290,7 +1347,7 @@ tr.fc-list-event:hover {
 }
 
 .fc-event-modal-link:hover {
-  background: #2a2a7d;
+  background: var(--bg-elevated);
 }
 
 .fc-event-modal-close {
@@ -1655,7 +1712,7 @@ tr.fc-list-event:hover {
 }
 
 .drive-btn:hover {
-  background: #2a2a7d;
+  background: var(--bg-elevated);
   transform: scale(1.1);
 }
 
@@ -1752,5 +1809,1042 @@ tr.fc-list-event:hover {
 @media (min-width: 48em) {
   .sponsor-banner-item img {
     height: 60px;
+  }
+}
+
+/* ============================================================
+   FC AICH HOMEPAGE — Modern Landing Page
+   Sections: container, stats strip, intro, teams, featured news
+   ============================================================ */
+
+/* ===== Layout container ===== */
+.fc-container {
+  max-width: var(--container-max);
+  margin: 0 auto;
+  padding: 0 var(--container-pad);
+  width: 100%;
+}
+
+/* ===== Section heading ===== */
+.fc-section-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: 2rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid var(--border-color);
+  flex-wrap: wrap;
+}
+
+.fc-section-title {
+  font-size: clamp(1.75rem, calc(1.4rem + 1.5vw), 2.5rem);
+  font-weight: 800;
+  color: var(--text-heading);
+  margin: 0;
+  letter-spacing: -0.03em;
+  position: relative;
+  padding-left: 1rem;
+}
+
+.fc-section-title::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 4px;
+  height: 70%;
+  background: var(--primary);
+  border-radius: 2px;
+  box-shadow: 0 0 12px var(--primary-glow);
+}
+
+.fc-section-subtitle {
+  font-size: 1rem;
+  color: var(--text-color);
+  margin: 0.25rem 0 0;
+  font-weight: 400;
+}
+
+.fc-section-link {
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--primary) !important;
+  text-decoration: none;
+  transition: color var(--transition-fast), transform var(--transition-fast);
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  letter-spacing: 0.01em;
+}
+
+.fc-section-link:hover {
+  color: var(--primary-hover) !important;
+  transform: translateX(4px);
+}
+
+/* ===== Stats strip — key facts band ===== */
+.fc-stats-strip {
+  position: relative;
+  padding: 3rem 0;
+  background: linear-gradient(180deg, var(--bg-color-alt) 0%, var(--bg-color) 100%);
+  border-top: 1px solid var(--border-color);
+  border-bottom: 1px solid var(--border-color);
+  margin-top: -1px;
+  overflow: hidden;
+}
+
+.fc-stats-strip::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background:
+    radial-gradient(circle at 15% 50%, var(--primary-dim) 0%, transparent 35%),
+    radial-gradient(circle at 85% 50%, var(--primary-dim) 0%, transparent 35%);
+  opacity: 0.6;
+  pointer-events: none;
+}
+
+.fc-stats-grid {
+  position: relative;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 2rem 1.5rem;
+  z-index: 1;
+}
+
+@media (min-width: 48em) {
+  .fc-stats-grid {
+    grid-template-columns: repeat(4, 1fr);
+    gap: 2rem;
+  }
+}
+
+.fc-stat {
+  text-align: center;
+  padding: 1rem 0.5rem;
+  position: relative;
+  opacity: 0;
+  animation: fadeInUp 0.7s ease-out forwards;
+}
+
+.fc-stat:nth-child(1) { animation-delay: 0.1s; }
+.fc-stat:nth-child(2) { animation-delay: 0.25s; }
+.fc-stat:nth-child(3) { animation-delay: 0.4s; }
+.fc-stat:nth-child(4) { animation-delay: 0.55s; }
+
+@media (min-width: 48em) {
+  .fc-stat:not(:last-child)::after {
+    content: "";
+    position: absolute;
+    right: -1rem;
+    top: 15%;
+    bottom: 15%;
+    width: 1px;
+    background: linear-gradient(to bottom, transparent, var(--border-color-strong), transparent);
+  }
+}
+
+.fc-stat-number {
+  display: block;
+  font-family: var(--font-display);
+  font-size: clamp(2rem, calc(1.5rem + 2.5vw), 3rem);
+  font-weight: 800;
+  color: var(--primary);
+  line-height: 1;
+  letter-spacing: -0.04em;
+  text-shadow: 0 0 24px var(--primary-glow);
+  font-variant-numeric: tabular-nums;
+}
+
+.fc-stat-label {
+  display: block;
+  margin-top: 0.5rem;
+  font-size: 0.9rem;
+  color: var(--text-color);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-weight: 500;
+}
+
+/* ===== Intro section ===== */
+.fc-intro {
+  padding: 4rem 0 3rem;
+}
+
+.fc-intro-content {
+  max-width: 720px;
+  margin: 0 auto;
+  text-align: center;
+  font-size: 1.125rem;
+  line-height: 1.75;
+  color: var(--text-color-alt);
+}
+
+.fc-intro-content h2 {
+  font-size: clamp(1.75rem, calc(1.3rem + 1.8vw), 2.25rem);
+  margin: 0 0 1.5rem;
+  color: var(--text-heading);
+}
+
+.fc-intro-content p {
+  margin: 1.25rem 0;
+  color: var(--text-color-alt);
+}
+
+.fc-intro-content a {
+  color: var(--primary);
+  text-decoration: none;
+  border-bottom: 1px solid var(--border-accent);
+  transition: color var(--transition-fast), border-color var(--transition-fast);
+}
+
+.fc-intro-content a:hover {
+  color: var(--primary-hover);
+  border-bottom-color: var(--primary-hover);
+}
+
+.fc-intro-content strong {
+  color: var(--text-heading);
+  font-weight: 700;
+}
+
+/* ===== Teams quick-nav ===== */
+.fc-teams {
+  padding: 3rem 0 4rem;
+}
+
+.fc-teams-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+}
+
+@media (min-width: 30em) {
+  .fc-teams-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (min-width: 60em) {
+  .fc-teams-grid {
+    grid-template-columns: repeat(5, 1fr);
+    gap: 1.25rem;
+  }
+}
+
+.fc-team-tile {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  min-height: 220px;
+  padding: 1.5rem 1.25rem;
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  text-decoration: none;
+  background: var(--bg-elevated);
+  border: 1px solid var(--border-color);
+  box-shadow: var(--shadow-sm);
+  transition: transform var(--transition), box-shadow var(--transition), border-color var(--transition);
+  isolation: isolate;
+}
+
+.fc-team-tile-bg {
+  position: absolute;
+  inset: 0;
+  background-size: cover;
+  background-position: center;
+  z-index: -2;
+  transition: transform var(--transition-slow);
+}
+
+.fc-team-tile::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    180deg,
+    rgba(10, 20, 40, 0.25) 0%,
+    rgba(10, 20, 40, 0.55) 45%,
+    rgba(10, 20, 40, 0.95) 100%
+  );
+  z-index: -1;
+  transition: opacity var(--transition);
+}
+
+.fc-team-tile:hover {
+  transform: translateY(-6px);
+  box-shadow: var(--shadow-lg);
+  border-color: var(--border-accent);
+}
+
+.fc-team-tile:hover .fc-team-tile-bg {
+  transform: scale(1.08);
+}
+
+.fc-team-tile:hover .fc-team-tile-arrow {
+  transform: translate(4px, -4px);
+  background: var(--primary);
+  color: var(--bg-color);
+}
+
+.fc-team-tile-label {
+  display: block;
+  font-family: var(--font-display);
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: var(--text-heading);
+  letter-spacing: -0.02em;
+  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.5);
+}
+
+.fc-team-tile-meta {
+  display: block;
+  margin-top: 0.25rem;
+  font-size: 0.8rem;
+  color: var(--text-color-alt);
+  opacity: 0.85;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  text-shadow: 0 1px 4px rgba(0, 0, 0, 0.6);
+}
+
+.fc-team-tile-arrow {
+  position: absolute;
+  top: 1.25rem;
+  right: 1.25rem;
+  width: 36px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  color: var(--text-heading);
+  font-size: 1.1rem;
+  font-weight: 700;
+  transition: transform var(--transition), background var(--transition), color var(--transition);
+}
+
+/* ===== Featured news section ===== */
+.fc-featured-news {
+  padding: 3rem 0 5rem;
+}
+
+.fc-news-layout {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.5rem;
+}
+
+@media (min-width: 60em) {
+  .fc-news-layout {
+    grid-template-columns: 1.6fr 1fr;
+    gap: 2rem;
+    align-items: start;
+  }
+}
+
+/* Hero news card (large) */
+.fc-news-hero {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  min-height: 460px;
+  padding: 2rem;
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  background: var(--bg-elevated);
+  border: 1px solid var(--border-color);
+  box-shadow: var(--shadow-md);
+  text-decoration: none;
+  isolation: isolate;
+  transition: transform var(--transition), box-shadow var(--transition), border-color var(--transition);
+}
+
+@media (min-width: 60em) {
+  .fc-news-hero {
+    min-height: 540px;
+    padding: 2.5rem;
+  }
+}
+
+.fc-news-hero-image {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: -2;
+  transition: transform var(--transition-slow);
+}
+
+.fc-news-hero::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    180deg,
+    rgba(10, 20, 40, 0.1) 0%,
+    rgba(10, 20, 40, 0.55) 45%,
+    rgba(10, 20, 40, 0.95) 100%
+  );
+  z-index: -1;
+}
+
+.fc-news-hero:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-lg);
+  border-color: var(--border-accent);
+}
+
+.fc-news-hero:hover .fc-news-hero-image {
+  transform: scale(1.05);
+}
+
+.fc-news-hero-chip {
+  display: inline-block;
+  align-self: flex-start;
+  padding: 0.35rem 0.85rem;
+  margin-bottom: 1rem;
+  background: var(--primary);
+  color: var(--bg-color);
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  border-radius: 9999px;
+  box-shadow: 0 4px 12px var(--primary-glow);
+}
+
+.fc-news-hero-title {
+  font-size: clamp(1.6rem, calc(1.2rem + 1.8vw), 2.4rem);
+  font-weight: 800;
+  color: var(--text-heading);
+  margin: 0 0 0.75rem;
+  line-height: 1.15;
+  letter-spacing: -0.025em;
+  text-shadow: 0 2px 12px rgba(0, 0, 0, 0.5);
+}
+
+.fc-news-hero-summary {
+  font-size: 1.05rem;
+  line-height: 1.6;
+  color: var(--text-color-alt);
+  margin: 0 0 1rem;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-shadow: 0 1px 6px rgba(0, 0, 0, 0.6);
+}
+
+.fc-news-hero-meta {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  font-size: 0.85rem;
+  color: var(--text-color-alt);
+  opacity: 0.85;
+}
+
+.fc-news-hero-meta .fc-news-readmore {
+  margin-left: auto;
+  font-weight: 700;
+  color: var(--primary);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-size: 0.8rem;
+  transition: color var(--transition-fast);
+}
+
+.fc-news-hero:hover .fc-news-hero-meta .fc-news-readmore {
+  color: var(--primary-hover);
+}
+
+/* Side news cards (smaller) */
+.fc-news-side {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+}
+
+@media (min-width: 30em) and (max-width: 59.99em) {
+  .fc-news-side {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.fc-news-mini {
+  position: relative;
+  display: grid;
+  grid-template-columns: 100px 1fr;
+  gap: 1rem;
+  padding: 1rem;
+  background: var(--bg-card);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-md);
+  text-decoration: none;
+  transition: transform var(--transition), background var(--transition), border-color var(--transition), box-shadow var(--transition);
+  overflow: hidden;
+}
+
+@media (min-width: 60em) {
+  .fc-news-mini {
+    grid-template-columns: 110px 1fr;
+  }
+}
+
+.fc-news-mini:hover {
+  transform: translateY(-3px);
+  background: var(--bg-card-hover);
+  border-color: var(--border-accent);
+  box-shadow: var(--shadow-md);
+}
+
+.fc-news-mini-thumb {
+  width: 100px;
+  height: 100px;
+  border-radius: var(--radius-sm);
+  object-fit: cover;
+  background: var(--bg-elevated);
+  flex-shrink: 0;
+}
+
+.fc-news-mini-thumb--placeholder {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(135deg, var(--bg-elevated) 0%, var(--bg-color-alt) 100%);
+  border: 1px solid var(--border-color);
+}
+
+.fc-news-mini-thumb-logo {
+  width: 56px;
+  height: auto;
+  opacity: 0.6;
+}
+
+@media (min-width: 60em) {
+  .fc-news-mini-thumb {
+    width: 110px;
+    height: 110px;
+  }
+}
+
+.fc-news-mini-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-width: 0;
+}
+
+.fc-news-mini-chip {
+  display: inline-block;
+  align-self: flex-start;
+  padding: 0.15rem 0.55rem;
+  margin-bottom: 0.4rem;
+  background: var(--primary-dim);
+  color: var(--primary);
+  font-size: 0.65rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  border-radius: 9999px;
+  max-width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.fc-news-mini-title {
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: var(--text-heading);
+  margin: 0 0 0.35rem;
+  line-height: 1.3;
+  letter-spacing: -0.01em;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  transition: color var(--transition-fast);
+}
+
+.fc-news-mini:hover .fc-news-mini-title {
+  color: var(--primary-hover);
+}
+
+.fc-news-mini-date {
+  font-size: 0.75rem;
+  color: var(--text-color);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+/* ===== News card (modernized summary) — used on /news/ list & team pages ===== */
+.fc-news-card {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  background: var(--bg-card);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  transition: transform var(--transition), box-shadow var(--transition), border-color var(--transition), background var(--transition);
+}
+
+.fc-news-card:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-md);
+  border-color: var(--border-accent);
+  background: var(--bg-card-hover);
+}
+
+.fc-news-card-media {
+  position: relative;
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+  background: var(--bg-elevated);
+}
+
+.fc-news-card-media--placeholder {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(135deg, var(--bg-elevated) 0%, var(--bg-color-alt) 100%);
+}
+
+.fc-news-card-placeholder-logo {
+  width: 28%;
+  max-width: 100px;
+  height: auto;
+  opacity: 0.55;
+  transition: opacity var(--transition);
+}
+
+.fc-news-card:hover .fc-news-card-placeholder-logo {
+  opacity: 0.85;
+}
+
+.fc-news-card-media img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: transform var(--transition-slow);
+}
+
+.fc-news-card:hover .fc-news-card-media img {
+  transform: scale(1.06);
+}
+
+.fc-news-card-body {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  padding: 1.25rem;
+}
+
+.fc-news-card-meta {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.5rem;
+  font-size: 0.75rem;
+}
+
+.fc-news-card-chip {
+  padding: 0.2rem 0.6rem;
+  background: var(--primary-dim);
+  color: var(--primary);
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  border-radius: 9999px;
+  font-size: 0.7rem;
+}
+
+.fc-news-card-date {
+  color: var(--text-color);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.fc-news-card-title {
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: var(--text-heading);
+  margin: 0 0 0.5rem;
+  line-height: 1.3;
+  letter-spacing: -0.015em;
+}
+
+.fc-news-card-title a {
+  color: inherit;
+  text-decoration: none;
+  transition: color var(--transition-fast);
+}
+
+.fc-news-card-title a:hover {
+  color: var(--primary-hover);
+}
+
+.fc-news-card-summary {
+  font-size: 0.95rem;
+  line-height: 1.6;
+  color: var(--text-color);
+  margin: 0 0 1rem;
+  flex: 1;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.fc-news-card-readmore {
+  align-self: flex-start;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.5rem 1rem;
+  background: transparent;
+  color: var(--primary) !important;
+  border: 1px solid var(--border-accent);
+  border-radius: 9999px;
+  font-size: 0.8rem;
+  font-weight: 700;
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  transition: background var(--transition-fast), color var(--transition-fast), border-color var(--transition-fast), transform var(--transition-fast);
+}
+
+.fc-news-card-readmore:hover {
+  background: var(--primary);
+  color: var(--bg-color) !important;
+  border-color: var(--primary);
+  transform: translateX(3px);
+}
+
+/* ===== News listing grid (used on /news/ via _default/list.html) ===== */
+.fc-news-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.5rem;
+  max-width: var(--container-max);
+  margin: 0 auto;
+}
+
+@media (min-width: 30em) {
+  .fc-news-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (min-width: 60em) {
+  .fc-news-grid {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2rem;
+  }
+}
+
+.fc-news-grid-item {
+  display: flex;
+}
+
+.fc-news-grid-item > .fc-news-card {
+  width: 100%;
+}
+
+/* ===== Homepage CTA bar ===== */
+.fc-cta-bar {
+  margin: 2rem 0 4rem;
+  padding: 2.5rem 1.5rem;
+  background: linear-gradient(135deg, var(--bg-color-alt) 0%, var(--bg-elevated) 100%);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-lg);
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+
+.fc-cta-bar::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(circle at 30% 50%, var(--primary-dim) 0%, transparent 50%);
+  pointer-events: none;
+}
+
+.fc-cta-title {
+  position: relative;
+  font-size: clamp(1.5rem, calc(1.2rem + 1.2vw), 2rem);
+  font-weight: 800;
+  color: var(--text-heading);
+  margin: 0 0 0.5rem;
+  letter-spacing: -0.02em;
+}
+
+.fc-cta-subtitle {
+  position: relative;
+  font-size: 1rem;
+  color: var(--text-color);
+  margin: 0 0 1.5rem;
+}
+
+.fc-cta-button {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.85rem 2rem;
+  background: var(--primary);
+  color: var(--bg-color) !important;
+  border-radius: 9999px;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 1rem;
+  letter-spacing: 0.01em;
+  box-shadow: 0 8px 24px var(--primary-glow);
+  transition: transform var(--transition-fast), box-shadow var(--transition-fast), background var(--transition-fast);
+}
+
+.fc-cta-button:hover {
+  background: var(--primary-hover);
+  transform: translateY(-2px);
+  box-shadow: 0 12px 32px var(--primary-glow);
+}
+
+/* ===== Scroll reveal animation (CSS-only via animation) ===== */
+@keyframes fcReveal {
+  from {
+    opacity: 0;
+    transform: translateY(24px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.fc-reveal {
+  opacity: 0;
+  animation: fcReveal 0.7s cubic-bezier(0.4, 0, 0.2, 1) forwards;
+}
+
+.fc-reveal-delay-1 { animation-delay: 0.1s; }
+.fc-reveal-delay-2 { animation-delay: 0.2s; }
+.fc-reveal-delay-3 { animation-delay: 0.3s; }
+.fc-reveal-delay-4 { animation-delay: 0.4s; }
+.fc-reveal-delay-5 { animation-delay: 0.5s; }
+
+/* ===== Hero enhancements (refined overlay + accent line) ===== */
+.hero-title-home {
+  position: relative;
+  display: inline-block;
+}
+
+.hero-title-home::after {
+  content: "";
+  position: absolute;
+  left: 50%;
+  bottom: -0.5rem;
+  transform: translateX(-50%);
+  width: 60px;
+  height: 3px;
+  background: var(--primary);
+  border-radius: 2px;
+  box-shadow: 0 0 16px var(--primary-glow);
+}
+
+/* ===== Dark mode refinements ===== */
+@media (prefers-color-scheme: dark) {
+  .fc-news-card {
+    background: rgba(255, 255, 255, 0.03);
+  }
+  .fc-news-mini {
+    background: rgba(255, 255, 255, 0.03);
+  }
+}
+
+/* ===== Mobile adjustments ===== */
+@media (max-width: 47.99em) {
+  .fc-stats-strip {
+    padding: 2rem 0;
+  }
+  .fc-intro {
+    padding: 2.5rem 0 2rem;
+  }
+  .fc-intro-content {
+    font-size: 1rem;
+    text-align: left;
+  }
+  .fc-teams {
+    padding: 2rem 0 2.5rem;
+  }
+  .fc-team-tile {
+    min-height: 160px;
+  }
+  .fc-featured-news {
+    padding: 2rem 0 3rem;
+  }
+  .fc-news-hero {
+    min-height: 360px;
+    padding: 1.5rem;
+  }
+  .fc-section-head {
+    margin-bottom: 1.25rem;
+  }
+  .fc-cta-bar {
+    padding: 2rem 1.25rem;
+    margin: 1.5rem 0 2.5rem;
+  }
+}
+
+/* ===== Pagination (News-Liste & andere paginierte Seiten) ===== */
+/* Überschreibt Ananke-Defaults (weißer Hintergrund / #ddd active) */
+.pagination {
+  margin: 3rem 0 2rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.375rem;
+  justify-content: center;
+  list-style: none;
+  padding: 0;
+}
+
+.pagination li {
+  display: inline-flex;
+  margin: 0;
+  font-size: 0.875rem;
+  margin-bottom: 0;
+}
+
+.pagination li a,
+.pagination li a:link,
+.pagination li a:visited {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 2.25rem;
+  height: 2.25rem;
+  padding: 0.5rem 0.75rem;
+  background-color: var(--card-bg);
+  color: var(--text-color-alt) !important;
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-sm);
+  text-decoration: none;
+  font-weight: 500;
+  transition: background-color var(--transition-fast),
+              border-color var(--transition-fast),
+              color var(--transition-fast),
+              transform var(--transition-fast);
+}
+
+.pagination li a:hover,
+.pagination li a:focus-visible {
+  background-color: var(--card-bg-hover);
+  border-color: var(--primary);
+  color: var(--primary-hover) !important;
+  transform: translateY(-1px);
+  outline: none;
+}
+
+.pagination li a:focus-visible {
+  outline: 2px solid var(--primary);
+  outline-offset: 2px;
+}
+
+/* Aktive Seite: Emerald-Akzent mit weißem Text */
+.pagination li.active a,
+.pagination li.active a:link,
+.pagination li.active a:visited,
+.pagination li.active a:hover,
+.pagination li.active a:active {
+  background-color: var(--primary) !important;
+  color: #ffffff !important;
+  border-color: var(--primary) !important;
+  cursor: default;
+  transform: none;
+}
+
+/* Disabled: versteckt wie im Original (sauberere UX bei vielen Seiten) */
+.pagination li.disabled {
+  display: none;
+}
+
+/* ===== Mannschaftsfotos (herren1, herren2, damen) ===== */
+.fc-team-photo-link {
+  display: block;
+  max-width: 900px;
+  margin: 1.5rem 0;
+  position: relative;
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  box-shadow: var(--shadow-md);
+  transition: transform var(--transition), box-shadow var(--transition);
+  text-decoration: none;
+}
+
+.fc-team-photo-link:hover,
+.fc-team-photo-link:focus-visible {
+  transform: translateY(-3px);
+  box-shadow: var(--shadow-lg);
+  outline: none;
+}
+
+.fc-team-photo-link:focus-visible {
+  outline: 2px solid var(--primary);
+  outline-offset: 3px;
+}
+
+.fc-team-photo {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: var(--radius-lg);
+  transition: transform var(--transition);
+}
+
+.fc-team-photo-link:hover .fc-team-photo {
+  transform: scale(1.02);
+}
+
+/* Zoom-Icon-Indikator oben rechts */
+.fc-team-photo-link::after {
+  content: "🔍";
+  position: absolute;
+  top: 0.75rem;
+  right: 0.75rem;
+  width: 2.25rem;
+  height: 2.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.9rem;
+  background: rgba(0, 0, 0, 0.6);
+  color: #ffffff;
+  border-radius: 50%;
+  opacity: 0;
+  transition: opacity var(--transition);
+  pointer-events: none;
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+}
+
+.fc-team-photo-link:hover::after,
+.fc-team-photo-link:focus-visible::after {
+  opacity: 1;
+}
+
+@media (max-width: 59.99em) {
+  .fc-team-photo-link {
+    margin: 1rem 0;
   }
 }
