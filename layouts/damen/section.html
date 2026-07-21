@@ -41,17 +41,20 @@
   {{ $related_posts := where site.RegularPages "Section" "news" }}
   {{ $related_posts = where $related_posts ".Params.categories" "intersect" (collections.Slice "damen") }}
   {{ $related_posts = $related_posts.ByDate.Reverse }}
+  {{ $paginator := .Paginate $related_posts 9 }}
 
   {{ if $related_posts }}
     <div class="pa3 pa4-ns w-100 w-70-ns center">
       <section class="w-100 mw8">
         <h2 class="f3 fw6 mb3">Aktuelle News zur Damenmannschaft</h2>
-
-        {{ range $related_posts }}
-          <div class="w-100 mb4 relative">
-            {{ .Render "summary-with-image" }}
-          </div>
-        {{ end }}
+        <div class="fc-news-grid">
+          {{ range $paginator.Pages }}
+            <div class="fc-news-grid-item">
+              {{ .Render "summary-with-image" }}
+            </div>
+          {{ end }}
+        </div>
+        {{ template "_internal/pagination.html" . }}
       </section>
     </div>
   {{ end }}
