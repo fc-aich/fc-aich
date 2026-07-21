@@ -1,14 +1,28 @@
-<div class="w-100 mb4 nested-copy-line-height relative bg-none">
-  <div class="mb3 pa4 gray overflow-hidden bg-black br3">
-    {{with .CurrentSection.Title }}<span class="f6 db">{{ . }}</span>{{end}}
-    <h1 class="f3 near-black">
-      <a href="{{ .RelPermalink }}" class="link black dim">
-        {{ .Title }}
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      {{ .Summary }}
+{{ $featured_image := partials.Include "func/GetFeaturedImage.html" . }}
+{{ $categories := .Params.categories }}
+<article class="fc-news-card">
+  <a href="{{ .RelPermalink }}" class="fc-news-card-media{{ if not $featured_image }} fc-news-card-media--placeholder{{ end }}" aria-label="{{ .Title }}">
+    {{ if $featured_image }}
+      <img src="{{ $featured_image }}" alt="{{ .Title }}" loading="lazy">
+    {{ else }}
+      <img src="/img/fc-aich-logo.svg" alt="" class="fc-news-card-placeholder-logo">
+    {{ end }}
+  </a>
+  <div class="fc-news-card-body">
+    <div class="fc-news-card-meta">
+      {{ with $categories }}
+        <span class="fc-news-card-chip">{{ index . 0 }}</span>
+      {{ end }}
+      <time class="fc-news-card-date" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "02.01.2006" }}</time>
     </div>
-    <a href="{{.RelPermalink}}" class="ba b--moon-gray bg-near-black br2 color-inherit dib f7 hover-bg-dark-gray link mt2 ph2 pv1">{{ $.Param "read_more_copy" | compare.Default (lang.Translate "readMore") }}</a>
+    <h3 class="fc-news-card-title">
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    </h3>
+    <div class="fc-news-card-summary">
+      {{ with .Params.summary }}{{ . | plainify }}{{ else }}{{ .Summary | plainify }}{{ end }}
+    </div>
+    <a href="{{ .RelPermalink }}" class="fc-news-card-readmore">
+      {{ $.Param "read_more_copy" | compare.Default (lang.Translate "readMore") }} <span aria-hidden="true">&rarr;</span>
+    </a>
   </div>
-</div>
+</article>
