@@ -1,0 +1,161 @@
+{{ define "main" }}
+  {{/*
+    Homepage mit modernem, strukturiertem Layout.
+    Hero wird durch partials/site-header.html gerendert (bleibt unangetastet).
+    Reihenfolge: Stats → Intro → Mannschaften → Featured News → CTA
+  */}}
+
+  {{/* ===== 1. Stats Strip ===== */}}
+  <section class="fc-stats-strip" aria-label="Vereinszahlen">
+    <div class="fc-container">
+      <div class="fc-stats-grid">
+        <div class="fc-stat">
+          <span class="fc-stat-number">1924</span>
+          <span class="fc-stat-label">Gegründet</span>
+        </div>
+        <div class="fc-stat">
+          <span class="fc-stat-number">100+</span>
+          <span class="fc-stat-label">Jahre Tradition</span>
+        </div>
+        <div class="fc-stat">
+          <span class="fc-stat-number">10+</span>
+          <span class="fc-stat-label">Mannschaften</span>
+        </div>
+        <div class="fc-stat">
+          <span class="fc-stat-number">A&ndash;G</span>
+          <span class="fc-stat-label">Jugend</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  {{/* ===== 2. Intro text from content/_index.md ===== */}}
+  <section class="fc-intro fc-container">
+    <div class="fc-intro-content">
+      {{- .Content -}}
+    </div>
+  </section>
+
+  {{/* ===== 3. Quick-nav tiles for teams ===== */}}
+  <section class="fc-teams fc-container" aria-label="Mannschaften">
+    <div class="fc-section-head">
+      <div>
+        <h2 class="fc-section-title">Mannschaften</h2>
+        <p class="fc-section-subtitle">Fussball für alle — von der Jugend bis zu den Alten Herren</p>
+      </div>
+    </div>
+    <div class="fc-teams-grid">
+      <a href="/herren1/" class="fc-team-tile">
+        <div class="fc-team-tile-bg" style="background-image: url('/img/fotos/1-mannschaft-titel.jpg');"></div>
+        <span class="fc-team-tile-arrow" aria-hidden="true">&rarr;</span>
+        <span class="fc-team-tile-label">1. Mannschaft</span>
+        <span class="fc-team-tile-meta">Herren</span>
+      </a>
+      <a href="/herren2/" class="fc-team-tile">
+        <div class="fc-team-tile-bg" style="background-image: url('/img/fotos/2-mannschaft-titel.jpg');"></div>
+        <span class="fc-team-tile-arrow" aria-hidden="true">&rarr;</span>
+        <span class="fc-team-tile-label">2. Mannschaft</span>
+        <span class="fc-team-tile-meta">Herren</span>
+      </a>
+      <a href="/damen/" class="fc-team-tile">
+        <div class="fc-team-tile-bg" style="background-image: url('/img/fotos/damen-mannschaf-title.jpg');"></div>
+        <span class="fc-team-tile-arrow" aria-hidden="true">&rarr;</span>
+        <span class="fc-team-tile-label">Damen</span>
+        <span class="fc-team-tile-meta">Frauenfußball</span>
+      </a>
+      <a href="/jugend/" class="fc-team-tile">
+        <div class="fc-team-tile-bg" style="background-image: url('/img/fotos/jugend-title.png');"></div>
+        <span class="fc-team-tile-arrow" aria-hidden="true">&rarr;</span>
+        <span class="fc-team-tile-label">Jugend</span>
+        <span class="fc-team-tile-meta">A bis G-Jugend</span>
+      </a>
+      <a href="/ah/" class="fc-team-tile">
+        <div class="fc-team-tile-bg" style="background-image: url('/img/fotos/ah-mannschaft-titel.png');"></div>
+        <span class="fc-team-tile-arrow" aria-hidden="true">&rarr;</span>
+        <span class="fc-team-tile-label">A-Herren</span>
+        <span class="fc-team-tile-meta">Alte Herren</span>
+      </a>
+    </div>
+  </section>
+
+  {{/* ===== 4. Featured News ===== */}}
+  {{ $news := where .Site.RegularPages "Section" "news" }}
+  {{ $news = $news.ByDate.Reverse }}
+
+  {{ if gt (len $news) 0 }}
+    <section class="fc-featured-news fc-container" aria-label="Aktuelle News">
+      <div class="fc-section-head">
+        <div>
+          <h2 class="fc-section-title">Aktuelle News</h2>
+          <p class="fc-section-subtitle">Alles rund um den FC Aich</p>
+        </div>
+        <a href="/news/" class="fc-section-link">Alle News <span aria-hidden="true">&rarr;</span></a>
+      </div>
+
+      <div class="fc-news-layout">
+        {{/* Hero card: latest news item */}}
+        {{ range first 1 $news }}
+          {{ $heroImage := partials.Include "func/GetFeaturedImage.html" . }}
+          <a href="{{ .RelPermalink }}" class="fc-news-hero">
+            {{ if $heroImage }}
+              <img src="{{ $heroImage }}" alt="" class="fc-news-hero-image" loading="lazy">
+            {{ end }}
+            <span class="fc-news-hero-chip">
+              {{ with .Params.categories }}
+                {{ index . 0 }}
+              {{ else }}
+                News
+              {{ end }}
+            </span>
+            <h3 class="fc-news-hero-title">{{ .Title }}</h3>
+            {{ with .Params.summary }}
+              <p class="fc-news-hero-summary">{{ . | plainify }}</p>
+            {{ else }}
+              <p class="fc-news-hero-summary">{{ .Summary | plainify }}</p>
+            {{ end }}
+            <div class="fc-news-hero-meta">
+              <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "02.01.2006" }}</time>
+              <span class="fc-news-readmore">Weiterlesen &rarr;</span>
+            </div>
+          </a>
+        {{ end }}
+
+        {{/* Side cards: next 4 news items */}}
+        <div class="fc-news-side">
+          {{ range first 4 (after 1 $news) }}
+            {{ $sideImage := partials.Include "func/GetFeaturedImage.html" . }}
+            <a href="{{ .RelPermalink }}" class="fc-news-mini">
+              {{ if $sideImage }}
+                <img src="{{ $sideImage }}" alt="" class="fc-news-mini-thumb" loading="lazy">
+              {{ else }}
+                <div class="fc-news-mini-thumb fc-news-mini-thumb--placeholder" aria-hidden="true">
+                  <img src="/img/fc-aich-logo.svg" alt="" class="fc-news-mini-thumb-logo">
+                </div>
+              {{ end }}
+              <div class="fc-news-mini-body">
+                <span class="fc-news-mini-chip">
+                  {{ with .Params.categories }}
+                    {{ index . 0 }}
+                  {{ else }}
+                    News
+                  {{ end }}
+                </span>
+                <h4 class="fc-news-mini-title">{{ .Title }}</h4>
+                <time class="fc-news-mini-date" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "02.01.2006" }}</time>
+              </div>
+            </a>
+          {{ end }}
+        </div>
+      </div>
+    </section>
+  {{ end }}
+
+  {{/* ===== 5. CTA bar ===== */}}
+  <section class="fc-container">
+    <div class="fc-cta-bar">
+      <h2 class="fc-cta-title">Mitmachen beim FC Aich</h2>
+      <p class="fc-cta-subtitle">Neue Mitglieder, Ehrenamtliche und Unterstützer sind herzlich willkommen.</p>
+      <a href="/downloads/" class="fc-cta-button">Beitrittserklärung herunterladen <span aria-hidden="true">&rarr;</span></a>
+    </div>
+  </section>
+{{ end }}
