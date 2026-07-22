@@ -2848,3 +2848,185 @@ tr.fc-list-event:hover {
     margin: 1rem 0;
   }
 }
+
+/* ===== Kontakt Page ===== */
+.contact-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 2rem;
+  margin: 1rem 0 2rem;
+}
+
+/* Desktop: Zwei Spalten nebeneinander */
+@media (min-width: 60em) {
+  .contact-grid {
+    grid-template-columns: 1fr 1fr;
+    align-items: start;
+  }
+}
+
+.contact-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-md);
+  padding: 2rem;
+  box-shadow: var(--shadow-md);
+}
+
+.contact-card address {
+  font-style: normal;
+  color: var(--text-color-alt);
+  margin-bottom: 1.5rem;
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
+.contact-card .contact-row {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 0.75rem 0;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.contact-card .contact-row:last-of-type {
+  border-bottom: none;
+}
+
+.contact-card .contact-icon {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--primary);
+}
+
+.contact-card .contact-icon svg {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
+.contact-card .contact-label {
+  font-weight: 600;
+  color: var(--text-color-alt);
+  min-width: 5rem;
+}
+
+.contact-card a {
+  color: var(--primary);
+  text-decoration: none;
+  transition: color var(--transition-fast);
+}
+
+.contact-card a:hover {
+  color: var(--primary-hover);
+  text-decoration: underline;
+}
+
+.contact-links {
+  margin-top: 1.5rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.contact-links a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.5rem 1rem;
+  background: var(--bg-card);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-sm);
+  color: var(--text-color-alt);
+  text-decoration: none;
+  transition: background var(--transition-fast), border-color var(--transition-fast), color var(--transition-fast);
+}
+
+.contact-links a:hover {
+  background: var(--bg-card-hover);
+  border-color: var(--border-accent);
+  color: var(--primary);
+}
+
+.contact-links a.contact-directions {
+  background: var(--primary);
+  border-color: var(--primary);
+  color: var(--bg-color) !important;
+  font-weight: 600;
+}
+
+.contact-links a.contact-directions svg {
+  width: 18px;
+  height: 18px;
+}
+
+.contact-links a.contact-directions:hover {
+  background: var(--primary-hover);
+  border-color: var(--primary-hover);
+  color: var(--bg-color);
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-accent);
+}
+
+.contact-map {
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  box-shadow: var(--shadow-md);
+  min-height: 400px;
+  border: 1px solid var(--border-color);
+}
+
+.contact-map iframe {
+  width: 100%;
+  height: 100%;
+  border: 0;
+  display: block;
+  min-height: 400px;
+}
+
+/* ===== Footer Background (wie Seiten-Hintergrund) ===== */
+footer[role="contentinfo"] {
+  background-color: var(--bg-color);
+}
+
+.footer-legal {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.75rem;
+  padding-top: 0.5rem;
+  border-top: 1px solid var(--border-color);
+  margin-top: 0.5rem;
+  font-size: 0.85rem;
+}
+
+.footer-legal a {
+  color: var(--text-color) !important;
+  text-decoration: none;
+  transition: color var(--transition-fast);
+}
+
+.footer-legal a:hover {
+  color: var(--primary) !important;
+}
+
+.footer-legal span {
+  color: var(--text-color);
+  opacity: 0.4;
+}
+
+/* ===== Kontakt Page: Slim Hero Header ===== */
+.hero-header.hero-header-slim,
+.hero-header.hero-header-slim .hero-overlay {
+  min-height: 15vh;
+}
+@media (min-width: 60em) {
+  .hero-header.hero-header-slim,
+  .hero-header.hero-header-slim .hero-overlay {
+    min-height: 17.5vh;
+  }
+}
