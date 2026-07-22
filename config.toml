@@ -23,7 +23,7 @@ copyright = "© {{ now.Year }} FC Aich"
 email = "info@fc-aich.de"
 # css
 body_classes="avenir bg-near-black"
-post_content_classes="avenir bg-near-black"
+post_content_classes="avenir"
 #read_more_copy="Mehr..."
 background_color_class="bg-near-black"
 text_color="near-white"
