@@ -1,8 +1,9 @@
 
 ---
 title: "Sportgelände"
-featured_image: "img/platz.png"
 ---
+
+<img src="/img/platz.png" alt="Sportgelände FC Aich" class="fc-hover-gray" style="width:100%; max-width:800px; border-radius:0.75rem; margin-bottom:1.5rem;">
 
 Unser Sportgelände liegt in Aich (Landkreis Fürstenfeldbruck) und umfasst:
 
