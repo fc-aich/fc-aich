@@ -1,0 +1,11 @@
+{{ define "header" }}
+  {{ partials.Include "hero-slim.html" . }}
+{{ end }}
+
+{{ define "main" }}
+  <article class="mw8 center ph3">
+    <div class="nested-copy-line-height lh-copy f4 nested-links near-white">
+      {{- .Content -}}
+    </div>
+  </article>
+{{ end }}

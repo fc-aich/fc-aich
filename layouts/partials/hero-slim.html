@@ -1,0 +1,20 @@
+{{/* Slim hero header: nur Logo-Wasserzeichen, kein Featured Image, schmale Höhe */}}
+<div class="bg-black">
+  {{ partials.Include "site-navigation.html" . }}
+</div>
+<header class="hero-header hero-header-slim">
+  <div class="hero-bg-color"></div>
+  <img src="/img/fc-aich-logo.svg" alt="" class="hero-bg-logo">
+  <div class="hero-overlay">
+    <div class="hero-content tc-l pv2 ph3 ph4-ns">
+      <h1 class="hero-title f2 f1-l fw6 white mb0 lh-title">
+        {{ .Title | compare.Default .Site.Title }}
+      </h1>
+      {{ with .Params.description }}
+        <h2 class="hero-subtitle fw4 f4 f3-l white-90 measure-wide-l center lh-copy mt3 mb0">
+          {{ . }}
+        </h2>
+      {{ end }}
+    </div>
+  </div>
+</header>
