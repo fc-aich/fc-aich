@@ -27,7 +27,7 @@ Nannhofer Str. 16
 ## Registereintrag
 
 Eintragung im Vereinsregister  
-Registergericht: Amtsgericht Fürstenfeldbruck  
+Registergericht: Amtsgericht München
 Registernummer: VR 40116
 
 ## Umsatzsteuer-Identifikationsnummer
