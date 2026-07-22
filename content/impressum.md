@@ -32,11 +32,11 @@ Registernummer: VR 40116
 
 ## Umsatzsteuer-Identifikationsnummer
 
-USt-IdNr. gemäß § 27 a Umsatzsteuergesetz: 1234567890
+USt-IdNr. gemäß § 27 a Umsatzsteuergesetz: nicht vorhanden
 
 ## Kontakt
 
-Telefon: 08141-123456789  
+Telefon: 08141-18080
 E-Mail: info@fc-aich.de
 
 ## Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV
