@@ -1,5 +1,5 @@
 ---
-title: "- E -"
+title: "E Jugend"
 featured_image: ""
 ---
 

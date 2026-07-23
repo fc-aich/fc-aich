@@ -1,5 +1,5 @@
 ---
-title: "- C -"
+title: "C Jugend"
 featured_image: ""
 ---
 

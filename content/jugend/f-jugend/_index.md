@@ -1,5 +1,5 @@
 ---
-title: "- F -"
+title: "F Jugend"
 featured_image: ""
 ---
 
