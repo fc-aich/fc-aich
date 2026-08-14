@@ -1,6 +1,6 @@
 ---
 title: BFV-Ferienfußballschule beim FC Aich
-date: 2026-08-14T14:41
+date: 2026-08-14T10:40
 categories:
   - allgemein
   - jugend
